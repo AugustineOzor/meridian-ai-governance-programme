@@ -1,0 +1,3378 @@
+date,user_id,department,domain,bytes_out,requests
+2026-07-01,E1005,HR,sharepoint.com,28331,21
+2026-07-01,E1101,Finance,www.bloomberg.com,81752,17
+2026-07-01,E1023,IT,www.linkedin.com,191220,1
+2026-07-01,E1117,Compliance,www.linkedin.com,335897,15
+2026-07-01,E1114,HR,www.bloomberg.com,220032,3
+2026-07-01,E1106,IT,api.openai.com,646674,23
+2026-07-01,E1026,Compliance,www.linkedin.com,103805,26
+2026-07-01,E1033,IT,api.openai.com,85074,2
+2026-07-01,E1094,SME Lending,gamma.app,52486,25
+2026-07-01,E1058,Operations,www.google.com,335509,33
+2026-07-01,E1082,Operations,www.linkedin.com,320179,31
+2026-07-01,E1076,IT,teams.microsoft.com,129300,36
+2026-07-01,E1105,Operations,gemini.google.com,292743,55
+2026-07-01,E1019,Operations,www.bloomberg.com,388184,35
+2026-07-01,E1011,SME Lending,www.bloomberg.com,215675,18
+2026-07-01,E1084,Compliance,sharepoint.com,131200,20
+2026-07-01,E1066,Compliance,sharepoint.com,197957,39
+2026-07-01,E1034,Operations,sharepoint.com,349820,38
+2026-07-01,E1094,SME Lending,gamma.app,738109,37
+2026-07-01,E1018,Finance,www.bbc.com,118604,2
+2026-07-01,E1029,SME Lending,www.google.com,288421,24
+2026-07-01,E1105,Operations,www.google.com,356760,28
+2026-07-01,E1103,Retail,gemini.google.com,298578,47
+2026-07-01,E1046,Operations,otter.ai,579086,60
+2026-07-01,E1067,IT,claude.ai,523546,48
+2026-07-01,E1024,Operations,www.google.com,372798,1
+2026-07-01,E1007,SME Lending,gamma.app,450377,6
+2026-07-01,E1084,Compliance,github.com,173714,3
+2026-07-01,E1076,IT,huggingface.co,275453,25
+2026-07-01,E1002,Operations,www.deepl.com,225788,31
+2026-07-01,E1010,Retail,www.bloomberg.com,4787,12
+2026-07-01,E1100,Marketing,www.bbc.com,78931,10
+2026-07-02,E1017,Compliance,github.com,101035,8
+2026-07-02,E1051,Operations,www.deepl.com,388839,13
+2026-07-02,E1038,Marketing,www.google.com,1048,34
+2026-07-02,E1111,Finance,copilot.microsoft.com,510149,9
+2026-07-02,E1056,IT,www.google.com,106752,34
+2026-07-02,E1094,SME Lending,sharepoint.com,228713,31
+2026-07-02,E1085,Operations,sharepoint.com,359068,36
+2026-07-02,E1068,Retail,www.qcb.gov.qa,246822,30
+2026-07-02,E1010,Retail,github.com,246829,9
+2026-07-02,E1014,Retail,github.com,91038,31
+2026-07-02,E1022,Marketing,github.com,354453,32
+2026-07-02,E1118,HR,teams.microsoft.com,333339,25
+2026-07-02,E1049,SME Lending,www.bbc.com,295077,39
+2026-07-02,E1076,IT,outlook.office365.com,118319,17
+2026-07-02,E1038,Marketing,www.bbc.com,94678,37
+2026-07-02,E1068,Retail,gemini.google.com,759537,10
+2026-07-02,E1033,IT,huggingface.co,276258,42
+2026-07-02,E1039,SME Lending,www.bbc.com,187986,19
+2026-07-02,E1047,SME Lending,gamma.app,826758,45
+2026-07-02,E1066,Compliance,www.linkedin.com,91086,21
+2026-07-02,E1101,Finance,www.bbc.com,56752,35
+2026-07-02,E1046,Operations,otter.ai,774399,22
+2026-07-02,E1085,Operations,sharepoint.com,356143,18
+2026-07-02,E1093,Retail,gemini.google.com,279304,35
+2026-07-02,E1012,Compliance,www.bbc.com,75775,20
+2026-07-02,E1000,SME Lending,www.linkedin.com,353691,12
+2026-07-02,E1096,HR,www.bloomberg.com,364415,27
+2026-07-02,E1076,IT,www.bbc.com,397635,20
+2026-07-02,E1047,SME Lending,sharepoint.com,63914,8
+2026-07-02,E1041,IT,www.google.com,88745,18
+2026-07-02,E1014,Retail,www.qcb.gov.qa,327602,36
+2026-07-03,E1115,SME Lending,gamma.app,403078,51
+2026-07-03,E1068,Retail,www.qcb.gov.qa,110189,37
+2026-07-03,E1024,Operations,outlook.office365.com,355810,1
+2026-07-03,E1009,Retail,www.bloomberg.com,254889,28
+2026-07-03,E1021,HR,github.com,283285,21
+2026-07-03,E1118,HR,www.bloomberg.com,252405,23
+2026-07-03,E1042,Compliance,sharepoint.com,320046,38
+2026-07-03,E1103,Retail,gemini.google.com,872357,43
+2026-07-03,E1029,SME Lending,sharepoint.com,324144,8
+2026-07-03,E1111,Finance,chatgpt.com,787408,35
+2026-07-03,E1069,Compliance,www.perplexity.ai,557134,47
+2026-07-03,E1100,Marketing,github.com,30007,6
+2026-07-03,E1042,Compliance,www.linkedin.com,363726,9
+2026-07-03,E1110,HR,www.linkedin.com,179235,28
+2026-07-03,E1062,HR,www.bbc.com,217921,5
+2026-07-03,E1028,SME Lending,sharepoint.com,308678,37
+2026-07-03,E1044,Retail,www.google.com,216881,8
+2026-07-03,E1041,IT,copilot.microsoft.com,892429,22
+2026-07-03,E1023,IT,www.google.com,66556,16
+2026-07-03,E1056,IT,huggingface.co,314856,30
+2026-07-03,E1021,HR,sharepoint.com,319236,7
+2026-07-03,E1104,SME Lending,github.com,365921,13
+2026-07-03,E1068,Retail,github.com,4065,26
+2026-07-03,E1051,Operations,www.deepl.com,132272,60
+2026-07-03,E1033,IT,claude.ai,484087,59
+2026-07-03,E1002,Operations,www.deepl.com,617895,5
+2026-07-03,E1028,SME Lending,github.com,13042,36
+2026-07-03,E1025,HR,chatgpt.com,99573,19
+2026-07-04,E1048,Compliance,www.bbc.com,365968,28
+2026-07-04,E1103,Retail,gemini.google.com,50225,21
+2026-07-04,E1002,Operations,otter.ai,773411,12
+2026-07-04,E1048,Compliance,www.linkedin.com,95144,29
+2026-07-04,E1096,HR,sharepoint.com,121067,22
+2026-07-04,E1046,Operations,otter.ai,151715,55
+2026-07-04,E1020,Retail,www.bloomberg.com,255311,33
+2026-07-04,E1105,Operations,www.deepl.com,246315,35
+2026-07-04,E1041,IT,api.openai.com,437050,4
+2026-07-04,E1092,SME Lending,outlook.office365.com,344618,32
+2026-07-04,E1103,Retail,www.linkedin.com,387633,15
+2026-07-04,E1068,Retail,www.linkedin.com,353118,29
+2026-07-04,E1036,Finance,outlook.office365.com,203671,4
+2026-07-04,E1015,Compliance,www.bloomberg.com,213107,32
+2026-07-04,E1062,HR,www.linkedin.com,75904,10
+2026-07-04,E1111,Finance,copilot.microsoft.com,508222,7
+2026-07-04,E1002,Operations,www.linkedin.com,284080,38
+2026-07-04,E1117,Compliance,copilot.microsoft.com,836541,49
+2026-07-04,E1109,Marketing,github.com,110696,31
+2026-07-04,E1056,IT,claude.ai,98214,48
+2026-07-04,E1005,HR,www.linkedin.com,105397,13
+2026-07-04,E1013,Compliance,outlook.office365.com,200685,10
+2026-07-04,E1086,Marketing,github.com,94897,25
+2026-07-04,E1015,Compliance,www.qcb.gov.qa,244733,8
+2026-07-04,E1080,Finance,outlook.office365.com,306078,38
+2026-07-04,E1104,SME Lending,chatgpt.com,520317,55
+2026-07-04,E1006,SME Lending,www.google.com,209148,34
+2026-07-04,E1016,Marketing,chatgpt.com,329110,37
+2026-07-04,E1023,IT,teams.microsoft.com,321854,40
+2026-07-04,E1011,SME Lending,www.bbc.com,230334,1
+2026-07-04,E1087,Marketing,teams.microsoft.com,189356,6
+2026-07-04,E1057,Compliance,teams.microsoft.com,94783,30
+2026-07-04,E1077,Compliance,www.bbc.com,281994,2
+2026-07-05,E1026,Compliance,www.qcb.gov.qa,241841,25
+2026-07-05,E1097,Marketing,github.com,226656,8
+2026-07-05,E1017,Compliance,www.bloomberg.com,102236,2
+2026-07-05,E1070,Retail,gemini.google.com,478919,6
+2026-07-05,E1100,Marketing,www.linkedin.com,73946,10
+2026-07-05,E1117,Compliance,www.linkedin.com,198863,21
+2026-07-05,E1046,Operations,otter.ai,878822,26
+2026-07-05,E1000,SME Lending,teams.microsoft.com,150150,39
+2026-07-05,E1021,HR,otter.ai,11717,20
+2026-07-05,E1100,Marketing,www.qcb.gov.qa,106957,6
+2026-07-05,E1088,IT,www.bloomberg.com,313618,12
+2026-07-05,E1103,Retail,www.bbc.com,351072,19
+2026-07-05,E1054,HR,copilot.microsoft.com,831130,24
+2026-07-05,E1030,Marketing,sharepoint.com,99604,10
+2026-07-05,E1052,Finance,sharepoint.com,66262,25
+2026-07-05,E1060,HR,www.linkedin.com,392379,11
+2026-07-05,E1089,Compliance,www.google.com,174145,6
+2026-07-05,E1031,SME Lending,sharepoint.com,63286,16
+2026-07-05,E1099,Marketing,gamma.app,311234,2
+2026-07-05,E1076,IT,www.google.com,279622,33
+2026-07-05,E1031,SME Lending,outlook.office365.com,240310,4
+2026-07-05,E1004,Compliance,www.qcb.gov.qa,298874,31
+2026-07-05,E1021,HR,www.qcb.gov.qa,365406,39
+2026-07-05,E1105,Operations,sharepoint.com,243775,40
+2026-07-05,E1111,Finance,www.bbc.com,153106,11
+2026-07-05,E1013,Compliance,www.bloomberg.com,39230,5
+2026-07-05,E1060,HR,otter.ai,602383,45
+2026-07-05,E1119,IT,www.bloomberg.com,349444,25
+2026-07-05,E1105,Operations,otter.ai,134361,5
+2026-07-05,E1049,SME Lending,outlook.office365.com,306672,37
+2026-07-05,E1115,SME Lending,sharepoint.com,85049,13
+2026-07-06,E1015,Compliance,sharepoint.com,68536,37
+2026-07-06,E1105,Operations,www.bbc.com,54904,35
+2026-07-06,E1010,Retail,copilot.microsoft.com,851541,46
+2026-07-06,E1090,HR,github.com,3810,17
+2026-07-06,E1031,SME Lending,outlook.office365.com,358853,21
+2026-07-06,E1056,IT,teams.microsoft.com,123415,13
+2026-07-06,E1039,SME Lending,www.qcb.gov.qa,361213,39
+2026-07-06,E1117,Compliance,www.linkedin.com,323976,38
+2026-07-06,E1071,IT,www.bloomberg.com,44121,21
+2026-07-06,E1008,Marketing,outlook.office365.com,157343,19
+2026-07-06,E1079,Marketing,www.bloomberg.com,192664,24
+2026-07-06,E1015,Compliance,outlook.office365.com,3637,37
+2026-07-06,E1066,Compliance,www.deepl.com,422400,5
+2026-07-06,E1027,IT,claude.ai,473579,59
+2026-07-06,E1047,SME Lending,sharepoint.com,36300,14
+2026-07-06,E1054,HR,otter.ai,422040,4
+2026-07-06,E1040,Operations,github.com,68041,32
+2026-07-06,E1106,IT,claude.ai,233230,26
+2026-07-06,E1102,Operations,www.linkedin.com,32714,9
+2026-07-06,E1093,Retail,gemini.google.com,335632,48
+2026-07-06,E1115,SME Lending,www.bloomberg.com,74097,36
+2026-07-06,E1072,Marketing,www.bbc.com,296561,31
+2026-07-06,E1052,Finance,www.qcb.gov.qa,176003,23
+2026-07-06,E1113,Operations,www.qcb.gov.qa,55055,34
+2026-07-06,E1001,Retail,www.google.com,305651,31
+2026-07-06,E1097,Marketing,www.linkedin.com,379127,15
+2026-07-06,E1100,Marketing,www.bloomberg.com,213602,8
+2026-07-06,E1011,SME Lending,github.com,270138,22
+2026-07-06,E1089,Compliance,www.linkedin.com,126669,11
+2026-07-06,E1025,HR,chatgpt.com,366069,35
+2026-07-06,E1105,Operations,teams.microsoft.com,129828,34
+2026-07-06,E1020,Retail,outlook.office365.com,288382,32
+2026-07-06,E1101,Finance,sharepoint.com,51773,14
+2026-07-06,E1037,SME Lending,sharepoint.com,297838,4
+2026-07-06,E1058,Operations,www.linkedin.com,261010,15
+2026-07-06,E1056,IT,outlook.office365.com,34206,17
+2026-07-07,E1109,Marketing,www.linkedin.com,222281,23
+2026-07-07,E1019,Operations,teams.microsoft.com,354178,26
+2026-07-07,E1094,SME Lending,github.com,36771,32
+2026-07-07,E1077,Compliance,www.perplexity.ai,283502,25
+2026-07-07,E1043,SME Lending,www.linkedin.com,175896,34
+2026-07-07,E1034,Operations,teams.microsoft.com,244773,1
+2026-07-07,E1007,SME Lending,github.com,175515,16
+2026-07-07,E1117,Compliance,teams.microsoft.com,362734,34
+2026-07-07,E1033,IT,github.com,156881,37
+2026-07-07,E1072,Marketing,gamma.app,178149,60
+2026-07-07,E1033,IT,claude.ai,303601,39
+2026-07-07,E1067,IT,api.openai.com,252021,27
+2026-07-07,E1110,HR,sharepoint.com,200414,27
+2026-07-07,E1073,Operations,www.linkedin.com,299972,34
+2026-07-07,E1111,Finance,sharepoint.com,337809,16
+2026-07-07,E1095,HR,teams.microsoft.com,288389,26
+2026-07-07,E1027,IT,www.bbc.com,111883,2
+2026-07-07,E1094,SME Lending,www.bloomberg.com,282731,12
+2026-07-07,E1079,Marketing,outlook.office365.com,312387,4
+2026-07-07,E1035,Retail,www.bloomberg.com,102564,8
+2026-07-07,E1067,IT,outlook.office365.com,291049,28
+2026-07-07,E1110,HR,github.com,338454,19
+2026-07-07,E1051,Operations,gemini.google.com,637863,48
+2026-07-07,E1046,Operations,outlook.office365.com,117873,30
+2026-07-07,E1019,Operations,www.google.com,281478,2
+2026-07-07,E1041,IT,api.openai.com,674324,31
+2026-07-07,E1070,Retail,outlook.office365.com,7797,17
+2026-07-07,E1020,Retail,chatgpt.com,582238,19
+2026-07-07,E1054,HR,otter.ai,54995,19
+2026-07-07,E1002,Operations,otter.ai,306309,25
+2026-07-07,E1014,Retail,teams.microsoft.com,128427,40
+2026-07-07,E1041,IT,api.openai.com,689584,22
+2026-07-07,E1060,HR,otter.ai,613868,31
+2026-07-07,E1047,SME Lending,www.bbc.com,368736,7
+2026-07-07,E1049,SME Lending,www.qcb.gov.qa,46151,28
+2026-07-07,E1005,HR,www.bbc.com,165930,6
+2026-07-08,E1033,IT,www.qcb.gov.qa,330934,31
+2026-07-08,E1099,Marketing,teams.microsoft.com,176316,23
+2026-07-08,E1008,Marketing,gamma.app,160471,49
+2026-07-08,E1084,Compliance,www.deepl.com,258355,6
+2026-07-08,E1051,Operations,www.bloomberg.com,332492,6
+2026-07-08,E1057,Compliance,www.deepl.com,326314,43
+2026-07-08,E1103,Retail,copilot.microsoft.com,599766,23
+2026-07-08,E1118,HR,sharepoint.com,51356,23
+2026-07-08,E1091,Finance,www.linkedin.com,157250,25
+2026-07-08,E1018,Finance,outlook.office365.com,363070,19
+2026-07-08,E1076,IT,claude.ai,474407,7
+2026-07-08,E1027,IT,claude.ai,616953,36
+2026-07-08,E1041,IT,github.com,390965,5
+2026-07-08,E1055,IT,www.linkedin.com,207184,3
+2026-07-08,E1076,IT,huggingface.co,148942,33
+2026-07-08,E1041,IT,huggingface.co,585761,38
+2026-07-08,E1015,Compliance,www.perplexity.ai,591704,27
+2026-07-08,E1018,Finance,teams.microsoft.com,343505,23
+2026-07-08,E1115,SME Lending,outlook.office365.com,315590,26
+2026-07-08,E1117,Compliance,claude.ai,10060,14
+2026-07-08,E1039,SME Lending,sharepoint.com,310361,35
+2026-07-08,E1056,IT,huggingface.co,477458,9
+2026-07-08,E1089,Compliance,sharepoint.com,342262,25
+2026-07-08,E1066,Compliance,www.perplexity.ai,649847,41
+2026-07-08,E1100,Marketing,gamma.app,803164,15
+2026-07-08,E1105,Operations,otter.ai,742058,9
+2026-07-08,E1073,Operations,sharepoint.com,45346,19
+2026-07-09,E1070,Retail,github.com,141429,27
+2026-07-09,E1062,HR,sharepoint.com,273053,38
+2026-07-09,E1018,Finance,www.bbc.com,144605,26
+2026-07-09,E1117,Compliance,www.deepl.com,836328,35
+2026-07-09,E1041,IT,sharepoint.com,375220,35
+2026-07-09,E1103,Retail,www.linkedin.com,178070,28
+2026-07-09,E1052,Finance,sharepoint.com,173678,6
+2026-07-09,E1051,Operations,www.qcb.gov.qa,314660,7
+2026-07-09,E1033,IT,claude.ai,150766,48
+2026-07-09,E1061,Compliance,outlook.office365.com,177309,18
+2026-07-09,E1047,SME Lending,chatgpt.com,422172,32
+2026-07-09,E1080,Finance,outlook.office365.com,111510,14
+2026-07-09,E1109,Marketing,www.google.com,96633,9
+2026-07-09,E1012,Compliance,www.google.com,249085,36
+2026-07-09,E1061,Compliance,www.linkedin.com,204944,14
+2026-07-09,E1024,Operations,www.bbc.com,76247,5
+2026-07-09,E1002,Operations,otter.ai,326314,26
+2026-07-09,E1057,Compliance,www.linkedin.com,210315,39
+2026-07-09,E1085,Operations,www.linkedin.com,366976,14
+2026-07-09,E1049,SME Lending,www.bloomberg.com,284404,20
+2026-07-09,E1106,IT,www.bloomberg.com,7271,27
+2026-07-09,E1014,Retail,gemini.google.com,291666,50
+2026-07-09,E1003,Compliance,www.qcb.gov.qa,250212,8
+2026-07-09,E1028,SME Lending,www.bloomberg.com,107242,28
+2026-07-09,E1051,Operations,gemini.google.com,668269,53
+2026-07-09,E1035,Retail,sharepoint.com,180386,2
+2026-07-09,E1094,SME Lending,gamma.app,93254,25
+2026-07-09,E1064,Marketing,github.com,185474,27
+2026-07-09,E1041,IT,www.google.com,346133,35
+2026-07-09,E1110,HR,github.com,333360,14
+2026-07-09,E1097,Marketing,gamma.app,209356,58
+2026-07-09,E1016,Marketing,www.linkedin.com,67810,17
+2026-07-09,E1032,IT,www.qcb.gov.qa,162361,20
+2026-07-09,E1077,Compliance,www.perplexity.ai,743521,10
+2026-07-09,E1041,IT,api.openai.com,553613,35
+2026-07-09,E1077,Compliance,claude.ai,97656,54
+2026-07-09,E1005,HR,www.bloomberg.com,159149,1
+2026-07-09,E1020,Retail,www.bbc.com,147862,37
+2026-07-09,E1100,Marketing,www.linkedin.com,180071,13
+2026-07-10,E1015,Compliance,www.linkedin.com,189867,3
+2026-07-10,E1011,SME Lending,www.bbc.com,260126,24
+2026-07-10,E1041,IT,huggingface.co,593573,8
+2026-07-10,E1054,HR,sharepoint.com,289279,17
+2026-07-10,E1062,HR,otter.ai,705787,41
+2026-07-10,E1069,Compliance,www.perplexity.ai,199303,52
+2026-07-10,E1057,Compliance,www.perplexity.ai,315814,11
+2026-07-10,E1050,Marketing,sharepoint.com,277742,19
+2026-07-10,E1047,SME Lending,sharepoint.com,397045,7
+2026-07-10,E1021,HR,otter.ai,407116,33
+2026-07-10,E1005,HR,teams.microsoft.com,160333,5
+2026-07-10,E1103,Retail,chatgpt.com,622859,45
+2026-07-10,E1051,Operations,www.google.com,42477,11
+2026-07-10,E1117,Compliance,github.com,130057,32
+2026-07-10,E1093,Retail,outlook.office365.com,10767,33
+2026-07-10,E1093,Retail,chatgpt.com,722775,15
+2026-07-10,E1081,HR,www.bloomberg.com,270414,13
+2026-07-10,E1082,Operations,outlook.office365.com,392585,10
+2026-07-10,E1094,SME Lending,gamma.app,575619,58
+2026-07-10,E1117,Compliance,www.bloomberg.com,62113,9
+2026-07-10,E1032,IT,github.com,50953,36
+2026-07-10,E1068,Retail,chatgpt.com,166136,1
+2026-07-10,E1079,Marketing,outlook.office365.com,248579,13
+2026-07-10,E1068,Retail,gemini.google.com,86714,21
+2026-07-10,E1014,Retail,www.bloomberg.com,124364,29
+2026-07-10,E1051,Operations,www.deepl.com,242068,25
+2026-07-10,E1025,HR,www.bbc.com,379915,38
+2026-07-10,E1014,Retail,gemini.google.com,465187,23
+2026-07-10,E1031,SME Lending,www.bbc.com,7541,37
+2026-07-10,E1020,Retail,www.bloomberg.com,146378,4
+2026-07-10,E1029,SME Lending,www.google.com,270767,18
+2026-07-10,E1084,Compliance,www.deepl.com,214559,9
+2026-07-10,E1077,Compliance,www.bbc.com,364030,30
+2026-07-10,E1077,Compliance,www.deepl.com,601298,24
+2026-07-10,E1001,Retail,www.qcb.gov.qa,340942,2
+2026-07-10,E1097,Marketing,github.com,347596,34
+2026-07-11,E1075,Compliance,github.com,361705,5
+2026-07-11,E1035,Retail,github.com,258788,31
+2026-07-11,E1106,IT,api.openai.com,395124,15
+2026-07-11,E1101,Finance,sharepoint.com,183627,28
+2026-07-11,E1030,Marketing,gamma.app,415982,58
+2026-07-11,E1035,Retail,www.bbc.com,76376,2
+2026-07-11,E1025,HR,otter.ai,453524,39
+2026-07-11,E1017,Compliance,www.qcb.gov.qa,72942,27
+2026-07-11,E1062,HR,otter.ai,49670,42
+2026-07-11,E1097,Marketing,www.google.com,55488,17
+2026-07-11,E1021,HR,otter.ai,264778,13
+2026-07-11,E1097,Marketing,chatgpt.com,675971,28
+2026-07-11,E1054,HR,sharepoint.com,398860,20
+2026-07-11,E1104,SME Lending,gamma.app,718308,28
+2026-07-11,E1118,HR,www.bbc.com,23726,39
+2026-07-11,E1045,Compliance,www.linkedin.com,155412,33
+2026-07-11,E1065,Operations,outlook.office365.com,51308,11
+2026-07-11,E1113,Operations,www.google.com,200790,40
+2026-07-11,E1037,SME Lending,sharepoint.com,199038,8
+2026-07-11,E1118,HR,teams.microsoft.com,246397,4
+2026-07-11,E1002,Operations,otter.ai,345848,43
+2026-07-11,E1099,Marketing,outlook.office365.com,256632,22
+2026-07-11,E1057,Compliance,www.perplexity.ai,811676,40
+2026-07-11,E1043,SME Lending,teams.microsoft.com,250484,37
+2026-07-11,E1025,HR,sharepoint.com,278398,33
+2026-07-11,E1025,HR,github.com,218315,24
+2026-07-11,E1077,Compliance,www.deepl.com,391906,43
+2026-07-11,E1015,Compliance,www.deepl.com,262221,36
+2026-07-11,E1117,Compliance,claude.ai,57164,10
+2026-07-11,E1033,IT,teams.microsoft.com,209942,33
+2026-07-11,E1074,SME Lending,github.com,264949,2
+2026-07-11,E1077,Compliance,www.deepl.com,538141,59
+2026-07-12,E1038,Marketing,www.linkedin.com,208253,8
+2026-07-12,E1084,Compliance,claude.ai,459925,55
+2026-07-12,E1004,Compliance,outlook.office365.com,39403,4
+2026-07-12,E1083,HR,outlook.office365.com,117524,23
+2026-07-12,E1068,Retail,gemini.google.com,696963,14
+2026-07-12,E1077,Compliance,www.deepl.com,688385,24
+2026-07-12,E1014,Retail,gemini.google.com,311445,21
+2026-07-12,E1096,HR,sharepoint.com,58291,37
+2026-07-12,E1062,HR,outlook.office365.com,68845,40
+2026-07-12,E1029,SME Lending,www.google.com,80001,1
+2026-07-12,E1106,IT,huggingface.co,537167,29
+2026-07-12,E1111,Finance,www.perplexity.ai,7447,20
+2026-07-12,E1062,HR,otter.ai,685984,37
+2026-07-12,E1118,HR,www.bloomberg.com,371535,38
+2026-07-12,E1085,Operations,outlook.office365.com,58897,37
+2026-07-12,E1111,Finance,www.qcb.gov.qa,175739,30
+2026-07-12,E1034,Operations,outlook.office365.com,196361,22
+2026-07-12,E1018,Finance,www.bbc.com,170373,9
+2026-07-12,E1089,Compliance,www.bbc.com,124308,24
+2026-07-12,E1079,Marketing,www.bloomberg.com,30822,39
+2026-07-12,E1016,Marketing,sharepoint.com,92056,38
+2026-07-12,E1102,Operations,www.google.com,77193,31
+2026-07-12,E1062,HR,otter.ai,414344,33
+2026-07-12,E1081,HR,sharepoint.com,161254,27
+2026-07-12,E1093,Retail,gemini.google.com,237615,54
+2026-07-12,E1020,Retail,www.google.com,145670,26
+2026-07-12,E1098,SME Lending,sharepoint.com,338849,25
+2026-07-12,E1070,Retail,www.bbc.com,262573,7
+2026-07-12,E1067,IT,claude.ai,454855,7
+2026-07-12,E1063,Finance,www.google.com,360632,40
+2026-07-12,E1063,Finance,github.com,125820,39
+2026-07-12,E1024,Operations,www.linkedin.com,322620,20
+2026-07-12,E1098,SME Lending,www.google.com,131402,11
+2026-07-12,E1069,Compliance,www.perplexity.ai,426965,25
+2026-07-12,E1039,SME Lending,chatgpt.com,294477,57
+2026-07-12,E1117,Compliance,teams.microsoft.com,26706,7
+2026-07-12,E1098,SME Lending,www.linkedin.com,81859,20
+2026-07-12,E1049,SME Lending,sharepoint.com,56766,9
+2026-07-12,E1116,Operations,github.com,243443,13
+2026-07-12,E1029,SME Lending,www.google.com,232662,20
+2026-07-12,E1068,Retail,teams.microsoft.com,98736,13
+2026-07-12,E1015,Compliance,claude.ai,646883,39
+2026-07-13,E1086,Marketing,sharepoint.com,5984,4
+2026-07-13,E1056,IT,api.openai.com,534351,50
+2026-07-13,E1058,Operations,www.linkedin.com,77836,28
+2026-07-13,E1062,HR,otter.ai,435377,22
+2026-07-13,E1001,Retail,sharepoint.com,226865,32
+2026-07-13,E1006,SME Lending,outlook.office365.com,92594,3
+2026-07-13,E1104,SME Lending,www.google.com,378914,18
+2026-07-13,E1093,Retail,gemini.google.com,799305,41
+2026-07-13,E1069,Compliance,www.deepl.com,658596,51
+2026-07-13,E1105,Operations,www.bloomberg.com,240172,40
+2026-07-13,E1050,Marketing,sharepoint.com,69629,21
+2026-07-13,E1104,SME Lending,teams.microsoft.com,313072,20
+2026-07-13,E1052,Finance,github.com,244613,37
+2026-07-13,E1032,IT,outlook.office365.com,104503,38
+2026-07-13,E1028,SME Lending,sharepoint.com,349184,11
+2026-07-13,E1069,Compliance,www.perplexity.ai,460320,15
+2026-07-13,E1077,Compliance,sharepoint.com,26146,11
+2026-07-13,E1112,Retail,github.com,85066,17
+2026-07-13,E1010,Retail,gemini.google.com,720987,24
+2026-07-13,E1115,SME Lending,gamma.app,112766,37
+2026-07-13,E1105,Operations,otter.ai,716281,50
+2026-07-13,E1118,HR,www.bbc.com,46938,7
+2026-07-13,E1094,SME Lending,chatgpt.com,801787,14
+2026-07-13,E1051,Operations,gemini.google.com,659937,42
+2026-07-13,E1096,HR,www.bloomberg.com,65903,39
+2026-07-13,E1115,SME Lending,gamma.app,825914,19
+2026-07-13,E1088,IT,sharepoint.com,348402,3
+2026-07-13,E1014,Retail,www.linkedin.com,285048,11
+2026-07-13,E1086,Marketing,github.com,173311,2
+2026-07-13,E1077,Compliance,www.bbc.com,199115,25
+2026-07-13,E1050,Marketing,www.google.com,363043,11
+2026-07-14,E1101,Finance,www.google.com,66969,32
+2026-07-14,E1065,Operations,sharepoint.com,172516,21
+2026-07-14,E1066,Compliance,teams.microsoft.com,237773,30
+2026-07-14,E1065,Operations,www.qcb.gov.qa,109306,35
+2026-07-14,E1113,Operations,teams.microsoft.com,88456,12
+2026-07-14,E1084,Compliance,copilot.microsoft.com,773740,54
+2026-07-14,E1025,HR,www.google.com,255473,13
+2026-07-14,E1057,Compliance,www.perplexity.ai,29537,6
+2026-07-14,E1019,Operations,www.google.com,63850,6
+2026-07-14,E1015,Compliance,www.perplexity.ai,144071,20
+2026-07-14,E1074,SME Lending,outlook.office365.com,4852,33
+2026-07-14,E1065,Operations,github.com,268728,28
+2026-07-14,E1064,Marketing,www.google.com,293883,5
+2026-07-14,E1077,Compliance,www.deepl.com,217161,34
+2026-07-14,E1031,SME Lending,www.linkedin.com,249290,16
+2026-07-14,E1023,IT,www.google.com,148909,18
+2026-07-14,E1086,Marketing,github.com,208811,29
+2026-07-14,E1056,IT,copilot.microsoft.com,712032,52
+2026-07-14,E1024,Operations,www.linkedin.com,54838,1
+2026-07-14,E1106,IT,outlook.office365.com,269217,40
+2026-07-14,E1084,Compliance,outlook.office365.com,343657,2
+2026-07-14,E1000,SME Lending,copilot.microsoft.com,808306,16
+2026-07-14,E1001,Retail,github.com,331516,28
+2026-07-14,E1002,Operations,www.deepl.com,110214,21
+2026-07-14,E1050,Marketing,www.bbc.com,306999,38
+2026-07-14,E1041,IT,claude.ai,155557,17
+2026-07-14,E1109,Marketing,www.bbc.com,153389,25
+2026-07-14,E1028,SME Lending,sharepoint.com,208257,1
+2026-07-14,E1090,HR,sharepoint.com,368601,33
+2026-07-14,E1023,IT,www.bbc.com,209113,28
+2026-07-14,E1069,Compliance,www.bbc.com,35246,14
+2026-07-14,E1037,SME Lending,www.bbc.com,269195,27
+2026-07-14,E1027,IT,api.openai.com,810977,38
+2026-07-15,E1036,Finance,www.bbc.com,82729,4
+2026-07-15,E1027,IT,huggingface.co,35782,52
+2026-07-15,E1096,HR,www.qcb.gov.qa,28537,11
+2026-07-15,E1105,Operations,www.deepl.com,477394,40
+2026-07-15,E1089,Compliance,github.com,166931,35
+2026-07-15,E1064,Marketing,www.linkedin.com,384771,4
+2026-07-15,E1027,IT,claude.ai,363939,28
+2026-07-15,E1092,SME Lending,www.google.com,253453,31
+2026-07-15,E1014,Retail,gemini.google.com,695169,56
+2026-07-15,E1002,Operations,www.bbc.com,8105,3
+2026-07-15,E1049,SME Lending,www.linkedin.com,142184,4
+2026-07-15,E1060,HR,otter.ai,348747,11
+2026-07-15,E1010,Retail,gemini.google.com,493081,5
+2026-07-15,E1035,Retail,sharepoint.com,139165,16
+2026-07-15,E1016,Marketing,sharepoint.com,57559,2
+2026-07-15,E1023,IT,outlook.office365.com,211122,26
+2026-07-15,E1054,HR,outlook.office365.com,50806,3
+2026-07-15,E1083,HR,www.linkedin.com,178410,14
+2026-07-15,E1093,Retail,gemini.google.com,148566,3
+2026-07-15,E1048,Compliance,outlook.office365.com,203310,17
+2026-07-15,E1076,IT,www.qcb.gov.qa,395023,20
+2026-07-15,E1011,SME Lending,teams.microsoft.com,353189,27
+2026-07-15,E1000,SME Lending,gamma.app,889599,34
+2026-07-15,E1055,IT,github.com,260475,3
+2026-07-15,E1038,Marketing,sharepoint.com,142162,24
+2026-07-15,E1010,Retail,copilot.microsoft.com,193936,24
+2026-07-15,E1104,SME Lending,gamma.app,436574,10
+2026-07-15,E1089,Compliance,www.bloomberg.com,219809,30
+2026-07-15,E1099,Marketing,www.bloomberg.com,171987,15
+2026-07-15,E1117,Compliance,copilot.microsoft.com,282901,50
+2026-07-15,E1037,SME Lending,www.google.com,334915,30
+2026-07-15,E1063,Finance,www.bloomberg.com,202736,19
+2026-07-15,E1062,HR,github.com,299243,32
+2026-07-15,E1090,HR,outlook.office365.com,399865,23
+2026-07-16,E1035,Retail,www.linkedin.com,357606,34
+2026-07-16,E1108,Operations,sharepoint.com,153077,20
+2026-07-16,E1088,IT,www.bloomberg.com,196665,33
+2026-07-16,E1068,Retail,gemini.google.com,32271,41
+2026-07-16,E1041,IT,api.openai.com,840171,24
+2026-07-16,E1027,IT,huggingface.co,490002,20
+2026-07-16,E1059,SME Lending,outlook.office365.com,247696,4
+2026-07-16,E1064,Marketing,outlook.office365.com,357881,25
+2026-07-16,E1077,Compliance,www.deepl.com,810903,58
+2026-07-16,E1051,Operations,otter.ai,276492,50
+2026-07-16,E1096,HR,www.google.com,49858,31
+2026-07-16,E1003,Compliance,www.bloomberg.com,146341,32
+2026-07-16,E1086,Marketing,www.linkedin.com,186070,25
+2026-07-16,E1074,SME Lending,www.google.com,208517,16
+2026-07-16,E1086,Marketing,outlook.office365.com,281407,1
+2026-07-16,E1088,IT,sharepoint.com,144367,37
+2026-07-16,E1062,HR,otter.ai,545269,10
+2026-07-16,E1010,Retail,sharepoint.com,266367,20
+2026-07-16,E1089,Compliance,sharepoint.com,213583,1
+2026-07-16,E1024,Operations,outlook.office365.com,206990,14
+2026-07-16,E1045,Compliance,www.linkedin.com,26025,8
+2026-07-16,E1105,Operations,www.linkedin.com,28199,13
+2026-07-16,E1090,HR,www.bloomberg.com,46291,39
+2026-07-16,E1010,Retail,sharepoint.com,257491,33
+2026-07-16,E1094,SME Lending,chatgpt.com,836904,37
+2026-07-16,E1013,Compliance,sharepoint.com,93133,34
+2026-07-16,E1077,Compliance,www.perplexity.ai,785159,49
+2026-07-16,E1056,IT,api.openai.com,300910,6
+2026-07-16,E1074,SME Lending,www.linkedin.com,45844,4
+2026-07-16,E1003,Compliance,www.bloomberg.com,117579,9
+2026-07-16,E1091,Finance,teams.microsoft.com,48810,8
+2026-07-17,E1098,SME Lending,sharepoint.com,174650,24
+2026-07-17,E1056,IT,copilot.microsoft.com,737499,56
+2026-07-17,E1116,Operations,outlook.office365.com,340409,12
+2026-07-17,E1106,IT,www.google.com,94658,3
+2026-07-17,E1117,Compliance,www.deepl.com,407629,56
+2026-07-17,E1039,SME Lending,www.bloomberg.com,111017,9
+2026-07-17,E1027,IT,www.bloomberg.com,188907,19
+2026-07-17,E1020,Retail,gemini.google.com,17582,23
+2026-07-17,E1002,Operations,otter.ai,103377,26
+2026-07-17,E1111,Finance,www.linkedin.com,267479,38
+2026-07-17,E1035,Retail,sharepoint.com,383260,40
+2026-07-17,E1057,Compliance,www.bbc.com,333552,29
+2026-07-17,E1039,SME Lending,outlook.office365.com,54848,25
+2026-07-17,E1051,Operations,otter.ai,643674,57
+2026-07-17,E1119,IT,www.bloomberg.com,249462,23
+2026-07-17,E1004,Compliance,sharepoint.com,262056,6
+2026-07-17,E1032,IT,www.qcb.gov.qa,323855,18
+2026-07-17,E1005,HR,www.google.com,301672,38
+2026-07-17,E1021,HR,chatgpt.com,670854,56
+2026-07-17,E1014,Retail,www.linkedin.com,282255,27
+2026-07-17,E1033,IT,outlook.office365.com,85373,38
+2026-07-17,E1022,Marketing,outlook.office365.com,55292,25
+2026-07-17,E1111,Finance,www.perplexity.ai,93537,12
+2026-07-17,E1014,Retail,gemini.google.com,568456,17
+2026-07-17,E1014,Retail,outlook.office365.com,365993,4
+2026-07-17,E1002,Operations,www.deepl.com,624518,15
+2026-07-17,E1054,HR,www.bbc.com,334590,25
+2026-07-17,E1006,SME Lending,www.qcb.gov.qa,16200,31
+2026-07-17,E1111,Finance,www.linkedin.com,161207,1
+2026-07-17,E1088,IT,www.bloomberg.com,109087,10
+2026-07-17,E1028,SME Lending,outlook.office365.com,111724,2
+2026-07-17,E1115,SME Lending,teams.microsoft.com,107352,1
+2026-07-17,E1015,Compliance,sharepoint.com,211387,3
+2026-07-17,E1046,Operations,otter.ai,455633,33
+2026-07-17,E1048,Compliance,github.com,227129,14
+2026-07-17,E1084,Compliance,www.google.com,317394,35
+2026-07-18,E1033,IT,sharepoint.com,215089,40
+2026-07-18,E1005,HR,www.bloomberg.com,53411,40
+2026-07-18,E1054,HR,www.google.com,134440,31
+2026-07-18,E1051,Operations,copilot.microsoft.com,824974,14
+2026-07-18,E1046,Operations,sharepoint.com,270318,23
+2026-07-18,E1002,Operations,www.deepl.com,790996,8
+2026-07-18,E1092,SME Lending,www.google.com,132437,3
+2026-07-18,E1106,IT,www.linkedin.com,381147,36
+2026-07-18,E1051,Operations,otter.ai,345897,60
+2026-07-18,E1064,Marketing,www.google.com,231633,11
+2026-07-18,E1050,Marketing,github.com,124753,8
+2026-07-18,E1056,IT,sharepoint.com,303551,32
+2026-07-18,E1099,Marketing,gamma.app,129352,1
+2026-07-18,E1086,Marketing,www.linkedin.com,375525,25
+2026-07-18,E1021,HR,otter.ai,116532,40
+2026-07-18,E1117,Compliance,www.deepl.com,261822,18
+2026-07-18,E1064,Marketing,outlook.office365.com,262529,1
+2026-07-18,E1007,SME Lending,sharepoint.com,197358,32
+2026-07-18,E1111,Finance,github.com,137671,12
+2026-07-18,E1020,Retail,www.google.com,331060,33
+2026-07-18,E1103,Retail,outlook.office365.com,73446,27
+2026-07-18,E1055,IT,github.com,164818,25
+2026-07-18,E1060,HR,www.bbc.com,393223,34
+2026-07-18,E1002,Operations,otter.ai,896253,5
+2026-07-18,E1010,Retail,www.linkedin.com,395066,6
+2026-07-18,E1001,Retail,outlook.office365.com,348789,11
+2026-07-18,E1035,Retail,www.bloomberg.com,59253,30
+2026-07-18,E1060,HR,teams.microsoft.com,64975,18
+2026-07-18,E1025,HR,www.bbc.com,252881,37
+2026-07-18,E1083,HR,teams.microsoft.com,305627,35
+2026-07-18,E1104,SME Lending,www.linkedin.com,65478,13
+2026-07-18,E1062,HR,otter.ai,750255,22
+2026-07-18,E1076,IT,api.openai.com,42163,19
+2026-07-18,E1080,Finance,github.com,16583,7
+2026-07-18,E1057,Compliance,www.perplexity.ai,830897,45
+2026-07-18,E1104,SME Lending,www.google.com,181294,19
+2026-07-18,E1056,IT,www.google.com,366755,35
+2026-07-18,E1090,HR,sharepoint.com,104819,32
+2026-07-19,E1118,HR,teams.microsoft.com,151829,1
+2026-07-19,E1111,Finance,teams.microsoft.com,94777,4
+2026-07-19,E1036,Finance,www.linkedin.com,96771,17
+2026-07-19,E1115,SME Lending,teams.microsoft.com,244048,29
+2026-07-19,E1015,Compliance,copilot.microsoft.com,537638,25
+2026-07-19,E1081,HR,outlook.office365.com,157267,24
+2026-07-19,E1030,Marketing,chatgpt.com,76878,4
+2026-07-19,E1100,Marketing,www.linkedin.com,196719,35
+2026-07-19,E1056,IT,claude.ai,368813,20
+2026-07-19,E1033,IT,api.openai.com,873415,28
+2026-07-19,E1004,Compliance,teams.microsoft.com,18003,37
+2026-07-19,E1077,Compliance,www.perplexity.ai,19007,17
+2026-07-19,E1055,IT,teams.microsoft.com,345054,37
+2026-07-19,E1036,Finance,sharepoint.com,392674,3
+2026-07-19,E1037,SME Lending,sharepoint.com,110977,14
+2026-07-19,E1105,Operations,www.bloomberg.com,7762,9
+2026-07-19,E1083,HR,github.com,341650,16
+2026-07-19,E1108,Operations,github.com,65830,23
+2026-07-19,E1010,Retail,www.qcb.gov.qa,313236,10
+2026-07-19,E1035,Retail,github.com,191315,31
+2026-07-19,E1089,Compliance,www.bloomberg.com,261219,10
+2026-07-19,E1015,Compliance,www.linkedin.com,69574,13
+2026-07-19,E1040,Operations,www.bbc.com,205786,29
+2026-07-19,E1047,SME Lending,www.bbc.com,252137,6
+2026-07-19,E1107,SME Lending,www.google.com,30380,18
+2026-07-19,E1014,Retail,www.linkedin.com,153345,29
+2026-07-19,E1098,SME Lending,www.bloomberg.com,241145,21
+2026-07-19,E1015,Compliance,github.com,207994,26
+2026-07-19,E1076,IT,claude.ai,595830,43
+2026-07-19,E1054,HR,otter.ai,306561,3
+2026-07-19,E1044,Retail,www.bloomberg.com,196514,29
+2026-07-19,E1105,Operations,gemini.google.com,70872,9
+2026-07-19,E1070,Retail,gemini.google.com,404219,13
+2026-07-19,E1055,IT,github.com,137527,8
+2026-07-19,E1025,HR,otter.ai,863574,44
+2026-07-19,E1008,Marketing,gamma.app,592462,13
+2026-07-19,E1013,Compliance,www.bloomberg.com,284446,28
+2026-07-19,E1078,Finance,www.bbc.com,170729,21
+2026-07-19,E1033,IT,www.qcb.gov.qa,279104,28
+2026-07-19,E1007,SME Lending,gamma.app,97643,46
+2026-07-19,E1004,Compliance,www.bloomberg.com,257321,2
+2026-07-19,E1093,Retail,gemini.google.com,258059,34
+2026-07-19,E1085,Operations,www.bloomberg.com,297344,29
+2026-07-19,E1072,Marketing,gamma.app,349255,48
+2026-07-20,E1068,Retail,gemini.google.com,470238,35
+2026-07-20,E1025,HR,sharepoint.com,100418,1
+2026-07-20,E1051,Operations,gemini.google.com,521389,3
+2026-07-20,E1020,Retail,chatgpt.com,158445,52
+2026-07-20,E1102,Operations,www.google.com,248981,1
+2026-07-20,E1072,Marketing,gamma.app,38332,40
+2026-07-20,E1101,Finance,www.bloomberg.com,360265,31
+2026-07-20,E1027,IT,www.google.com,98992,11
+2026-07-20,E1079,Marketing,www.google.com,45203,25
+2026-07-20,E1024,Operations,outlook.office365.com,272210,16
+2026-07-20,E1027,IT,www.bloomberg.com,264917,15
+2026-07-20,E1084,Compliance,www.deepl.com,8687,60
+2026-07-20,E1034,Operations,www.bloomberg.com,368030,22
+2026-07-20,E1016,Marketing,sharepoint.com,181418,33
+2026-07-20,E1069,Compliance,www.bbc.com,247398,10
+2026-07-20,E1055,IT,sharepoint.com,329714,26
+2026-07-20,E1076,IT,api.openai.com,82913,19
+2026-07-20,E1091,Finance,sharepoint.com,345752,9
+2026-07-20,E1021,HR,chatgpt.com,458641,12
+2026-07-20,E1013,Compliance,www.google.com,224384,38
+2026-07-20,E1061,Compliance,www.qcb.gov.qa,329833,30
+2026-07-20,E1001,Retail,www.bbc.com,241469,10
+2026-07-20,E1009,Retail,www.bbc.com,298219,32
+2026-07-20,E1021,HR,github.com,388334,29
+2026-07-20,E1034,Operations,www.qcb.gov.qa,83573,18
+2026-07-20,E1111,Finance,outlook.office365.com,73018,13
+2026-07-20,E1041,IT,huggingface.co,291039,13
+2026-07-20,E1033,IT,github.com,47693,24
+2026-07-20,E1097,Marketing,github.com,292333,29
+2026-07-20,E1084,Compliance,www.qcb.gov.qa,238489,35
+2026-07-20,E1106,IT,api.openai.com,172128,12
+2026-07-20,E1115,SME Lending,sharepoint.com,216335,8
+2026-07-20,E1068,Retail,sharepoint.com,23969,9
+2026-07-20,E1003,Compliance,www.bbc.com,197296,34
+2026-07-20,E1084,Compliance,www.deepl.com,564445,21
+2026-07-20,E1057,Compliance,www.deepl.com,292946,6
+2026-07-20,E1034,Operations,www.linkedin.com,362829,33
+2026-07-20,E1066,Compliance,www.linkedin.com,62730,24
+2026-07-21,E1034,Operations,outlook.office365.com,151269,17
+2026-07-21,E1054,HR,www.bbc.com,143515,6
+2026-07-21,E1110,HR,github.com,231081,21
+2026-07-21,E1104,SME Lending,gamma.app,58157,7
+2026-07-21,E1025,HR,github.com,318586,32
+2026-07-21,E1105,Operations,www.linkedin.com,76678,33
+2026-07-21,E1048,Compliance,www.bloomberg.com,9194,32
+2026-07-21,E1027,IT,copilot.microsoft.com,349067,36
+2026-07-21,E1045,Compliance,www.bloomberg.com,263476,40
+2026-07-21,E1077,Compliance,sharepoint.com,221036,10
+2026-07-21,E1109,Marketing,github.com,266648,4
+2026-07-21,E1082,Operations,github.com,135451,39
+2026-07-21,E1000,SME Lending,gamma.app,769926,28
+2026-07-21,E1099,Marketing,chatgpt.com,253516,12
+2026-07-21,E1099,Marketing,gamma.app,848826,44
+2026-07-21,E1025,HR,github.com,143979,9
+2026-07-21,E1000,SME Lending,sharepoint.com,300839,14
+2026-07-21,E1018,Finance,outlook.office365.com,97465,15
+2026-07-21,E1033,IT,github.com,371127,30
+2026-07-21,E1108,Operations,outlook.office365.com,55375,27
+2026-07-21,E1070,Retail,www.qcb.gov.qa,253903,25
+2026-07-21,E1017,Compliance,teams.microsoft.com,102323,15
+2026-07-21,E1084,Compliance,teams.microsoft.com,280917,39
+2026-07-21,E1045,Compliance,www.bloomberg.com,28728,18
+2026-07-21,E1047,SME Lending,chatgpt.com,328147,7
+2026-07-21,E1084,Compliance,sharepoint.com,7468,8
+2026-07-21,E1106,IT,api.openai.com,858572,13
+2026-07-21,E1054,HR,otter.ai,414042,40
+2026-07-21,E1101,Finance,outlook.office365.com,35402,20
+2026-07-21,E1056,IT,api.openai.com,288042,29
+2026-07-21,E1079,Marketing,www.bloomberg.com,374194,35
+2026-07-21,E1117,Compliance,teams.microsoft.com,167459,5
+2026-07-21,E1060,HR,otter.ai,524469,33
+2026-07-21,E1069,Compliance,www.bloomberg.com,280782,20
+2026-07-21,E1062,HR,otter.ai,462959,27
+2026-07-21,E1066,Compliance,www.bbc.com,230324,15
+2026-07-22,E1025,HR,otter.ai,725270,29
+2026-07-22,E1055,IT,github.com,166435,32
+2026-07-22,E1009,Retail,sharepoint.com,230504,33
+2026-07-22,E1015,Compliance,www.deepl.com,56302,26
+2026-07-22,E1106,IT,github.com,394182,33
+2026-07-22,E1078,Finance,www.google.com,354382,3
+2026-07-22,E1099,Marketing,www.bbc.com,316067,25
+2026-07-22,E1057,Compliance,sharepoint.com,354643,34
+2026-07-22,E1014,Retail,gemini.google.com,185573,6
+2026-07-22,E1031,SME Lending,www.qcb.gov.qa,38351,20
+2026-07-22,E1027,IT,sharepoint.com,395921,6
+2026-07-22,E1097,Marketing,outlook.office365.com,303136,11
+2026-07-22,E1025,HR,www.linkedin.com,173608,20
+2026-07-22,E1056,IT,api.openai.com,758215,29
+2026-07-22,E1008,Marketing,www.linkedin.com,267660,25
+2026-07-22,E1077,Compliance,www.deepl.com,391933,9
+2026-07-22,E1038,Marketing,outlook.office365.com,345779,36
+2026-07-22,E1015,Compliance,www.perplexity.ai,770367,51
+2026-07-22,E1074,SME Lending,www.qcb.gov.qa,301343,4
+2026-07-22,E1005,HR,outlook.office365.com,259171,9
+2026-07-22,E1013,Compliance,www.bloomberg.com,145673,8
+2026-07-22,E1039,SME Lending,sharepoint.com,379364,13
+2026-07-22,E1021,HR,otter.ai,171834,21
+2026-07-22,E1111,Finance,www.google.com,336848,22
+2026-07-22,E1099,Marketing,gamma.app,473404,30
+2026-07-22,E1092,SME Lending,sharepoint.com,24075,27
+2026-07-22,E1046,Operations,otter.ai,692731,40
+2026-07-22,E1026,Compliance,www.google.com,209166,7
+2026-07-22,E1067,IT,www.google.com,15979,3
+2026-07-22,E1010,Retail,chatgpt.com,883334,30
+2026-07-22,E1103,Retail,gemini.google.com,271452,59
+2026-07-22,E1066,Compliance,www.perplexity.ai,148757,47
+2026-07-22,E1110,HR,www.linkedin.com,371780,2
+2026-07-22,E1039,SME Lending,gamma.app,671191,19
+2026-07-22,E1013,Compliance,www.linkedin.com,331262,8
+2026-07-22,E1057,Compliance,www.perplexity.ai,147584,18
+2026-07-22,E1111,Finance,www.perplexity.ai,457791,18
+2026-07-22,E1098,SME Lending,teams.microsoft.com,176737,37
+2026-07-22,E1076,IT,www.bloomberg.com,286061,21
+2026-07-22,E1087,Marketing,www.google.com,397994,33
+2026-07-22,E1016,Marketing,gamma.app,638818,57
+2026-07-22,E1064,Marketing,www.linkedin.com,45687,18
+2026-07-22,E1062,HR,www.bbc.com,58742,15
+2026-07-22,E1083,HR,www.linkedin.com,1284,4
+2026-07-22,E1063,Finance,www.linkedin.com,290294,13
+2026-07-22,E1007,SME Lending,gamma.app,395696,11
+2026-07-23,E1093,Retail,gemini.google.com,212548,9
+2026-07-23,E1080,Finance,outlook.office365.com,165319,4
+2026-07-23,E1050,Marketing,www.bloomberg.com,152190,5
+2026-07-23,E1007,SME Lending,gamma.app,743535,36
+2026-07-23,E1096,HR,www.bbc.com,264871,11
+2026-07-23,E1020,Retail,www.linkedin.com,264967,3
+2026-07-23,E1036,Finance,www.linkedin.com,115790,17
+2026-07-23,E1118,HR,sharepoint.com,256592,26
+2026-07-23,E1092,SME Lending,www.linkedin.com,179162,36
+2026-07-23,E1031,SME Lending,www.linkedin.com,103753,2
+2026-07-23,E1013,Compliance,github.com,113254,18
+2026-07-23,E1119,IT,www.google.com,250852,21
+2026-07-23,E1057,Compliance,outlook.office365.com,249817,38
+2026-07-23,E1062,HR,otter.ai,440184,57
+2026-07-23,E1013,Compliance,outlook.office365.com,339454,39
+2026-07-23,E1105,Operations,otter.ai,750022,29
+2026-07-23,E1093,Retail,www.bbc.com,212350,21
+2026-07-23,E1060,HR,sharepoint.com,28510,8
+2026-07-23,E1060,HR,otter.ai,642632,55
+2026-07-23,E1069,Compliance,www.deepl.com,236026,52
+2026-07-23,E1069,Compliance,www.perplexity.ai,893737,21
+2026-07-23,E1015,Compliance,www.deepl.com,127245,1
+2026-07-23,E1033,IT,claude.ai,137461,25
+2026-07-23,E1057,Compliance,www.perplexity.ai,114214,59
+2026-07-23,E1077,Compliance,www.qcb.gov.qa,311257,10
+2026-07-23,E1053,IT,teams.microsoft.com,85586,19
+2026-07-23,E1015,Compliance,www.deepl.com,801776,31
+2026-07-23,E1078,Finance,www.linkedin.com,218607,16
+2026-07-23,E1093,Retail,sharepoint.com,135894,25
+2026-07-23,E1021,HR,sharepoint.com,197425,12
+2026-07-23,E1047,SME Lending,gamma.app,186654,16
+2026-07-23,E1099,Marketing,outlook.office365.com,363711,38
+2026-07-23,E1104,SME Lending,www.bbc.com,100016,37
+2026-07-23,E1099,Marketing,www.google.com,336697,32
+2026-07-23,E1050,Marketing,www.bloomberg.com,339419,32
+2026-07-23,E1012,Compliance,www.google.com,250492,40
+2026-07-23,E1056,IT,copilot.microsoft.com,583868,11
+2026-07-23,E1072,Marketing,chatgpt.com,318950,1
+2026-07-23,E1063,Finance,www.bloomberg.com,84760,3
+2026-07-23,E1072,Marketing,www.linkedin.com,35267,38
+2026-07-23,E1072,Marketing,www.google.com,198478,25
+2026-07-23,E1027,IT,api.openai.com,872720,50
+2026-07-23,E1038,Marketing,www.qcb.gov.qa,59841,24
+2026-07-23,E1106,IT,www.qcb.gov.qa,102720,22
+2026-07-23,E1075,Compliance,www.bloomberg.com,176900,5
+2026-07-23,E1053,IT,www.bloomberg.com,292406,30
+2026-07-23,E1050,Marketing,www.qcb.gov.qa,370454,39
+2026-07-23,E1053,IT,www.bloomberg.com,258890,16
+2026-07-23,E1041,IT,claude.ai,633661,10
+2026-07-23,E1027,IT,huggingface.co,658401,44
+2026-07-23,E1019,Operations,www.bbc.com,225724,34
+2026-07-23,E1047,SME Lending,gamma.app,34591,26
+2026-07-24,E1102,Operations,www.bloomberg.com,59114,12
+2026-07-24,E1054,HR,copilot.microsoft.com,385561,21
+2026-07-24,E1063,Finance,www.bbc.com,241852,12
+2026-07-24,E1007,SME Lending,sharepoint.com,399020,13
+2026-07-24,E1060,HR,www.google.com,101764,17
+2026-07-24,E1097,Marketing,outlook.office365.com,357365,22
+2026-07-24,E1048,Compliance,www.google.com,10814,40
+2026-07-24,E1028,SME Lending,www.qcb.gov.qa,223702,39
+2026-07-24,E1039,SME Lending,gamma.app,290339,18
+2026-07-24,E1036,Finance,www.bloomberg.com,92938,10
+2026-07-24,E1104,SME Lending,chatgpt.com,513233,14
+2026-07-24,E1050,Marketing,www.bbc.com,392116,36
+2026-07-24,E1029,SME Lending,github.com,19802,31
+2026-07-24,E1103,Retail,www.qcb.gov.qa,320504,15
+2026-07-24,E1027,IT,api.openai.com,852916,9
+2026-07-24,E1003,Compliance,www.linkedin.com,105332,5
+2026-07-24,E1025,HR,www.bloomberg.com,201157,19
+2026-07-24,E1050,Marketing,www.qcb.gov.qa,367799,22
+2026-07-24,E1044,Retail,sharepoint.com,211799,23
+2026-07-24,E1105,Operations,otter.ai,787386,56
+2026-07-24,E1078,Finance,sharepoint.com,99916,38
+2026-07-24,E1028,SME Lending,outlook.office365.com,273947,5
+2026-07-24,E1053,IT,github.com,215184,10
+2026-07-24,E1056,IT,www.linkedin.com,128481,9
+2026-07-24,E1100,Marketing,github.com,207022,3
+2026-07-24,E1106,IT,huggingface.co,808325,9
+2026-07-24,E1027,IT,github.com,42010,39
+2026-07-24,E1030,Marketing,gamma.app,29329,21
+2026-07-24,E1015,Compliance,www.perplexity.ai,570471,42
+2026-07-24,E1062,HR,www.bbc.com,340510,19
+2026-07-25,E1037,SME Lending,www.bloomberg.com,34003,2
+2026-07-25,E1010,Retail,www.linkedin.com,325379,35
+2026-07-25,E1106,IT,api.openai.com,387709,44
+2026-07-25,E1058,Operations,outlook.office365.com,376803,22
+2026-07-25,E1051,Operations,www.bbc.com,132120,12
+2026-07-25,E1032,IT,www.bloomberg.com,18847,2
+2026-07-25,E1051,Operations,otter.ai,382133,36
+2026-07-25,E1062,HR,www.google.com,169109,2
+2026-07-25,E1002,Operations,otter.ai,21857,29
+2026-07-25,E1019,Operations,github.com,15524,16
+2026-07-25,E1010,Retail,gemini.google.com,733380,16
+2026-07-25,E1043,SME Lending,sharepoint.com,357494,5
+2026-07-25,E1109,Marketing,sharepoint.com,208971,3
+2026-07-25,E1038,Marketing,www.bbc.com,281712,16
+2026-07-25,E1022,Marketing,outlook.office365.com,106238,4
+2026-07-25,E1035,Retail,sharepoint.com,77655,28
+2026-07-25,E1036,Finance,github.com,247017,23
+2026-07-25,E1040,Operations,www.linkedin.com,225811,27
+2026-07-25,E1066,Compliance,sharepoint.com,222744,11
+2026-07-25,E1036,Finance,www.google.com,18620,39
+2026-07-25,E1027,IT,www.bbc.com,221293,35
+2026-07-25,E1025,HR,outlook.office365.com,155233,29
+2026-07-25,E1092,SME Lending,www.bloomberg.com,332361,23
+2026-07-25,E1020,Retail,gemini.google.com,545623,24
+2026-07-25,E1101,Finance,www.linkedin.com,301528,9
+2026-07-25,E1106,IT,www.bloomberg.com,293896,40
+2026-07-25,E1024,Operations,teams.microsoft.com,276876,16
+2026-07-25,E1078,Finance,sharepoint.com,392075,1
+2026-07-25,E1082,Operations,www.bloomberg.com,306886,34
+2026-07-25,E1006,SME Lending,github.com,78920,4
+2026-07-25,E1039,SME Lending,gamma.app,134315,3
+2026-07-25,E1119,IT,sharepoint.com,391394,8
+2026-07-25,E1017,Compliance,www.qcb.gov.qa,292200,25
+2026-07-25,E1000,SME Lending,chatgpt.com,312636,15
+2026-07-25,E1019,Operations,teams.microsoft.com,56978,9
+2026-07-25,E1104,SME Lending,outlook.office365.com,180918,15
+2026-07-26,E1002,Operations,www.google.com,275051,33
+2026-07-26,E1046,Operations,otter.ai,633728,33
+2026-07-26,E1081,HR,www.qcb.gov.qa,362767,19
+2026-07-26,E1055,IT,github.com,261545,5
+2026-07-26,E1066,Compliance,github.com,191984,30
+2026-07-26,E1040,Operations,github.com,218219,26
+2026-07-26,E1063,Finance,outlook.office365.com,320292,13
+2026-07-26,E1036,Finance,teams.microsoft.com,366180,40
+2026-07-26,E1037,SME Lending,sharepoint.com,80519,25
+2026-07-26,E1021,HR,www.bbc.com,184121,27
+2026-07-26,E1111,Finance,www.bloomberg.com,197887,15
+2026-07-26,E1117,Compliance,copilot.microsoft.com,622995,35
+2026-07-26,E1025,HR,chatgpt.com,447790,8
+2026-07-26,E1005,HR,www.bloomberg.com,57527,3
+2026-07-26,E1105,Operations,www.deepl.com,724040,59
+2026-07-26,E1094,SME Lending,www.google.com,124134,16
+2026-07-26,E1072,Marketing,gamma.app,103698,2
+2026-07-26,E1002,Operations,otter.ai,832541,9
+2026-07-26,E1069,Compliance,www.linkedin.com,175985,13
+2026-07-26,E1014,Retail,www.bbc.com,247192,8
+2026-07-26,E1051,Operations,github.com,330408,20
+2026-07-26,E1075,Compliance,www.linkedin.com,264441,30
+2026-07-26,E1035,Retail,www.linkedin.com,4902,10
+2026-07-26,E1057,Compliance,www.qcb.gov.qa,108825,21
+2026-07-26,E1102,Operations,sharepoint.com,386518,1
+2026-07-26,E1082,Operations,www.bloomberg.com,93598,36
+2026-07-26,E1034,Operations,www.bloomberg.com,177103,9
+2026-07-26,E1087,Marketing,teams.microsoft.com,73409,20
+2026-07-26,E1025,HR,www.linkedin.com,336835,13
+2026-07-26,E1104,SME Lending,www.qcb.gov.qa,374764,35
+2026-07-26,E1075,Compliance,www.google.com,272446,1
+2026-07-26,E1056,IT,api.openai.com,45941,21
+2026-07-27,E1034,Operations,www.bbc.com,305959,26
+2026-07-27,E1105,Operations,gemini.google.com,73942,54
+2026-07-27,E1070,Retail,gemini.google.com,616867,14
+2026-07-27,E1018,Finance,www.bloomberg.com,159980,31
+2026-07-27,E1070,Retail,sharepoint.com,232832,15
+2026-07-27,E1116,Operations,outlook.office365.com,361817,31
+2026-07-27,E1101,Finance,www.bloomberg.com,359961,6
+2026-07-27,E1111,Finance,www.bloomberg.com,273990,2
+2026-07-27,E1105,Operations,sharepoint.com,281281,8
+2026-07-27,E1000,SME Lending,www.bbc.com,9993,24
+2026-07-27,E1007,SME Lending,gamma.app,201212,27
+2026-07-27,E1030,Marketing,github.com,292939,4
+2026-07-27,E1069,Compliance,www.perplexity.ai,617551,10
+2026-07-27,E1020,Retail,gemini.google.com,282028,36
+2026-07-27,E1109,Marketing,github.com,86427,25
+2026-07-27,E1030,Marketing,www.bbc.com,321018,39
+2026-07-27,E1027,IT,huggingface.co,753742,38
+2026-07-27,E1086,Marketing,www.google.com,199929,38
+2026-07-27,E1011,SME Lending,github.com,149958,12
+2026-07-27,E1030,Marketing,copilot.microsoft.com,852083,48
+2026-07-27,E1094,SME Lending,www.qcb.gov.qa,323598,27
+2026-07-27,E1095,HR,sharepoint.com,393319,26
+2026-07-27,E1092,SME Lending,www.linkedin.com,249742,15
+2026-07-27,E1048,Compliance,www.linkedin.com,205805,5
+2026-07-27,E1068,Retail,sharepoint.com,37992,18
+2026-07-27,E1111,Finance,www.linkedin.com,190602,11
+2026-07-27,E1081,HR,www.qcb.gov.qa,169233,13
+2026-07-27,E1103,Retail,copilot.microsoft.com,293865,49
+2026-07-27,E1025,HR,outlook.office365.com,328243,19
+2026-07-27,E1001,Retail,teams.microsoft.com,344801,32
+2026-07-27,E1043,SME Lending,www.linkedin.com,242067,39
+2026-07-27,E1016,Marketing,www.linkedin.com,163401,28
+2026-07-27,E1061,Compliance,www.google.com,310744,11
+2026-07-27,E1070,Retail,copilot.microsoft.com,548428,31
+2026-07-27,E1007,SME Lending,gamma.app,475869,20
+2026-07-27,E1116,Operations,www.bbc.com,205891,7
+2026-07-27,E1051,Operations,otter.ai,590132,21
+2026-07-27,E1096,HR,teams.microsoft.com,35674,12
+2026-07-27,E1104,SME Lending,teams.microsoft.com,26647,12
+2026-07-27,E1096,HR,sharepoint.com,346286,8
+2026-07-27,E1085,Operations,www.google.com,272521,24
+2026-07-27,E1070,Retail,sharepoint.com,124894,33
+2026-07-28,E1113,Operations,www.bbc.com,358281,10
+2026-07-28,E1070,Retail,sharepoint.com,311264,23
+2026-07-28,E1069,Compliance,www.perplexity.ai,532299,30
+2026-07-28,E1027,IT,huggingface.co,608403,5
+2026-07-28,E1117,Compliance,teams.microsoft.com,385966,5
+2026-07-28,E1060,HR,chatgpt.com,279501,43
+2026-07-28,E1038,Marketing,sharepoint.com,71363,39
+2026-07-28,E1045,Compliance,www.google.com,301790,18
+2026-07-28,E1081,HR,www.bbc.com,168870,37
+2026-07-28,E1032,IT,outlook.office365.com,245684,20
+2026-07-28,E1027,IT,claude.ai,396468,27
+2026-07-28,E1049,SME Lending,sharepoint.com,241530,15
+2026-07-28,E1016,Marketing,chatgpt.com,489623,45
+2026-07-28,E1084,Compliance,www.bloomberg.com,315250,8
+2026-07-28,E1063,Finance,www.google.com,180260,27
+2026-07-28,E1027,IT,claude.ai,164246,43
+2026-07-28,E1097,Marketing,gamma.app,878530,55
+2026-07-28,E1070,Retail,gemini.google.com,452961,29
+2026-07-28,E1007,SME Lending,www.google.com,134321,31
+2026-07-28,E1105,Operations,otter.ai,213883,53
+2026-07-28,E1072,Marketing,sharepoint.com,98327,13
+2026-07-28,E1076,IT,github.com,149356,13
+2026-07-28,E1087,Marketing,github.com,374993,25
+2026-07-28,E1105,Operations,www.deepl.com,452513,53
+2026-07-28,E1106,IT,claude.ai,806624,9
+2026-07-28,E1041,IT,api.openai.com,877522,10
+2026-07-28,E1011,SME Lending,www.qcb.gov.qa,73832,38
+2026-07-28,E1051,Operations,www.deepl.com,92898,58
+2026-07-28,E1117,Compliance,www.deepl.com,660589,48
+2026-07-28,E1118,HR,www.bloomberg.com,265343,31
+2026-07-28,E1056,IT,huggingface.co,800867,16
+2026-07-29,E1079,Marketing,www.bloomberg.com,234818,23
+2026-07-29,E1001,Retail,www.linkedin.com,390621,2
+2026-07-29,E1082,Operations,outlook.office365.com,356307,14
+2026-07-29,E1030,Marketing,gamma.app,879740,18
+2026-07-29,E1108,Operations,sharepoint.com,368215,4
+2026-07-29,E1035,Retail,teams.microsoft.com,80538,22
+2026-07-29,E1076,IT,huggingface.co,142057,31
+2026-07-29,E1033,IT,huggingface.co,435649,20
+2026-07-29,E1011,SME Lending,teams.microsoft.com,227458,19
+2026-07-29,E1081,HR,www.google.com,355897,15
+2026-07-29,E1051,Operations,otter.ai,670933,15
+2026-07-29,E1027,IT,huggingface.co,877373,1
+2026-07-29,E1014,Retail,gemini.google.com,711176,47
+2026-07-29,E1046,Operations,teams.microsoft.com,318694,5
+2026-07-29,E1026,Compliance,www.linkedin.com,107430,29
+2026-07-29,E1069,Compliance,www.bloomberg.com,2734,25
+2026-07-29,E1067,IT,api.openai.com,858375,29
+2026-07-29,E1115,SME Lending,sharepoint.com,92652,5
+2026-07-29,E1111,Finance,sharepoint.com,144469,1
+2026-07-29,E1068,Retail,chatgpt.com,681094,10
+2026-07-29,E1110,HR,outlook.office365.com,390238,36
+2026-07-29,E1044,Retail,www.bloomberg.com,381240,19
+2026-07-29,E1071,IT,www.linkedin.com,255995,17
+2026-07-29,E1021,HR,sharepoint.com,24914,35
+2026-07-29,E1077,Compliance,claude.ai,890432,7
+2026-07-29,E1008,Marketing,gamma.app,32726,58
+2026-07-29,E1016,Marketing,gamma.app,172557,29
+2026-07-29,E1044,Retail,outlook.office365.com,112858,22
+2026-07-29,E1051,Operations,github.com,328455,6
+2026-07-29,E1050,Marketing,www.google.com,310120,19
+2026-07-29,E1117,Compliance,copilot.microsoft.com,469432,24
+2026-07-29,E1105,Operations,www.bbc.com,30289,9
+2026-07-29,E1097,Marketing,gamma.app,139064,13
+2026-07-29,E1052,Finance,teams.microsoft.com,390213,13
+2026-07-30,E1069,Compliance,www.perplexity.ai,223686,58
+2026-07-30,E1039,SME Lending,www.google.com,130707,19
+2026-07-30,E1060,HR,www.qcb.gov.qa,118332,10
+2026-07-30,E1111,Finance,outlook.office365.com,71456,20
+2026-07-30,E1043,SME Lending,www.google.com,165354,21
+2026-07-30,E1103,Retail,gemini.google.com,785041,6
+2026-07-30,E1069,Compliance,www.deepl.com,888575,34
+2026-07-30,E1015,Compliance,sharepoint.com,113082,7
+2026-07-30,E1105,Operations,www.bbc.com,202655,6
+2026-07-30,E1008,Marketing,gamma.app,169378,7
+2026-07-30,E1111,Finance,www.bloomberg.com,273430,22
+2026-07-30,E1097,Marketing,gamma.app,632889,15
+2026-07-30,E1084,Compliance,www.google.com,218376,22
+2026-07-30,E1092,SME Lending,teams.microsoft.com,279743,25
+2026-07-30,E1081,HR,www.linkedin.com,10763,18
+2026-07-30,E1098,SME Lending,www.google.com,44944,19
+2026-07-30,E1066,Compliance,www.perplexity.ai,400290,37
+2026-07-30,E1103,Retail,sharepoint.com,118205,17
+2026-07-30,E1030,Marketing,chatgpt.com,128516,47
+2026-07-30,E1111,Finance,teams.microsoft.com,392998,39
+2026-07-30,E1088,IT,www.linkedin.com,245599,40
+2026-07-30,E1056,IT,github.com,267147,15
+2026-07-30,E1041,IT,huggingface.co,857413,59
+2026-07-30,E1031,SME Lending,teams.microsoft.com,135345,20
+2026-07-30,E1073,Operations,outlook.office365.com,136606,27
+2026-07-30,E1106,IT,huggingface.co,261535,30
+2026-07-31,E1105,Operations,gemini.google.com,746261,11
+2026-07-31,E1053,IT,teams.microsoft.com,301363,10
+2026-07-31,E1052,Finance,www.bloomberg.com,92513,40
+2026-07-31,E1052,Finance,www.qcb.gov.qa,326517,16
+2026-07-31,E1049,SME Lending,outlook.office365.com,268870,19
+2026-07-31,E1002,Operations,gemini.google.com,663820,44
+2026-07-31,E1063,Finance,www.bloomberg.com,44563,36
+2026-07-31,E1051,Operations,outlook.office365.com,42329,30
+2026-07-31,E1033,IT,www.google.com,142247,31
+2026-07-31,E1003,Compliance,www.bbc.com,148957,11
+2026-07-31,E1002,Operations,gemini.google.com,401889,37
+2026-07-31,E1023,IT,www.bbc.com,343109,15
+2026-07-31,E1014,Retail,www.google.com,332826,28
+2026-07-31,E1112,Retail,www.qcb.gov.qa,195816,29
+2026-07-31,E1046,Operations,www.google.com,344418,1
+2026-07-31,E1054,HR,chatgpt.com,726156,31
+2026-07-31,E1102,Operations,www.google.com,292158,28
+2026-07-31,E1012,Compliance,www.bloomberg.com,387792,27
+2026-07-31,E1042,Compliance,outlook.office365.com,2435,1
+2026-07-31,E1039,SME Lending,sharepoint.com,387879,28
+2026-07-31,E1007,SME Lending,www.linkedin.com,266870,36
+2026-07-31,E1110,HR,www.linkedin.com,208565,14
+2026-07-31,E1105,Operations,otter.ai,227595,38
+2026-07-31,E1099,Marketing,gamma.app,365656,21
+2026-07-31,E1033,IT,www.linkedin.com,160353,28
+2026-07-31,E1074,SME Lending,sharepoint.com,251555,32
+2026-07-31,E1002,Operations,gemini.google.com,565658,9
+2026-07-31,E1011,SME Lending,github.com,156935,14
+2026-07-31,E1020,Retail,www.bloomberg.com,62298,3
+2026-07-31,E1027,IT,api.openai.com,467776,40
+2026-07-31,E1018,Finance,github.com,79891,20
+2026-07-31,E1110,HR,github.com,232946,25
+2026-07-31,E1031,SME Lending,github.com,340782,20
+2026-07-31,E1042,Compliance,www.bloomberg.com,283923,8
+2026-07-31,E1054,HR,otter.ai,491131,8
+2026-07-31,E1040,Operations,sharepoint.com,190378,26
+2026-07-31,E1027,IT,www.linkedin.com,253049,22
+2026-07-31,E1041,IT,api.openai.com,770544,43
+2026-07-31,E1009,Retail,sharepoint.com,50090,11
+2026-07-31,E1067,IT,huggingface.co,218092,5
+2026-07-31,E1101,Finance,www.linkedin.com,39226,39
+2026-07-31,E1047,SME Lending,sharepoint.com,105850,6
+2026-08-01,E1057,Compliance,www.deepl.com,488462,24
+2026-08-01,E1097,Marketing,chatgpt.com,211044,54
+2026-08-01,E1067,IT,claude.ai,458839,38
+2026-08-01,E1020,Retail,github.com,271724,9
+2026-08-01,E1043,SME Lending,sharepoint.com,108907,35
+2026-08-01,E1103,Retail,www.linkedin.com,276700,22
+2026-08-01,E1069,Compliance,www.deepl.com,50215,31
+2026-08-01,E1060,HR,otter.ai,55231,43
+2026-08-01,E1100,Marketing,gamma.app,101326,30
+2026-08-01,E1025,HR,www.google.com,325322,23
+2026-08-01,E1062,HR,copilot.microsoft.com,155347,46
+2026-08-01,E1057,Compliance,www.perplexity.ai,269382,14
+2026-08-01,E1067,IT,huggingface.co,778513,3
+2026-08-01,E1015,Compliance,www.perplexity.ai,731417,39
+2026-08-01,E1031,SME Lending,teams.microsoft.com,38562,18
+2026-08-01,E1005,HR,teams.microsoft.com,278566,20
+2026-08-01,E1034,Operations,www.linkedin.com,348223,21
+2026-08-01,E1117,Compliance,www.perplexity.ai,749748,5
+2026-08-01,E1021,HR,www.linkedin.com,282823,28
+2026-08-01,E1041,IT,www.linkedin.com,28923,18
+2026-08-01,E1066,Compliance,www.linkedin.com,56169,21
+2026-08-01,E1014,Retail,copilot.microsoft.com,543058,12
+2026-08-01,E1093,Retail,chatgpt.com,788931,30
+2026-08-01,E1077,Compliance,sharepoint.com,41645,18
+2026-08-01,E1074,SME Lending,github.com,106559,19
+2026-08-01,E1056,IT,copilot.microsoft.com,314170,56
+2026-08-01,E1100,Marketing,copilot.microsoft.com,800462,54
+2026-08-01,E1039,SME Lending,gamma.app,728847,5
+2026-08-01,E1032,IT,sharepoint.com,316699,38
+2026-08-01,E1050,Marketing,www.google.com,86600,25
+2026-08-01,E1096,HR,sharepoint.com,325935,6
+2026-08-01,E1025,HR,otter.ai,169457,53
+2026-08-01,E1016,Marketing,www.bbc.com,44828,18
+2026-08-01,E1054,HR,www.bbc.com,239563,26
+2026-08-01,E1080,Finance,outlook.office365.com,119628,23
+2026-08-02,E1010,Retail,gemini.google.com,340977,8
+2026-08-02,E1104,SME Lending,github.com,187362,17
+2026-08-02,E1057,Compliance,claude.ai,305507,21
+2026-08-02,E1005,HR,teams.microsoft.com,90296,4
+2026-08-02,E1108,Operations,outlook.office365.com,3959,22
+2026-08-02,E1011,SME Lending,teams.microsoft.com,170908,11
+2026-08-02,E1078,Finance,outlook.office365.com,102882,8
+2026-08-02,E1046,Operations,www.deepl.com,812894,7
+2026-08-02,E1023,IT,sharepoint.com,258575,24
+2026-08-02,E1051,Operations,github.com,94328,16
+2026-08-02,E1105,Operations,gemini.google.com,29121,6
+2026-08-02,E1035,Retail,www.qcb.gov.qa,8446,8
+2026-08-02,E1022,Marketing,outlook.office365.com,293596,5
+2026-08-02,E1013,Compliance,outlook.office365.com,321262,13
+2026-08-02,E1073,Operations,www.bloomberg.com,234770,2
+2026-08-02,E1061,Compliance,www.google.com,161774,37
+2026-08-02,E1066,Compliance,www.bbc.com,64750,13
+2026-08-02,E1083,HR,sharepoint.com,329324,39
+2026-08-02,E1021,HR,sharepoint.com,50673,39
+2026-08-02,E1001,Retail,sharepoint.com,61126,9
+2026-08-02,E1066,Compliance,www.google.com,198304,15
+2026-08-02,E1021,HR,sharepoint.com,109722,33
+2026-08-02,E1028,SME Lending,sharepoint.com,350140,31
+2026-08-02,E1068,Retail,gemini.google.com,701233,1
+2026-08-02,E1084,Compliance,www.google.com,391004,6
+2026-08-02,E1020,Retail,chatgpt.com,502935,8
+2026-08-02,E1066,Compliance,www.perplexity.ai,802441,53
+2026-08-02,E1007,SME Lending,gamma.app,827250,7
+2026-08-02,E1079,Marketing,teams.microsoft.com,7400,30
+2026-08-02,E1060,HR,www.bbc.com,232759,9
+2026-08-02,E1106,IT,huggingface.co,858113,1
+2026-08-02,E1115,SME Lending,outlook.office365.com,338818,15
+2026-08-02,E1071,IT,sharepoint.com,395824,3
+2026-08-02,E1022,Marketing,sharepoint.com,9199,35
+2026-08-02,E1100,Marketing,chatgpt.com,877467,6
+2026-08-03,E1111,Finance,www.bloomberg.com,330250,31
+2026-08-03,E1097,Marketing,gamma.app,463101,30
+2026-08-03,E1077,Compliance,www.deepl.com,894247,21
+2026-08-03,E1008,Marketing,gamma.app,337281,59
+2026-08-03,E1037,SME Lending,outlook.office365.com,220448,26
+2026-08-03,E1037,SME Lending,www.google.com,284957,24
+2026-08-03,E1076,IT,copilot.microsoft.com,234785,33
+2026-08-03,E1007,SME Lending,gamma.app,111812,5
+2026-08-03,E1017,Compliance,teams.microsoft.com,193457,38
+2026-08-03,E1032,IT,www.google.com,282073,28
+2026-08-03,E1016,Marketing,outlook.office365.com,381206,36
+2026-08-03,E1103,Retail,github.com,179957,12
+2026-08-03,E1078,Finance,github.com,272042,21
+2026-08-03,E1069,Compliance,www.deepl.com,228222,3
+2026-08-03,E1116,Operations,www.linkedin.com,5474,20
+2026-08-03,E1022,Marketing,github.com,90058,33
+2026-08-03,E1000,SME Lending,www.google.com,92768,27
+2026-08-03,E1085,Operations,www.bbc.com,97510,4
+2026-08-03,E1003,Compliance,github.com,146632,36
+2026-08-03,E1110,HR,www.google.com,99121,36
+2026-08-03,E1008,Marketing,www.google.com,117271,24
+2026-08-03,E1029,SME Lending,www.linkedin.com,339351,5
+2026-08-03,E1072,Marketing,gamma.app,895892,8
+2026-08-03,E1064,Marketing,github.com,285393,22
+2026-08-03,E1107,SME Lending,outlook.office365.com,393671,6
+2026-08-03,E1022,Marketing,www.linkedin.com,54052,2
+2026-08-03,E1050,Marketing,github.com,260360,38
+2026-08-03,E1119,IT,www.bbc.com,373929,5
+2026-08-03,E1099,Marketing,outlook.office365.com,275279,13
+2026-08-03,E1106,IT,www.google.com,304369,35
+2026-08-03,E1068,Retail,gemini.google.com,357007,40
+2026-08-03,E1070,Retail,www.google.com,285934,35
+2026-08-03,E1047,SME Lending,outlook.office365.com,308007,19
+2026-08-03,E1081,HR,www.linkedin.com,395628,29
+2026-08-03,E1104,SME Lending,gamma.app,403650,42
+2026-08-03,E1033,IT,www.bloomberg.com,94286,29
+2026-08-03,E1016,Marketing,gamma.app,97563,42
+2026-08-03,E1008,Marketing,gamma.app,854227,5
+2026-08-03,E1021,HR,www.bloomberg.com,119899,31
+2026-08-03,E1016,Marketing,sharepoint.com,5979,33
+2026-08-03,E1025,HR,outlook.office365.com,385588,5
+2026-08-03,E1111,Finance,www.google.com,109411,15
+2026-08-03,E1072,Marketing,chatgpt.com,358871,18
+2026-08-03,E1051,Operations,gemini.google.com,614955,25
+2026-08-03,E1014,Retail,www.google.com,36417,25
+2026-08-03,E1021,HR,www.google.com,95391,34
+2026-08-03,E1014,Retail,gemini.google.com,56944,9
+2026-08-04,E1016,Marketing,chatgpt.com,339960,55
+2026-08-04,E1105,Operations,github.com,296303,38
+2026-08-04,E1066,Compliance,www.perplexity.ai,835551,26
+2026-08-04,E1103,Retail,www.google.com,217480,13
+2026-08-04,E1090,HR,sharepoint.com,290486,8
+2026-08-04,E1015,Compliance,www.deepl.com,660309,27
+2026-08-04,E1030,Marketing,www.bbc.com,45585,37
+2026-08-04,E1060,HR,www.linkedin.com,305709,26
+2026-08-04,E1103,Retail,sharepoint.com,57987,29
+2026-08-04,E1081,HR,www.bloomberg.com,275248,29
+2026-08-04,E1058,Operations,outlook.office365.com,203226,31
+2026-08-04,E1117,Compliance,www.perplexity.ai,519077,10
+2026-08-04,E1043,SME Lending,github.com,36268,37
+2026-08-04,E1051,Operations,otter.ai,842064,6
+2026-08-04,E1015,Compliance,www.perplexity.ai,50823,60
+2026-08-04,E1051,Operations,otter.ai,591318,45
+2026-08-04,E1067,IT,claude.ai,466637,43
+2026-08-04,E1111,Finance,www.perplexity.ai,163712,25
+2026-08-04,E1076,IT,claude.ai,738833,49
+2026-08-04,E1042,Compliance,www.qcb.gov.qa,141030,7
+2026-08-04,E1110,HR,github.com,151975,32
+2026-08-04,E1033,IT,claude.ai,228040,49
+2026-08-04,E1051,Operations,gemini.google.com,606238,3
+2026-08-04,E1024,Operations,www.bbc.com,57833,7
+2026-08-04,E1077,Compliance,sharepoint.com,109488,12
+2026-08-04,E1036,Finance,www.bbc.com,346338,17
+2026-08-04,E1066,Compliance,sharepoint.com,255765,31
+2026-08-04,E1093,Retail,gemini.google.com,526783,35
+2026-08-05,E1022,Marketing,outlook.office365.com,212274,10
+2026-08-05,E1106,IT,claude.ai,622148,4
+2026-08-05,E1010,Retail,outlook.office365.com,74401,35
+2026-08-05,E1047,SME Lending,gamma.app,546932,30
+2026-08-05,E1068,Retail,gemini.google.com,192305,38
+2026-08-05,E1054,HR,copilot.microsoft.com,627850,35
+2026-08-05,E1097,Marketing,www.linkedin.com,357806,23
+2026-08-05,E1100,Marketing,www.linkedin.com,120402,7
+2026-08-05,E1019,Operations,www.qcb.gov.qa,17343,22
+2026-08-05,E1111,Finance,github.com,393074,24
+2026-08-05,E1064,Marketing,teams.microsoft.com,33510,17
+2026-08-05,E1018,Finance,www.bloomberg.com,304956,23
+2026-08-05,E1093,Retail,gemini.google.com,201028,8
+2026-08-05,E1094,SME Lending,www.linkedin.com,339646,6
+2026-08-05,E1028,SME Lending,www.bloomberg.com,103611,2
+2026-08-05,E1051,Operations,otter.ai,133250,41
+2026-08-05,E1014,Retail,www.bbc.com,239330,3
+2026-08-05,E1060,HR,otter.ai,587196,20
+2026-08-05,E1010,Retail,chatgpt.com,790539,54
+2026-08-05,E1015,Compliance,www.bloomberg.com,75048,27
+2026-08-05,E1104,SME Lending,www.google.com,119644,39
+2026-08-05,E1017,Compliance,sharepoint.com,167481,3
+2026-08-05,E1083,HR,sharepoint.com,111117,38
+2026-08-05,E1115,SME Lending,gamma.app,63437,52
+2026-08-05,E1006,SME Lending,www.linkedin.com,221233,35
+2026-08-05,E1014,Retail,www.linkedin.com,299373,33
+2026-08-05,E1113,Operations,sharepoint.com,70715,18
+2026-08-05,E1002,Operations,www.linkedin.com,108901,16
+2026-08-05,E1093,Retail,gemini.google.com,10491,37
+2026-08-05,E1093,Retail,www.linkedin.com,101585,2
+2026-08-05,E1042,Compliance,outlook.office365.com,27398,33
+2026-08-05,E1057,Compliance,claude.ai,603987,15
+2026-08-06,E1098,SME Lending,github.com,169025,4
+2026-08-06,E1033,IT,copilot.microsoft.com,149111,12
+2026-08-06,E1045,Compliance,www.bloomberg.com,240036,11
+2026-08-06,E1077,Compliance,outlook.office365.com,157487,7
+2026-08-06,E1031,SME Lending,www.google.com,49763,26
+2026-08-06,E1105,Operations,otter.ai,564761,1
+2026-08-06,E1015,Compliance,outlook.office365.com,60775,7
+2026-08-06,E1046,Operations,www.bbc.com,211207,27
+2026-08-06,E1079,Marketing,www.bbc.com,183654,7
+2026-08-06,E1066,Compliance,www.bloomberg.com,196566,32
+2026-08-06,E1113,Operations,www.bloomberg.com,219220,31
+2026-08-06,E1068,Retail,gemini.google.com,712526,35
+2026-08-06,E1013,Compliance,www.bbc.com,188332,5
+2026-08-06,E1026,Compliance,github.com,363124,6
+2026-08-06,E1068,Retail,gemini.google.com,815423,52
+2026-08-06,E1105,Operations,gemini.google.com,462485,8
+2026-08-06,E1018,Finance,www.bbc.com,138360,12
+2026-08-06,E1024,Operations,www.qcb.gov.qa,146044,35
+2026-08-06,E1067,IT,api.openai.com,251183,20
+2026-08-06,E1068,Retail,gemini.google.com,696769,26
+2026-08-06,E1038,Marketing,www.linkedin.com,350659,37
+2026-08-06,E1014,Retail,gemini.google.com,461398,57
+2026-08-06,E1069,Compliance,outlook.office365.com,13952,34
+2026-08-06,E1014,Retail,www.qcb.gov.qa,17349,16
+2026-08-06,E1021,HR,otter.ai,129794,37
+2026-08-06,E1067,IT,claude.ai,713163,44
+2026-08-06,E1047,SME Lending,www.bloomberg.com,25808,10
+2026-08-06,E1003,Compliance,www.qcb.gov.qa,255153,6
+2026-08-06,E1064,Marketing,sharepoint.com,145610,28
+2026-08-06,E1037,SME Lending,sharepoint.com,255766,6
+2026-08-06,E1051,Operations,www.deepl.com,813102,55
+2026-08-06,E1084,Compliance,claude.ai,82458,42
+2026-08-06,E1081,HR,www.bbc.com,369098,40
+2026-08-06,E1001,Retail,www.qcb.gov.qa,236311,25
+2026-08-06,E1022,Marketing,www.google.com,187179,21
+2026-08-06,E1070,Retail,www.google.com,381705,36
+2026-08-06,E1110,HR,sharepoint.com,290166,18
+2026-08-06,E1011,SME Lending,outlook.office365.com,230468,25
+2026-08-06,E1078,Finance,www.google.com,170135,27
+2026-08-06,E1066,Compliance,www.perplexity.ai,401152,30
+2026-08-06,E1027,IT,sharepoint.com,248494,18
+2026-08-06,E1024,Operations,sharepoint.com,22105,9
+2026-08-07,E1043,SME Lending,www.bbc.com,189909,40
+2026-08-07,E1068,Retail,gemini.google.com,784824,56
+2026-08-07,E1064,Marketing,www.google.com,179240,8
+2026-08-07,E1104,SME Lending,sharepoint.com,115768,32
+2026-08-07,E1002,Operations,teams.microsoft.com,341478,25
+2026-08-07,E1014,Retail,sharepoint.com,46969,8
+2026-08-07,E1028,SME Lending,www.bloomberg.com,317479,11
+2026-08-07,E1057,Compliance,www.perplexity.ai,161814,13
+2026-08-07,E1115,SME Lending,www.bloomberg.com,237966,40
+2026-08-07,E1006,SME Lending,www.linkedin.com,200992,26
+2026-08-07,E1067,IT,api.openai.com,213383,3
+2026-08-07,E1100,Marketing,copilot.microsoft.com,772571,45
+2026-08-07,E1024,Operations,teams.microsoft.com,231452,26
+2026-08-07,E1030,Marketing,sharepoint.com,21494,10
+2026-08-07,E1090,HR,www.qcb.gov.qa,102478,1
+2026-08-07,E1010,Retail,github.com,246481,28
+2026-08-07,E1032,IT,www.bloomberg.com,245819,5
+2026-08-07,E1022,Marketing,sharepoint.com,66091,35
+2026-08-07,E1060,HR,copilot.microsoft.com,873662,45
+2026-08-07,E1006,SME Lending,www.bloomberg.com,153915,34
+2026-08-07,E1004,Compliance,www.bloomberg.com,224295,18
+2026-08-07,E1105,Operations,www.deepl.com,679558,4
+2026-08-07,E1039,SME Lending,copilot.microsoft.com,36283,18
+2026-08-07,E1029,SME Lending,www.linkedin.com,346804,34
+2026-08-07,E1051,Operations,otter.ai,316527,55
+2026-08-07,E1027,IT,huggingface.co,387397,40
+2026-08-07,E1061,Compliance,sharepoint.com,139805,14
+2026-08-07,E1016,Marketing,github.com,380057,25
+2026-08-07,E1084,Compliance,www.qcb.gov.qa,387599,40
+2026-08-07,E1020,Retail,gemini.google.com,377876,24
+2026-08-07,E1083,HR,www.google.com,373471,18
+2026-08-07,E1109,Marketing,outlook.office365.com,189856,21
+2026-08-07,E1093,Retail,www.linkedin.com,372281,29
+2026-08-07,E1111,Finance,chatgpt.com,36225,15
+2026-08-07,E1060,HR,www.bloomberg.com,396397,37
+2026-08-07,E1058,Operations,outlook.office365.com,139477,30
+2026-08-07,E1003,Compliance,github.com,138258,16
+2026-08-07,E1094,SME Lending,gamma.app,135534,12
+2026-08-07,E1023,IT,outlook.office365.com,52172,31
+2026-08-07,E1033,IT,claude.ai,122768,26
+2026-08-07,E1009,Retail,outlook.office365.com,353156,5
+2026-08-08,E1021,HR,chatgpt.com,893597,44
+2026-08-08,E1095,HR,www.qcb.gov.qa,382142,37
+2026-08-08,E1060,HR,otter.ai,810634,19
+2026-08-08,E1113,Operations,teams.microsoft.com,150901,30
+2026-08-08,E1042,Compliance,sharepoint.com,59473,7
+2026-08-08,E1089,Compliance,www.bbc.com,247512,27
+2026-08-08,E1064,Marketing,github.com,227969,35
+2026-08-08,E1020,Retail,gemini.google.com,518554,8
+2026-08-08,E1066,Compliance,www.perplexity.ai,18078,14
+2026-08-08,E1030,Marketing,gamma.app,251087,7
+2026-08-08,E1033,IT,sharepoint.com,116519,19
+2026-08-08,E1105,Operations,gemini.google.com,671975,28
+2026-08-08,E1077,Compliance,www.perplexity.ai,743948,10
+2026-08-08,E1031,SME Lending,sharepoint.com,150607,37
+2026-08-08,E1015,Compliance,www.deepl.com,217425,34
+2026-08-08,E1080,Finance,www.bloomberg.com,183375,27
+2026-08-08,E1117,Compliance,www.deepl.com,145790,25
+2026-08-08,E1016,Marketing,chatgpt.com,91318,16
+2026-08-08,E1057,Compliance,www.perplexity.ai,509753,51
+2026-08-08,E1112,Retail,www.linkedin.com,45187,3
+2026-08-08,E1067,IT,outlook.office365.com,217587,4
+2026-08-08,E1011,SME Lending,github.com,243968,10
+2026-08-08,E1025,HR,otter.ai,477575,5
+2026-08-08,E1102,Operations,github.com,46946,9
+2026-08-08,E1106,IT,www.qcb.gov.qa,114319,34
+2026-08-08,E1011,SME Lending,teams.microsoft.com,170251,24
+2026-08-08,E1111,Finance,www.linkedin.com,379300,21
+2026-08-08,E1052,Finance,sharepoint.com,314979,32
+2026-08-08,E1041,IT,huggingface.co,612754,47
+2026-08-08,E1015,Compliance,github.com,258344,28
+2026-08-08,E1057,Compliance,www.linkedin.com,301120,1
+2026-08-08,E1081,HR,www.linkedin.com,49885,11
+2026-08-08,E1010,Retail,www.bbc.com,374401,29
+2026-08-08,E1093,Retail,chatgpt.com,619113,28
+2026-08-08,E1076,IT,huggingface.co,152219,43
+2026-08-08,E1000,SME Lending,teams.microsoft.com,117332,14
+2026-08-09,E1056,IT,huggingface.co,760414,2
+2026-08-09,E1027,IT,huggingface.co,725821,8
+2026-08-09,E1089,Compliance,sharepoint.com,4366,11
+2026-08-09,E1075,Compliance,sharepoint.com,385792,27
+2026-08-09,E1059,SME Lending,sharepoint.com,238818,19
+2026-08-09,E1021,HR,otter.ai,469576,39
+2026-08-09,E1114,HR,www.bbc.com,264237,8
+2026-08-09,E1077,Compliance,outlook.office365.com,374681,18
+2026-08-09,E1015,Compliance,www.deepl.com,763253,45
+2026-08-09,E1053,IT,teams.microsoft.com,163276,29
+2026-08-09,E1045,Compliance,outlook.office365.com,256313,36
+2026-08-09,E1010,Retail,outlook.office365.com,111128,23
+2026-08-09,E1093,Retail,sharepoint.com,309714,32
+2026-08-09,E1094,SME Lending,github.com,360117,39
+2026-08-09,E1060,HR,www.linkedin.com,317318,22
+2026-08-09,E1058,Operations,www.qcb.gov.qa,359863,30
+2026-08-09,E1027,IT,sharepoint.com,338103,33
+2026-08-09,E1119,IT,www.linkedin.com,149626,14
+2026-08-09,E1015,Compliance,claude.ai,784033,22
+2026-08-09,E1102,Operations,github.com,244353,32
+2026-08-09,E1067,IT,sharepoint.com,368084,15
+2026-08-09,E1111,Finance,github.com,61015,22
+2026-08-09,E1076,IT,github.com,361210,29
+2026-08-09,E1020,Retail,gemini.google.com,828918,29
+2026-08-09,E1014,Retail,www.bloomberg.com,14000,26
+2026-08-09,E1028,SME Lending,outlook.office365.com,221448,22
+2026-08-09,E1002,Operations,www.bbc.com,86416,12
+2026-08-09,E1064,Marketing,www.bbc.com,372905,15
+2026-08-09,E1076,IT,api.openai.com,849903,51
+2026-08-09,E1014,Retail,chatgpt.com,625948,48
+2026-08-09,E1006,SME Lending,teams.microsoft.com,275927,3
+2026-08-09,E1054,HR,teams.microsoft.com,318387,22
+2026-08-09,E1098,SME Lending,teams.microsoft.com,89738,23
+2026-08-09,E1066,Compliance,www.perplexity.ai,276267,24
+2026-08-10,E1012,Compliance,www.linkedin.com,75690,27
+2026-08-10,E1011,SME Lending,github.com,373378,34
+2026-08-10,E1092,SME Lending,www.google.com,256129,20
+2026-08-10,E1061,Compliance,www.bbc.com,343202,26
+2026-08-10,E1057,Compliance,www.linkedin.com,3704,26
+2026-08-10,E1101,Finance,github.com,237710,31
+2026-08-10,E1015,Compliance,github.com,173640,38
+2026-08-10,E1086,Marketing,www.qcb.gov.qa,279005,3
+2026-08-10,E1117,Compliance,www.deepl.com,476751,18
+2026-08-10,E1088,IT,www.google.com,215352,24
+2026-08-10,E1015,Compliance,www.perplexity.ai,214994,24
+2026-08-10,E1002,Operations,github.com,199043,37
+2026-08-10,E1067,IT,claude.ai,605727,28
+2026-08-10,E1083,HR,outlook.office365.com,7480,34
+2026-08-10,E1008,Marketing,gamma.app,847372,48
+2026-08-10,E1014,Retail,www.bloomberg.com,65810,30
+2026-08-10,E1008,Marketing,gamma.app,850095,40
+2026-08-10,E1046,Operations,otter.ai,755258,21
+2026-08-10,E1111,Finance,www.bloomberg.com,360120,20
+2026-08-10,E1103,Retail,chatgpt.com,127362,48
+2026-08-10,E1018,Finance,outlook.office365.com,376216,12
+2026-08-10,E1084,Compliance,outlook.office365.com,357912,9
+2026-08-10,E1063,Finance,www.bbc.com,60562,27
+2026-08-10,E1031,SME Lending,sharepoint.com,25933,12
+2026-08-10,E1115,SME Lending,teams.microsoft.com,255102,39
+2026-08-10,E1080,Finance,www.qcb.gov.qa,374174,25
+2026-08-10,E1062,HR,copilot.microsoft.com,125586,16
+2026-08-10,E1000,SME Lending,outlook.office365.com,130066,15
+2026-08-10,E1103,Retail,outlook.office365.com,225556,11
+2026-08-10,E1043,SME Lending,www.linkedin.com,211580,11
+2026-08-10,E1076,IT,sharepoint.com,162948,33
+2026-08-10,E1077,Compliance,www.qcb.gov.qa,137136,34
+2026-08-10,E1097,Marketing,teams.microsoft.com,218076,27
+2026-08-10,E1067,IT,api.openai.com,105896,54
+2026-08-10,E1058,Operations,www.bbc.com,89980,19
+2026-08-10,E1055,IT,outlook.office365.com,9855,25
+2026-08-10,E1088,IT,sharepoint.com,275027,23
+2026-08-10,E1090,HR,www.qcb.gov.qa,373160,3
+2026-08-10,E1023,IT,teams.microsoft.com,77295,2
+2026-08-10,E1098,SME Lending,sharepoint.com,48259,6
+2026-08-10,E1056,IT,claude.ai,160290,29
+2026-08-10,E1064,Marketing,www.linkedin.com,358617,22
+2026-08-10,E1102,Operations,www.google.com,217229,23
+2026-08-10,E1109,Marketing,teams.microsoft.com,12377,18
+2026-08-10,E1029,SME Lending,www.google.com,293736,23
+2026-08-10,E1021,HR,copilot.microsoft.com,188266,26
+2026-08-11,E1092,SME Lending,teams.microsoft.com,253986,12
+2026-08-11,E1003,Compliance,www.bbc.com,73647,15
+2026-08-11,E1047,SME Lending,sharepoint.com,44644,36
+2026-08-11,E1031,SME Lending,www.bloomberg.com,228671,38
+2026-08-11,E1078,Finance,www.linkedin.com,96136,2
+2026-08-11,E1037,SME Lending,sharepoint.com,31022,1
+2026-08-11,E1011,SME Lending,www.bloomberg.com,29853,39
+2026-08-11,E1107,SME Lending,github.com,81622,2
+2026-08-11,E1017,Compliance,www.bloomberg.com,112794,3
+2026-08-11,E1045,Compliance,sharepoint.com,92027,1
+2026-08-11,E1105,Operations,teams.microsoft.com,319983,16
+2026-08-11,E1049,SME Lending,github.com,301175,7
+2026-08-11,E1082,Operations,www.google.com,58915,7
+2026-08-11,E1064,Marketing,sharepoint.com,216008,29
+2026-08-11,E1039,SME Lending,www.qcb.gov.qa,76127,7
+2026-08-11,E1111,Finance,github.com,364343,26
+2026-08-11,E1044,Retail,www.google.com,384989,30
+2026-08-11,E1114,HR,www.linkedin.com,136231,25
+2026-08-11,E1020,Retail,www.bbc.com,107830,6
+2026-08-11,E1109,Marketing,www.linkedin.com,227779,27
+2026-08-11,E1100,Marketing,www.qcb.gov.qa,238650,32
+2026-08-11,E1022,Marketing,www.linkedin.com,374548,24
+2026-08-11,E1020,Retail,sharepoint.com,202059,18
+2026-08-11,E1088,IT,teams.microsoft.com,240885,16
+2026-08-11,E1093,Retail,chatgpt.com,355894,49
+2026-08-11,E1081,HR,outlook.office365.com,146167,17
+2026-08-11,E1070,Retail,gemini.google.com,641717,15
+2026-08-11,E1106,IT,claude.ai,816571,37
+2026-08-11,E1057,Compliance,www.perplexity.ai,33064,41
+2026-08-11,E1051,Operations,www.deepl.com,612224,1
+2026-08-11,E1019,Operations,outlook.office365.com,313937,4
+2026-08-11,E1001,Retail,outlook.office365.com,397806,34
+2026-08-11,E1012,Compliance,www.google.com,190583,40
+2026-08-11,E1030,Marketing,copilot.microsoft.com,396322,18
+2026-08-11,E1115,SME Lending,gamma.app,64448,2
+2026-08-11,E1069,Compliance,claude.ai,182222,52
+2026-08-11,E1010,Retail,gemini.google.com,704685,7
+2026-08-11,E1077,Compliance,www.deepl.com,92581,36
+2026-08-11,E1021,HR,otter.ai,301279,42
+2026-08-11,E1014,Retail,copilot.microsoft.com,740253,19
+2026-08-12,E1054,HR,otter.ai,708537,8
+2026-08-12,E1014,Retail,gemini.google.com,433641,45
+2026-08-12,E1027,IT,claude.ai,704559,8
+2026-08-12,E1069,Compliance,www.deepl.com,848313,28
+2026-08-12,E1041,IT,claude.ai,818964,11
+2026-08-12,E1079,Marketing,www.bloomberg.com,386750,4
+2026-08-12,E1027,IT,api.openai.com,141890,3
+2026-08-12,E1067,IT,claude.ai,101096,36
+2026-08-12,E1076,IT,claude.ai,87461,38
+2026-08-12,E1009,Retail,sharepoint.com,72647,31
+2026-08-12,E1069,Compliance,www.deepl.com,3533,49
+2026-08-12,E1111,Finance,sharepoint.com,53521,1
+2026-08-12,E1057,Compliance,claude.ai,854686,9
+2026-08-12,E1046,Operations,gemini.google.com,813984,10
+2026-08-12,E1064,Marketing,www.bloomberg.com,340342,19
+2026-08-12,E1046,Operations,sharepoint.com,144263,10
+2026-08-12,E1068,Retail,www.linkedin.com,205468,9
+2026-08-12,E1020,Retail,gemini.google.com,257400,9
+2026-08-12,E1002,Operations,otter.ai,300384,30
+2026-08-12,E1053,IT,www.linkedin.com,86081,7
+2026-08-12,E1072,Marketing,www.linkedin.com,324015,20
+2026-08-12,E1057,Compliance,www.perplexity.ai,463607,22
+2026-08-12,E1099,Marketing,gamma.app,130479,3
+2026-08-12,E1097,Marketing,www.bbc.com,60443,12
+2026-08-12,E1062,HR,outlook.office365.com,188243,9
+2026-08-12,E1086,Marketing,www.linkedin.com,132084,20
+2026-08-12,E1087,Marketing,www.qcb.gov.qa,186385,5
+2026-08-12,E1103,Retail,sharepoint.com,81059,14
+2026-08-12,E1095,HR,www.google.com,137193,24
+2026-08-12,E1024,Operations,www.linkedin.com,43891,37
+2026-08-12,E1013,Compliance,www.linkedin.com,299589,29
+2026-08-12,E1078,Finance,www.bbc.com,63049,24
+2026-08-13,E1002,Operations,outlook.office365.com,159888,20
+2026-08-13,E1086,Marketing,www.google.com,40860,36
+2026-08-13,E1096,HR,www.google.com,241568,30
+2026-08-13,E1063,Finance,github.com,246411,9
+2026-08-13,E1106,IT,www.qcb.gov.qa,353569,31
+2026-08-13,E1012,Compliance,www.linkedin.com,342270,2
+2026-08-13,E1078,Finance,www.qcb.gov.qa,284418,29
+2026-08-13,E1092,SME Lending,www.bbc.com,233770,1
+2026-08-13,E1093,Retail,gemini.google.com,827981,33
+2026-08-13,E1008,Marketing,www.qcb.gov.qa,110176,38
+2026-08-13,E1066,Compliance,www.bloomberg.com,356319,12
+2026-08-13,E1058,Operations,www.linkedin.com,124782,38
+2026-08-13,E1119,IT,www.bbc.com,235608,9
+2026-08-13,E1004,Compliance,www.bloomberg.com,30388,22
+2026-08-13,E1050,Marketing,outlook.office365.com,155231,29
+2026-08-13,E1048,Compliance,sharepoint.com,392096,26
+2026-08-13,E1111,Finance,www.perplexity.ai,636565,50
+2026-08-13,E1106,IT,claude.ai,370074,1
+2026-08-13,E1040,Operations,www.bbc.com,317863,32
+2026-08-13,E1077,Compliance,claude.ai,167055,24
+2026-08-13,E1086,Marketing,sharepoint.com,226268,39
+2026-08-13,E1077,Compliance,www.deepl.com,575896,37
+2026-08-13,E1033,IT,claude.ai,713875,39
+2026-08-13,E1066,Compliance,www.linkedin.com,397910,11
+2026-08-13,E1057,Compliance,claude.ai,751014,6
+2026-08-13,E1028,SME Lending,sharepoint.com,224386,31
+2026-08-13,E1054,HR,otter.ai,586929,24
+2026-08-13,E1011,SME Lending,sharepoint.com,389277,38
+2026-08-13,E1094,SME Lending,www.bbc.com,371910,6
+2026-08-13,E1082,Operations,sharepoint.com,198661,25
+2026-08-13,E1106,IT,api.openai.com,197892,32
+2026-08-13,E1078,Finance,www.google.com,192849,12
+2026-08-13,E1097,Marketing,www.bloomberg.com,91286,20
+2026-08-13,E1096,HR,sharepoint.com,317864,28
+2026-08-13,E1000,SME Lending,gamma.app,753763,12
+2026-08-13,E1099,Marketing,gamma.app,318423,21
+2026-08-13,E1099,Marketing,gamma.app,624886,40
+2026-08-13,E1052,Finance,www.bloomberg.com,86474,7
+2026-08-14,E1002,Operations,copilot.microsoft.com,329040,22
+2026-08-14,E1043,SME Lending,www.bbc.com,254708,40
+2026-08-14,E1095,HR,sharepoint.com,129044,34
+2026-08-14,E1041,IT,teams.microsoft.com,312362,2
+2026-08-14,E1068,Retail,gemini.google.com,350588,36
+2026-08-14,E1036,Finance,www.qcb.gov.qa,317900,37
+2026-08-14,E1016,Marketing,gamma.app,849438,35
+2026-08-14,E1027,IT,huggingface.co,126395,12
+2026-08-14,E1007,SME Lending,www.bbc.com,190193,9
+2026-08-14,E1070,Retail,www.linkedin.com,36423,3
+2026-08-14,E1052,Finance,github.com,30595,16
+2026-08-14,E1036,Finance,www.linkedin.com,212713,26
+2026-08-14,E1002,Operations,teams.microsoft.com,359776,23
+2026-08-14,E1026,Compliance,github.com,41192,20
+2026-08-14,E1073,Operations,www.qcb.gov.qa,29482,17
+2026-08-14,E1039,SME Lending,www.google.com,253524,35
+2026-08-14,E1035,Retail,sharepoint.com,374075,27
+2026-08-14,E1061,Compliance,outlook.office365.com,348975,25
+2026-08-14,E1116,Operations,www.linkedin.com,5143,18
+2026-08-14,E1087,Marketing,outlook.office365.com,353517,9
+2026-08-14,E1057,Compliance,claude.ai,370154,47
+2026-08-14,E1085,Operations,www.bloomberg.com,16340,6
+2026-08-14,E1027,IT,www.bbc.com,110976,13
+2026-08-14,E1060,HR,otter.ai,546103,58
+2026-08-14,E1044,Retail,www.bloomberg.com,162525,29
+2026-08-14,E1070,Retail,outlook.office365.com,181485,11
+2026-08-14,E1099,Marketing,sharepoint.com,75822,18
+2026-08-14,E1020,Retail,chatgpt.com,237113,42
+2026-08-14,E1051,Operations,www.deepl.com,550410,34
+2026-08-14,E1085,Operations,outlook.office365.com,234657,16
+2026-08-15,E1048,Compliance,outlook.office365.com,321527,2
+2026-08-15,E1083,HR,www.linkedin.com,164152,38
+2026-08-15,E1039,SME Lending,gamma.app,417492,33
+2026-08-15,E1002,Operations,github.com,137738,23
+2026-08-15,E1042,Compliance,outlook.office365.com,230488,40
+2026-08-15,E1094,SME Lending,gamma.app,622298,2
+2026-08-15,E1038,Marketing,sharepoint.com,57184,1
+2026-08-15,E1094,SME Lending,gamma.app,504985,35
+2026-08-15,E1067,IT,api.openai.com,828823,5
+2026-08-15,E1016,Marketing,github.com,349924,7
+2026-08-15,E1060,HR,github.com,318914,39
+2026-08-15,E1043,SME Lending,www.linkedin.com,25471,36
+2026-08-15,E1053,IT,www.qcb.gov.qa,155464,19
+2026-08-15,E1056,IT,teams.microsoft.com,166231,36
+2026-08-15,E1106,IT,www.bloomberg.com,200027,28
+2026-08-15,E1043,SME Lending,outlook.office365.com,333220,19
+2026-08-15,E1105,Operations,sharepoint.com,115965,18
+2026-08-15,E1041,IT,www.bloomberg.com,141172,33
+2026-08-15,E1068,Retail,www.bloomberg.com,175818,20
+2026-08-15,E1009,Retail,www.linkedin.com,16737,36
+2026-08-15,E1033,IT,claude.ai,699660,49
+2026-08-15,E1078,Finance,www.qcb.gov.qa,164808,22
+2026-08-15,E1051,Operations,otter.ai,710699,50
+2026-08-15,E1084,Compliance,www.google.com,171499,31
+2026-08-15,E1056,IT,github.com,372735,36
+2026-08-15,E1106,IT,claude.ai,110633,37
+2026-08-15,E1046,Operations,www.bbc.com,47781,5
+2026-08-16,E1070,Retail,gemini.google.com,96689,51
+2026-08-16,E1070,Retail,gemini.google.com,558639,33
+2026-08-16,E1054,HR,copilot.microsoft.com,570373,53
+2026-08-16,E1046,Operations,otter.ai,535469,15
+2026-08-16,E1056,IT,www.bbc.com,269686,40
+2026-08-16,E1094,SME Lending,sharepoint.com,390510,38
+2026-08-16,E1104,SME Lending,www.bbc.com,9488,20
+2026-08-16,E1025,HR,www.google.com,28308,14
+2026-08-16,E1069,Compliance,claude.ai,325869,12
+2026-08-16,E1042,Compliance,outlook.office365.com,154917,14
+2026-08-16,E1107,SME Lending,github.com,183911,38
+2026-08-16,E1025,HR,otter.ai,540009,52
+2026-08-16,E1027,IT,www.bbc.com,61182,14
+2026-08-16,E1098,SME Lending,sharepoint.com,357149,9
+2026-08-16,E1047,SME Lending,gamma.app,78054,24
+2026-08-16,E1018,Finance,www.bbc.com,75070,6
+2026-08-16,E1063,Finance,www.linkedin.com,20291,18
+2026-08-16,E1097,Marketing,www.bloomberg.com,370481,19
+2026-08-16,E1117,Compliance,outlook.office365.com,370431,13
+2026-08-16,E1015,Compliance,www.perplexity.ai,800329,18
+2026-08-16,E1008,Marketing,github.com,105378,22
+2026-08-16,E1119,IT,www.bbc.com,226501,31
+2026-08-16,E1054,HR,teams.microsoft.com,183613,13
+2026-08-16,E1021,HR,otter.ai,802961,26
+2026-08-16,E1107,SME Lending,www.qcb.gov.qa,219751,10
+2026-08-16,E1111,Finance,www.perplexity.ai,265926,16
+2026-08-16,E1072,Marketing,www.google.com,321801,18
+2026-08-16,E1081,HR,sharepoint.com,24988,21
+2026-08-16,E1107,SME Lending,outlook.office365.com,71414,22
+2026-08-16,E1016,Marketing,copilot.microsoft.com,121420,60
+2026-08-16,E1009,Retail,www.bbc.com,317245,22
+2026-08-16,E1109,Marketing,www.google.com,326162,16
+2026-08-17,E1073,Operations,sharepoint.com,67803,21
+2026-08-17,E1015,Compliance,www.perplexity.ai,98955,35
+2026-08-17,E1107,SME Lending,www.linkedin.com,137187,33
+2026-08-17,E1059,SME Lending,www.linkedin.com,102182,29
+2026-08-17,E1000,SME Lending,www.bbc.com,118407,33
+2026-08-17,E1090,HR,www.qcb.gov.qa,60330,38
+2026-08-17,E1106,IT,api.openai.com,267971,48
+2026-08-17,E1111,Finance,www.perplexity.ai,427750,30
+2026-08-17,E1021,HR,sharepoint.com,60366,22
+2026-08-17,E1020,Retail,www.linkedin.com,134446,36
+2026-08-17,E1037,SME Lending,www.linkedin.com,5237,34
+2026-08-17,E1106,IT,huggingface.co,403058,29
+2026-08-17,E1033,IT,www.google.com,123693,3
+2026-08-17,E1103,Retail,www.linkedin.com,347506,11
+2026-08-17,E1039,SME Lending,www.linkedin.com,159995,19
+2026-08-17,E1071,IT,www.linkedin.com,63267,39
+2026-08-17,E1003,Compliance,www.linkedin.com,73849,37
+2026-08-17,E1040,Operations,www.bbc.com,44773,27
+2026-08-17,E1056,IT,api.openai.com,583478,60
+2026-08-17,E1007,SME Lending,www.qcb.gov.qa,288773,4
+2026-08-17,E1051,Operations,gemini.google.com,115609,44
+2026-08-17,E1084,Compliance,claude.ai,298635,25
+2026-08-17,E1101,Finance,www.bloomberg.com,329629,30
+2026-08-17,E1022,Marketing,www.google.com,294126,36
+2026-08-17,E1084,Compliance,outlook.office365.com,295365,39
+2026-08-17,E1091,Finance,github.com,162570,2
+2026-08-17,E1087,Marketing,teams.microsoft.com,82784,6
+2026-08-17,E1105,Operations,outlook.office365.com,270646,33
+2026-08-17,E1091,Finance,sharepoint.com,296510,33
+2026-08-17,E1089,Compliance,www.google.com,192406,26
+2026-08-17,E1102,Operations,www.bbc.com,340029,28
+2026-08-17,E1106,IT,github.com,269777,13
+2026-08-17,E1049,SME Lending,www.bloomberg.com,72515,30
+2026-08-17,E1050,Marketing,github.com,310507,7
+2026-08-17,E1030,Marketing,chatgpt.com,177939,39
+2026-08-17,E1104,SME Lending,gamma.app,197646,29
+2026-08-17,E1035,Retail,outlook.office365.com,244384,33
+2026-08-17,E1105,Operations,teams.microsoft.com,372423,4
+2026-08-17,E1030,Marketing,outlook.office365.com,257265,39
+2026-08-17,E1049,SME Lending,www.bloomberg.com,7391,19
+2026-08-17,E1043,SME Lending,sharepoint.com,358491,22
+2026-08-17,E1008,Marketing,www.bloomberg.com,181998,29
+2026-08-17,E1033,IT,www.bloomberg.com,97729,14
+2026-08-17,E1066,Compliance,claude.ai,853201,9
+2026-08-17,E1111,Finance,outlook.office365.com,30468,33
+2026-08-17,E1095,HR,sharepoint.com,202346,32
+2026-08-17,E1041,IT,teams.microsoft.com,217186,28
+2026-08-17,E1106,IT,claude.ai,162053,44
+2026-08-18,E1077,Compliance,sharepoint.com,274401,21
+2026-08-18,E1073,Operations,www.bbc.com,14259,9
+2026-08-18,E1066,Compliance,www.bbc.com,66605,14
+2026-08-18,E1056,IT,huggingface.co,395892,6
+2026-08-18,E1070,Retail,chatgpt.com,417922,46
+2026-08-18,E1054,HR,outlook.office365.com,183824,30
+2026-08-18,E1057,Compliance,sharepoint.com,268924,15
+2026-08-18,E1050,Marketing,sharepoint.com,88957,31
+2026-08-18,E1103,Retail,www.linkedin.com,108644,26
+2026-08-18,E1070,Retail,gemini.google.com,479463,60
+2026-08-18,E1114,HR,teams.microsoft.com,36476,28
+2026-08-18,E1106,IT,www.google.com,116653,17
+2026-08-18,E1092,SME Lending,www.bbc.com,137566,4
+2026-08-18,E1033,IT,sharepoint.com,341666,11
+2026-08-18,E1055,IT,www.bbc.com,150436,28
+2026-08-18,E1015,Compliance,www.deepl.com,892247,48
+2026-08-18,E1094,SME Lending,teams.microsoft.com,378592,21
+2026-08-18,E1051,Operations,otter.ai,415697,53
+2026-08-18,E1000,SME Lending,gamma.app,323727,47
+2026-08-18,E1030,Marketing,chatgpt.com,345254,14
+2026-08-18,E1041,IT,api.openai.com,529335,34
+2026-08-18,E1016,Marketing,www.bloomberg.com,345139,37
+2026-08-18,E1018,Finance,sharepoint.com,298565,18
+2026-08-18,E1104,SME Lending,www.google.com,7614,8
+2026-08-18,E1011,SME Lending,teams.microsoft.com,274006,40
+2026-08-18,E1075,Compliance,www.bbc.com,251060,38
+2026-08-18,E1056,IT,outlook.office365.com,65799,36
+2026-08-18,E1100,Marketing,gamma.app,108355,54
+2026-08-18,E1109,Marketing,www.google.com,103793,10
+2026-08-18,E1029,SME Lending,teams.microsoft.com,267621,7
+2026-08-18,E1084,Compliance,copilot.microsoft.com,79558,29
+2026-08-18,E1012,Compliance,sharepoint.com,117510,25
+2026-08-18,E1098,SME Lending,sharepoint.com,106768,16
+2026-08-18,E1105,Operations,www.bbc.com,87415,4
+2026-08-18,E1051,Operations,www.qcb.gov.qa,229164,35
+2026-08-18,E1040,Operations,www.linkedin.com,135835,6
+2026-08-18,E1105,Operations,gemini.google.com,651813,44
+2026-08-18,E1000,SME Lending,www.google.com,344170,14
+2026-08-19,E1052,Finance,www.linkedin.com,123065,26
+2026-08-19,E1117,Compliance,www.deepl.com,159375,12
+2026-08-19,E1008,Marketing,gamma.app,374039,60
+2026-08-19,E1066,Compliance,www.perplexity.ai,14940,19
+2026-08-19,E1023,IT,www.bbc.com,185868,21
+2026-08-19,E1046,Operations,gemini.google.com,896787,31
+2026-08-19,E1048,Compliance,www.bloomberg.com,175406,4
+2026-08-19,E1084,Compliance,www.perplexity.ai,334061,24
+2026-08-19,E1097,Marketing,gamma.app,860160,34
+2026-08-19,E1057,Compliance,www.deepl.com,370611,28
+2026-08-19,E1005,HR,www.bloomberg.com,347414,13
+2026-08-19,E1014,Retail,www.bloomberg.com,192674,30
+2026-08-19,E1070,Retail,github.com,163145,24
+2026-08-19,E1098,SME Lending,www.qcb.gov.qa,125752,29
+2026-08-19,E1106,IT,copilot.microsoft.com,590861,33
+2026-08-19,E1028,SME Lending,www.bbc.com,243367,6
+2026-08-19,E1037,SME Lending,www.qcb.gov.qa,323737,37
+2026-08-19,E1064,Marketing,outlook.office365.com,220500,39
+2026-08-19,E1105,Operations,gemini.google.com,246907,55
+2026-08-19,E1094,SME Lending,github.com,393363,16
+2026-08-19,E1100,Marketing,gamma.app,195862,24
+2026-08-19,E1057,Compliance,www.perplexity.ai,819018,6
+2026-08-19,E1030,Marketing,gamma.app,145902,27
+2026-08-19,E1068,Retail,www.linkedin.com,99743,31
+2026-08-19,E1020,Retail,www.google.com,334382,1
+2026-08-19,E1056,IT,claude.ai,299949,17
+2026-08-19,E1116,Operations,www.linkedin.com,149802,14
+2026-08-19,E1024,Operations,sharepoint.com,223140,21
+2026-08-19,E1027,IT,claude.ai,487188,38
+2026-08-19,E1023,IT,teams.microsoft.com,258659,31
+2026-08-19,E1048,Compliance,www.google.com,70317,7
+2026-08-19,E1071,IT,teams.microsoft.com,271599,4
+2026-08-19,E1040,Operations,sharepoint.com,95724,23
+2026-08-19,E1112,Retail,teams.microsoft.com,16448,36
+2026-08-19,E1058,Operations,www.linkedin.com,346547,12
+2026-08-19,E1093,Retail,sharepoint.com,155068,39
+2026-08-19,E1104,SME Lending,www.google.com,100546,34
+2026-08-19,E1008,Marketing,teams.microsoft.com,347225,18
+2026-08-20,E1001,Retail,www.bbc.com,223099,30
+2026-08-20,E1100,Marketing,teams.microsoft.com,78601,9
+2026-08-20,E1097,Marketing,gamma.app,601544,36
+2026-08-20,E1033,IT,huggingface.co,556531,9
+2026-08-20,E1068,Retail,teams.microsoft.com,386440,3
+2026-08-20,E1076,IT,outlook.office365.com,282622,36
+2026-08-20,E1017,Compliance,teams.microsoft.com,217824,21
+2026-08-20,E1030,Marketing,gamma.app,495821,32
+2026-08-20,E1097,Marketing,www.linkedin.com,283135,6
+2026-08-20,E1110,HR,www.linkedin.com,120316,15
+2026-08-20,E1069,Compliance,www.deepl.com,533219,19
+2026-08-20,E1001,Retail,github.com,134973,20
+2026-08-20,E1114,HR,teams.microsoft.com,345421,9
+2026-08-20,E1011,SME Lending,www.google.com,191770,33
+2026-08-20,E1004,Compliance,outlook.office365.com,174798,16
+2026-08-20,E1069,Compliance,www.perplexity.ai,350354,54
+2026-08-20,E1100,Marketing,gamma.app,580870,21
+2026-08-20,E1104,SME Lending,www.bbc.com,361378,39
+2026-08-20,E1087,Marketing,www.google.com,396822,14
+2026-08-20,E1077,Compliance,www.perplexity.ai,252956,36
+2026-08-20,E1051,Operations,gemini.google.com,888827,52
+2026-08-20,E1082,Operations,www.bbc.com,28043,37
+2026-08-20,E1070,Retail,sharepoint.com,177900,28
+2026-08-20,E1096,HR,www.bbc.com,381469,23
+2026-08-20,E1071,IT,www.bbc.com,102009,40
+2026-08-20,E1072,Marketing,github.com,27697,22
+2026-08-20,E1023,IT,github.com,198824,37
+2026-08-20,E1057,Compliance,copilot.microsoft.com,515234,10
+2026-08-20,E1099,Marketing,www.google.com,38426,35
+2026-08-20,E1067,IT,claude.ai,780086,3
+2026-08-20,E1115,SME Lending,www.bloomberg.com,302276,1
+2026-08-20,E1060,HR,sharepoint.com,197245,20
+2026-08-20,E1094,SME Lending,sharepoint.com,89318,5
+2026-08-20,E1095,HR,outlook.office365.com,287116,19
+2026-08-20,E1065,Operations,www.bloomberg.com,102947,32
+2026-08-21,E1066,Compliance,www.google.com,186020,23
+2026-08-21,E1054,HR,teams.microsoft.com,22929,39
+2026-08-21,E1023,IT,sharepoint.com,368390,2
+2026-08-21,E1099,Marketing,github.com,150388,10
+2026-08-21,E1059,SME Lending,www.qcb.gov.qa,250682,20
+2026-08-21,E1076,IT,huggingface.co,721400,33
+2026-08-21,E1070,Retail,teams.microsoft.com,265604,22
+2026-08-21,E1098,SME Lending,github.com,47760,2
+2026-08-21,E1062,HR,sharepoint.com,219009,26
+2026-08-21,E1062,HR,github.com,255856,33
+2026-08-21,E1076,IT,sharepoint.com,251012,38
+2026-08-21,E1089,Compliance,www.linkedin.com,234931,14
+2026-08-21,E1021,HR,outlook.office365.com,11026,15
+2026-08-21,E1002,Operations,otter.ai,703765,7
+2026-08-21,E1068,Retail,gemini.google.com,448980,44
+2026-08-21,E1055,IT,www.bloomberg.com,382559,5
+2026-08-21,E1002,Operations,www.deepl.com,542659,48
+2026-08-21,E1054,HR,otter.ai,139118,49
+2026-08-21,E1119,IT,www.google.com,322894,34
+2026-08-21,E1013,Compliance,outlook.office365.com,217184,3
+2026-08-21,E1025,HR,www.bbc.com,173344,5
+2026-08-21,E1117,Compliance,claude.ai,745963,41
+2026-08-21,E1030,Marketing,github.com,126033,8
+2026-08-21,E1065,Operations,www.qcb.gov.qa,67875,19
+2026-08-21,E1041,IT,sharepoint.com,264118,25
+2026-08-21,E1039,SME Lending,chatgpt.com,727391,16
+2026-08-21,E1062,HR,sharepoint.com,388556,40
+2026-08-21,E1047,SME Lending,gamma.app,392321,44
+2026-08-21,E1106,IT,api.openai.com,781414,29
+2026-08-22,E1100,Marketing,www.qcb.gov.qa,390328,4
+2026-08-22,E1056,IT,github.com,134329,38
+2026-08-22,E1046,Operations,otter.ai,686607,60
+2026-08-22,E1065,Operations,sharepoint.com,347149,13
+2026-08-22,E1109,Marketing,www.linkedin.com,58847,8
+2026-08-22,E1062,HR,copilot.microsoft.com,64165,18
+2026-08-22,E1004,Compliance,teams.microsoft.com,8871,18
+2026-08-22,E1106,IT,huggingface.co,158466,20
+2026-08-22,E1106,IT,www.linkedin.com,43963,6
+2026-08-22,E1115,SME Lending,github.com,191544,6
+2026-08-22,E1046,Operations,www.deepl.com,648002,44
+2026-08-22,E1108,Operations,github.com,140950,19
+2026-08-22,E1110,HR,www.linkedin.com,206051,11
+2026-08-22,E1082,Operations,www.google.com,12768,16
+2026-08-22,E1060,HR,otter.ai,528195,50
+2026-08-22,E1069,Compliance,www.perplexity.ai,146170,54
+2026-08-22,E1027,IT,outlook.office365.com,339654,33
+2026-08-22,E1046,Operations,gemini.google.com,357395,53
+2026-08-22,E1033,IT,sharepoint.com,232069,40
+2026-08-22,E1042,Compliance,www.bbc.com,389734,33
+2026-08-22,E1046,Operations,www.google.com,137213,10
+2026-08-22,E1119,IT,www.bbc.com,55355,32
+2026-08-22,E1043,SME Lending,outlook.office365.com,299531,30
+2026-08-22,E1066,Compliance,www.perplexity.ai,49936,37
+2026-08-22,E1063,Finance,sharepoint.com,290838,8
+2026-08-22,E1106,IT,www.google.com,316012,10
+2026-08-22,E1067,IT,copilot.microsoft.com,707668,32
+2026-08-22,E1052,Finance,www.bbc.com,185407,23
+2026-08-22,E1034,Operations,www.qcb.gov.qa,46507,32
+2026-08-22,E1039,SME Lending,chatgpt.com,514311,36
+2026-08-22,E1094,SME Lending,github.com,175442,28
+2026-08-22,E1024,Operations,www.google.com,294891,28
+2026-08-22,E1007,SME Lending,gamma.app,128601,35
+2026-08-22,E1067,IT,api.openai.com,383995,44
+2026-08-23,E1058,Operations,www.bloomberg.com,90758,22
+2026-08-23,E1072,Marketing,gamma.app,176418,57
+2026-08-23,E1027,IT,huggingface.co,646793,50
+2026-08-23,E1066,Compliance,www.google.com,195184,3
+2026-08-23,E1024,Operations,sharepoint.com,289618,17
+2026-08-23,E1010,Retail,github.com,370297,20
+2026-08-23,E1056,IT,www.linkedin.com,4453,16
+2026-08-23,E1033,IT,copilot.microsoft.com,746638,54
+2026-08-23,E1087,Marketing,www.google.com,79413,39
+2026-08-23,E1038,Marketing,outlook.office365.com,347902,7
+2026-08-23,E1012,Compliance,github.com,259854,20
+2026-08-23,E1054,HR,otter.ai,160787,27
+2026-08-23,E1102,Operations,outlook.office365.com,341182,11
+2026-08-23,E1033,IT,claude.ai,767054,7
+2026-08-23,E1037,SME Lending,www.linkedin.com,211765,36
+2026-08-23,E1072,Marketing,copilot.microsoft.com,92025,8
+2026-08-23,E1084,Compliance,www.deepl.com,757276,21
+2026-08-23,E1002,Operations,sharepoint.com,15650,1
+2026-08-23,E1000,SME Lending,www.bbc.com,18130,1
+2026-08-23,E1037,SME Lending,www.bloomberg.com,358775,35
+2026-08-23,E1119,IT,www.bbc.com,128138,14
+2026-08-23,E1039,SME Lending,www.bbc.com,354003,16
+2026-08-23,E1111,Finance,www.bbc.com,276134,14
+2026-08-23,E1057,Compliance,www.deepl.com,385162,35
+2026-08-23,E1087,Marketing,www.bbc.com,197741,21
+2026-08-23,E1070,Retail,gemini.google.com,617870,48
+2026-08-23,E1093,Retail,outlook.office365.com,318183,6
+2026-08-23,E1109,Marketing,www.bbc.com,112081,15
+2026-08-23,E1033,IT,huggingface.co,480987,37
+2026-08-23,E1041,IT,huggingface.co,738038,36
+2026-08-23,E1014,Retail,gemini.google.com,688735,7
+2026-08-23,E1023,IT,www.linkedin.com,13612,34
+2026-08-23,E1015,Compliance,www.deepl.com,237421,21
+2026-08-23,E1013,Compliance,outlook.office365.com,25379,38
+2026-08-23,E1084,Compliance,www.deepl.com,517929,4
+2026-08-23,E1050,Marketing,sharepoint.com,391030,22
+2026-08-23,E1106,IT,www.bbc.com,79494,12
+2026-08-23,E1046,Operations,www.bloomberg.com,334576,23
+2026-08-23,E1066,Compliance,sharepoint.com,340762,19
+2026-08-23,E1028,SME Lending,www.linkedin.com,224199,26
+2026-08-23,E1022,Marketing,www.google.com,262933,9
+2026-08-23,E1049,SME Lending,outlook.office365.com,360215,21
+2026-08-24,E1103,Retail,www.bloomberg.com,382999,27
+2026-08-24,E1001,Retail,www.bloomberg.com,386969,16
+2026-08-24,E1106,IT,sharepoint.com,133577,20
+2026-08-24,E1056,IT,claude.ai,535188,24
+2026-08-24,E1105,Operations,www.deepl.com,737901,26
+2026-08-24,E1004,Compliance,www.bloomberg.com,279460,26
+2026-08-24,E1118,HR,sharepoint.com,386699,16
+2026-08-24,E1002,Operations,github.com,303201,21
+2026-08-24,E1029,SME Lending,github.com,381213,32
+2026-08-24,E1063,Finance,www.bbc.com,253333,27
+2026-08-24,E1090,HR,github.com,386930,39
+2026-08-24,E1084,Compliance,www.deepl.com,689326,6
+2026-08-24,E1067,IT,www.google.com,251777,35
+2026-08-24,E1011,SME Lending,github.com,194061,40
+2026-08-24,E1010,Retail,www.google.com,328849,16
+2026-08-24,E1010,Retail,sharepoint.com,381103,30
+2026-08-24,E1087,Marketing,www.bloomberg.com,146303,4
+2026-08-24,E1031,SME Lending,sharepoint.com,93503,39
+2026-08-24,E1063,Finance,www.google.com,111379,27
+2026-08-24,E1002,Operations,www.deepl.com,729744,9
+2026-08-24,E1056,IT,sharepoint.com,265918,40
+2026-08-24,E1066,Compliance,github.com,155917,37
+2026-08-24,E1086,Marketing,sharepoint.com,365126,10
+2026-08-24,E1012,Compliance,github.com,181954,23
+2026-08-24,E1060,HR,github.com,12438,8
+2026-08-24,E1109,Marketing,github.com,99977,5
+2026-08-24,E1073,Operations,www.bbc.com,382004,18
+2026-08-24,E1119,IT,github.com,115299,10
+2026-08-24,E1010,Retail,www.bloomberg.com,363187,8
+2026-08-24,E1048,Compliance,sharepoint.com,357224,11
+2026-08-24,E1016,Marketing,gamma.app,183201,23
+2026-08-24,E1029,SME Lending,www.bbc.com,203051,10
+2026-08-24,E1084,Compliance,claude.ai,329704,43
+2026-08-24,E1046,Operations,sharepoint.com,96515,35
+2026-08-24,E1005,HR,outlook.office365.com,147335,36
+2026-08-24,E1017,Compliance,www.linkedin.com,217745,27
+2026-08-24,E1025,HR,otter.ai,542310,21
+2026-08-24,E1011,SME Lending,www.bbc.com,180316,20
+2026-08-24,E1091,Finance,sharepoint.com,369360,35
+2026-08-24,E1058,Operations,www.bbc.com,196623,12
+2026-08-24,E1067,IT,huggingface.co,363264,45
+2026-08-24,E1039,SME Lending,www.linkedin.com,198700,37
+2026-08-24,E1119,IT,www.qcb.gov.qa,327761,12
+2026-08-24,E1097,Marketing,sharepoint.com,130890,40
+2026-08-24,E1085,Operations,sharepoint.com,105025,31
+2026-08-24,E1021,HR,teams.microsoft.com,155360,40
+2026-08-24,E1007,SME Lending,www.linkedin.com,69190,31
+2026-08-24,E1036,Finance,outlook.office365.com,7695,34
+2026-08-24,E1025,HR,copilot.microsoft.com,409723,1
+2026-08-24,E1057,Compliance,claude.ai,888209,36
+2026-08-24,E1101,Finance,www.linkedin.com,326169,40
+2026-08-24,E1000,SME Lending,www.linkedin.com,337050,4
+2026-08-24,E1068,Retail,copilot.microsoft.com,196776,32
+2026-08-24,E1088,IT,www.linkedin.com,40028,16
+2026-08-24,E1006,SME Lending,sharepoint.com,260788,25
+2026-08-25,E1109,Marketing,github.com,297808,4
+2026-08-25,E1098,SME Lending,www.google.com,154575,39
+2026-08-25,E1093,Retail,chatgpt.com,867845,47
+2026-08-25,E1099,Marketing,teams.microsoft.com,170560,37
+2026-08-25,E1108,Operations,www.qcb.gov.qa,321070,18
+2026-08-25,E1116,Operations,sharepoint.com,36498,31
+2026-08-25,E1002,Operations,otter.ai,142440,57
+2026-08-25,E1040,Operations,sharepoint.com,199674,2
+2026-08-25,E1097,Marketing,sharepoint.com,134828,23
+2026-08-25,E1093,Retail,copilot.microsoft.com,113090,1
+2026-08-25,E1118,HR,github.com,149334,17
+2026-08-25,E1094,SME Lending,sharepoint.com,399628,10
+2026-08-25,E1089,Compliance,github.com,11908,11
+2026-08-25,E1112,Retail,teams.microsoft.com,219377,8
+2026-08-25,E1023,IT,github.com,331661,28
+2026-08-25,E1109,Marketing,www.bbc.com,21978,25
+2026-08-25,E1117,Compliance,www.qcb.gov.qa,377329,23
+2026-08-25,E1035,Retail,www.linkedin.com,111546,40
+2026-08-25,E1108,Operations,github.com,216094,21
+2026-08-25,E1013,Compliance,sharepoint.com,376267,2
+2026-08-25,E1043,SME Lending,outlook.office365.com,361070,9
+2026-08-25,E1020,Retail,gemini.google.com,772214,21
+2026-08-25,E1026,Compliance,www.bloomberg.com,132796,22
+2026-08-25,E1008,Marketing,gamma.app,863599,47
+2026-08-25,E1012,Compliance,outlook.office365.com,347928,16
+2026-08-25,E1015,Compliance,www.perplexity.ai,678234,51
+2026-08-25,E1045,Compliance,sharepoint.com,4046,23
+2026-08-25,E1055,IT,www.qcb.gov.qa,298382,22
+2026-08-25,E1006,SME Lending,www.bloomberg.com,76990,14
+2026-08-25,E1089,Compliance,www.bbc.com,186960,37
+2026-08-25,E1071,IT,github.com,222259,3
+2026-08-26,E1111,Finance,chatgpt.com,359256,12
+2026-08-26,E1016,Marketing,gamma.app,850611,9
+2026-08-26,E1081,HR,www.bbc.com,264906,38
+2026-08-26,E1053,IT,www.bloomberg.com,387772,2
+2026-08-26,E1002,Operations,gemini.google.com,176446,45
+2026-08-26,E1079,Marketing,www.linkedin.com,51159,29
+2026-08-26,E1113,Operations,www.google.com,191402,38
+2026-08-26,E1040,Operations,www.qcb.gov.qa,352862,8
+2026-08-26,E1017,Compliance,sharepoint.com,365881,31
+2026-08-26,E1024,Operations,outlook.office365.com,111829,27
+2026-08-26,E1095,HR,outlook.office365.com,169227,18
+2026-08-26,E1103,Retail,www.google.com,385402,13
+2026-08-26,E1054,HR,otter.ai,802152,5
+2026-08-26,E1104,SME Lending,www.bloomberg.com,314340,34
+2026-08-26,E1012,Compliance,www.qcb.gov.qa,93365,20
+2026-08-26,E1033,IT,api.openai.com,486106,50
+2026-08-26,E1037,SME Lending,www.linkedin.com,273011,23
+2026-08-26,E1086,Marketing,sharepoint.com,123451,39
+2026-08-26,E1114,HR,www.bbc.com,86534,20
+2026-08-26,E1002,Operations,gemini.google.com,106555,34
+2026-08-26,E1052,Finance,teams.microsoft.com,42631,39
+2026-08-26,E1084,Compliance,sharepoint.com,85847,9
+2026-08-26,E1098,SME Lending,www.google.com,130584,3
+2026-08-26,E1093,Retail,www.bloomberg.com,389774,27
+2026-08-26,E1102,Operations,www.bloomberg.com,152327,11
+2026-08-26,E1106,IT,huggingface.co,247722,35
+2026-08-26,E1068,Retail,gemini.google.com,249582,55
+2026-08-26,E1069,Compliance,copilot.microsoft.com,574892,14
+2026-08-26,E1068,Retail,gemini.google.com,86349,39
+2026-08-26,E1038,Marketing,teams.microsoft.com,391914,18
+2026-08-26,E1078,Finance,teams.microsoft.com,327726,10
+2026-08-26,E1007,SME Lending,www.linkedin.com,29725,20
+2026-08-26,E1118,HR,www.linkedin.com,240670,8
+2026-08-26,E1118,HR,teams.microsoft.com,324516,32
+2026-08-26,E1027,IT,sharepoint.com,366293,4
+2026-08-26,E1086,Marketing,outlook.office365.com,96032,40
+2026-08-26,E1000,SME Lending,copilot.microsoft.com,125088,50
+2026-08-26,E1019,Operations,sharepoint.com,188740,12
+2026-08-26,E1023,IT,sharepoint.com,186598,30
+2026-08-26,E1026,Compliance,www.linkedin.com,236914,36
+2026-08-26,E1046,Operations,www.deepl.com,480693,1
+2026-08-26,E1083,HR,www.linkedin.com,366675,23
+2026-08-26,E1003,Compliance,www.linkedin.com,77328,1
+2026-08-26,E1023,IT,sharepoint.com,331187,1
+2026-08-26,E1021,HR,www.bloomberg.com,128739,38
+2026-08-26,E1116,Operations,www.bloomberg.com,376075,17
+2026-08-27,E1117,Compliance,www.perplexity.ai,516435,15
+2026-08-27,E1077,Compliance,claude.ai,41434,4
+2026-08-27,E1100,Marketing,chatgpt.com,724858,39
+2026-08-27,E1033,IT,huggingface.co,555829,46
+2026-08-27,E1047,SME Lending,gamma.app,584959,48
+2026-08-27,E1069,Compliance,copilot.microsoft.com,277581,23
+2026-08-27,E1041,IT,api.openai.com,247369,35
+2026-08-27,E1105,Operations,www.deepl.com,81184,41
+2026-08-27,E1062,HR,github.com,204470,31
+2026-08-27,E1104,SME Lending,outlook.office365.com,54729,40
+2026-08-27,E1047,SME Lending,sharepoint.com,325194,31
+2026-08-27,E1019,Operations,www.bbc.com,122489,28
+2026-08-27,E1015,Compliance,copilot.microsoft.com,336400,5
+2026-08-27,E1000,SME Lending,outlook.office365.com,144407,14
+2026-08-27,E1007,SME Lending,gamma.app,13949,17
+2026-08-27,E1081,HR,www.bbc.com,85464,12
+2026-08-27,E1021,HR,sharepoint.com,61648,31
+2026-08-27,E1090,HR,sharepoint.com,52714,5
+2026-08-27,E1057,Compliance,www.perplexity.ai,586041,36
+2026-08-27,E1104,SME Lending,www.qcb.gov.qa,202701,23
+2026-08-27,E1054,HR,otter.ai,46412,47
+2026-08-27,E1085,Operations,www.linkedin.com,79109,21
+2026-08-27,E1027,IT,www.linkedin.com,41932,24
+2026-08-27,E1049,SME Lending,github.com,165919,25
+2026-08-27,E1084,Compliance,www.qcb.gov.qa,194864,12
+2026-08-27,E1015,Compliance,outlook.office365.com,240802,38
+2026-08-27,E1017,Compliance,www.google.com,84478,12
+2026-08-27,E1046,Operations,teams.microsoft.com,235618,26
+2026-08-27,E1090,HR,teams.microsoft.com,333436,24
+2026-08-27,E1072,Marketing,www.linkedin.com,178116,25
+2026-08-27,E1115,SME Lending,gamma.app,183276,11
+2026-08-27,E1064,Marketing,www.bbc.com,138797,3
+2026-08-27,E1076,IT,huggingface.co,792371,18
+2026-08-27,E1091,Finance,outlook.office365.com,60781,7
+2026-08-27,E1049,SME Lending,outlook.office365.com,331415,26
+2026-08-27,E1035,Retail,www.google.com,95313,37
+2026-08-27,E1027,IT,www.google.com,318994,31
+2026-08-27,E1066,Compliance,www.google.com,218049,11
+2026-08-27,E1100,Marketing,copilot.microsoft.com,651498,4
+2026-08-27,E1079,Marketing,github.com,131190,24
+2026-08-27,E1021,HR,otter.ai,261961,10
+2026-08-27,E1079,Marketing,www.google.com,143676,40
+2026-08-28,E1111,Finance,copilot.microsoft.com,649351,12
+2026-08-28,E1002,Operations,gemini.google.com,388490,44
+2026-08-28,E1106,IT,copilot.microsoft.com,121490,17
+2026-08-28,E1098,SME Lending,github.com,57642,8
+2026-08-28,E1021,HR,chatgpt.com,286076,20
+2026-08-28,E1114,HR,www.linkedin.com,271614,24
+2026-08-28,E1117,Compliance,claude.ai,874442,45
+2026-08-28,E1056,IT,github.com,19864,3
+2026-08-28,E1087,Marketing,sharepoint.com,78293,39
+2026-08-28,E1001,Retail,www.linkedin.com,202284,30
+2026-08-28,E1046,Operations,otter.ai,561024,22
+2026-08-28,E1103,Retail,gemini.google.com,888365,20
+2026-08-28,E1025,HR,www.google.com,386520,7
+2026-08-28,E1068,Retail,sharepoint.com,166636,10
+2026-08-28,E1003,Compliance,outlook.office365.com,376845,22
+2026-08-28,E1004,Compliance,github.com,345859,28
+2026-08-28,E1078,Finance,www.bloomberg.com,23710,7
+2026-08-28,E1064,Marketing,teams.microsoft.com,294961,2
+2026-08-28,E1107,SME Lending,www.bloomberg.com,399696,19
+2026-08-28,E1062,HR,github.com,259467,8
+2026-08-28,E1008,Marketing,www.linkedin.com,31122,24
+2026-08-28,E1037,SME Lending,www.bbc.com,76570,36
+2026-08-28,E1090,HR,www.bloomberg.com,300043,38
+2026-08-28,E1110,HR,www.qcb.gov.qa,365584,39
+2026-08-28,E1003,Compliance,www.bloomberg.com,244144,9
+2026-08-28,E1002,Operations,www.deepl.com,667678,43
+2026-08-28,E1039,SME Lending,www.linkedin.com,126907,24
+2026-08-28,E1076,IT,huggingface.co,786056,39
+2026-08-28,E1093,Retail,gemini.google.com,391033,43
+2026-08-28,E1099,Marketing,www.bbc.com,290190,25
+2026-08-28,E1010,Retail,github.com,372042,31
+2026-08-28,E1086,Marketing,teams.microsoft.com,369338,28
+2026-08-28,E1051,Operations,sharepoint.com,44649,17
+2026-08-28,E1024,Operations,www.google.com,212789,37
+2026-08-28,E1024,Operations,www.bloomberg.com,46774,6
+2026-08-28,E1004,Compliance,teams.microsoft.com,187466,10
+2026-08-28,E1081,HR,www.bloomberg.com,145904,28
+2026-08-29,E1017,Compliance,www.google.com,263732,33
+2026-08-29,E1036,Finance,www.google.com,332199,10
+2026-08-29,E1015,Compliance,www.perplexity.ai,105398,52
+2026-08-29,E1005,HR,sharepoint.com,15007,5
+2026-08-29,E1057,Compliance,www.linkedin.com,227757,27
+2026-08-29,E1044,Retail,www.bbc.com,246623,35
+2026-08-29,E1020,Retail,copilot.microsoft.com,744776,14
+2026-08-29,E1115,SME Lending,www.bbc.com,58209,6
+2026-08-29,E1046,Operations,gemini.google.com,670891,17
+2026-08-29,E1092,SME Lending,www.linkedin.com,179603,6
+2026-08-29,E1016,Marketing,copilot.microsoft.com,811859,44
+2026-08-29,E1105,Operations,otter.ai,215933,22
+2026-08-29,E1084,Compliance,copilot.microsoft.com,245118,52
+2026-08-29,E1044,Retail,www.bbc.com,217496,26
+2026-08-29,E1099,Marketing,sharepoint.com,341950,25
+2026-08-29,E1010,Retail,www.qcb.gov.qa,298685,9
+2026-08-29,E1062,HR,sharepoint.com,36775,6
+2026-08-29,E1000,SME Lending,www.linkedin.com,326441,19
+2026-08-29,E1071,IT,www.bloomberg.com,118713,2
+2026-08-29,E1027,IT,api.openai.com,731168,31
+2026-08-29,E1040,Operations,www.linkedin.com,290994,27
+2026-08-29,E1040,Operations,www.bloomberg.com,364479,9
+2026-08-29,E1002,Operations,gemini.google.com,125172,42
+2026-08-29,E1068,Retail,www.qcb.gov.qa,211143,38
+2026-08-29,E1062,HR,chatgpt.com,192556,4
+2026-08-29,E1076,IT,www.qcb.gov.qa,171591,36
+2026-08-30,E1092,SME Lending,sharepoint.com,399976,13
+2026-08-30,E1119,IT,sharepoint.com,346159,7
+2026-08-30,E1101,Finance,github.com,85948,40
+2026-08-30,E1073,Operations,github.com,250514,36
+2026-08-30,E1017,Compliance,sharepoint.com,147350,11
+2026-08-30,E1046,Operations,gemini.google.com,28240,40
+2026-08-30,E1113,Operations,github.com,62310,32
+2026-08-30,E1111,Finance,copilot.microsoft.com,104365,29
+2026-08-30,E1067,IT,claude.ai,465688,41
+2026-08-30,E1062,HR,github.com,11290,29
+2026-08-30,E1002,Operations,gemini.google.com,472050,50
+2026-08-30,E1067,IT,huggingface.co,35276,19
+2026-08-30,E1086,Marketing,sharepoint.com,183613,26
+2026-08-30,E1024,Operations,www.linkedin.com,264527,2
+2026-08-30,E1085,Operations,www.linkedin.com,365265,30
+2026-08-30,E1106,IT,www.linkedin.com,179950,19
+2026-08-30,E1033,IT,api.openai.com,267618,3
+2026-08-30,E1106,IT,api.openai.com,47649,41
+2026-08-30,E1100,Marketing,www.linkedin.com,348866,40
+2026-08-30,E1054,HR,github.com,358951,16
+2026-08-30,E1021,HR,otter.ai,857374,2
+2026-08-30,E1056,IT,api.openai.com,731884,54
+2026-08-30,E1006,SME Lending,outlook.office365.com,141815,24
+2026-08-30,E1014,Retail,gemini.google.com,546173,42
+2026-08-30,E1108,Operations,outlook.office365.com,260960,11
+2026-08-30,E1071,IT,www.bbc.com,71041,8
+2026-08-30,E1057,Compliance,teams.microsoft.com,12926,22
+2026-08-30,E1002,Operations,gemini.google.com,366863,27
+2026-08-30,E1117,Compliance,www.qcb.gov.qa,19642,9
+2026-08-30,E1114,HR,github.com,357060,24
+2026-08-30,E1032,IT,outlook.office365.com,368981,10
+2026-08-30,E1049,SME Lending,www.google.com,239364,3
+2026-08-30,E1062,HR,chatgpt.com,703978,8
+2026-08-30,E1065,Operations,www.qcb.gov.qa,301923,22
+2026-08-30,E1007,SME Lending,www.bloomberg.com,63349,17
+2026-08-30,E1075,Compliance,www.bloomberg.com,243621,18
+2026-08-30,E1061,Compliance,www.bbc.com,281759,11
+2026-08-30,E1005,HR,www.bloomberg.com,385552,33
+2026-08-30,E1068,Retail,gemini.google.com,257570,30
+2026-08-30,E1009,Retail,www.bloomberg.com,307756,32
+2026-08-30,E1099,Marketing,gamma.app,886756,8
+2026-08-31,E1053,IT,www.linkedin.com,301448,20
+2026-08-31,E1094,SME Lending,www.google.com,189112,3
+2026-08-31,E1088,IT,www.bloomberg.com,64545,37
+2026-08-31,E1076,IT,huggingface.co,341320,60
+2026-08-31,E1119,IT,www.linkedin.com,144289,39
+2026-08-31,E1112,Retail,outlook.office365.com,243665,29
+2026-08-31,E1105,Operations,copilot.microsoft.com,612527,26
+2026-08-31,E1044,Retail,www.qcb.gov.qa,242823,11
+2026-08-31,E1103,Retail,chatgpt.com,291930,47
+2026-08-31,E1071,IT,outlook.office365.com,306558,37
+2026-08-31,E1053,IT,www.linkedin.com,380911,40
+2026-08-31,E1077,Compliance,www.perplexity.ai,221036,56
+2026-08-31,E1092,SME Lending,www.bbc.com,36291,8
+2026-08-31,E1074,SME Lending,www.bloomberg.com,297523,28
+2026-08-31,E1043,SME Lending,www.qcb.gov.qa,385010,34
+2026-08-31,E1003,Compliance,www.linkedin.com,227465,2
+2026-08-31,E1011,SME Lending,www.qcb.gov.qa,380623,39
+2026-08-31,E1062,HR,www.google.com,317780,1
+2026-08-31,E1088,IT,teams.microsoft.com,71300,33
+2026-08-31,E1104,SME Lending,sharepoint.com,11386,25
+2026-08-31,E1096,HR,www.google.com,158082,1
+2026-08-31,E1035,Retail,www.bbc.com,105457,6
+2026-08-31,E1083,HR,www.bloomberg.com,387599,38
+2026-08-31,E1032,IT,www.google.com,335768,20
+2026-08-31,E1073,Operations,sharepoint.com,144510,7
+2026-08-31,E1010,Retail,github.com,158492,10
+2026-08-31,E1054,HR,outlook.office365.com,201968,1
+2026-08-31,E1031,SME Lending,sharepoint.com,19091,24
+2026-08-31,E1110,HR,sharepoint.com,42951,24
+2026-08-31,E1021,HR,otter.ai,258773,52
+2026-08-31,E1070,Retail,teams.microsoft.com,327653,10
+2026-08-31,E1008,Marketing,www.linkedin.com,16155,27
+2026-08-31,E1085,Operations,github.com,68683,12
+2026-08-31,E1105,Operations,otter.ai,684139,13
+2026-08-31,E1054,HR,otter.ai,367746,36
+2026-08-31,E1111,Finance,www.google.com,90426,15
+2026-08-31,E1042,Compliance,www.bbc.com,82009,16
+2026-08-31,E1100,Marketing,gamma.app,65941,6
+2026-08-31,E1102,Operations,www.google.com,200877,23
+2026-09-01,E1009,Retail,outlook.office365.com,169104,16
+2026-09-01,E1092,SME Lending,github.com,159754,40
+2026-09-01,E1008,Marketing,www.bloomberg.com,106208,40
+2026-09-01,E1060,HR,copilot.microsoft.com,177377,6
+2026-09-01,E1047,SME Lending,gamma.app,163050,4
+2026-09-01,E1018,Finance,www.qcb.gov.qa,345943,28
+2026-09-01,E1007,SME Lending,github.com,280691,24
+2026-09-01,E1023,IT,www.linkedin.com,2093,8
+2026-09-01,E1016,Marketing,www.linkedin.com,373847,30
+2026-09-01,E1070,Retail,www.bloomberg.com,23142,20
+2026-09-01,E1002,Operations,gemini.google.com,749006,59
+2026-09-01,E1061,Compliance,outlook.office365.com,60211,27
+2026-09-01,E1047,SME Lending,copilot.microsoft.com,605853,51
+2026-09-01,E1094,SME Lending,outlook.office365.com,399193,34
+2026-09-01,E1043,SME Lending,outlook.office365.com,189350,13
+2026-09-01,E1066,Compliance,copilot.microsoft.com,555349,41
+2026-09-01,E1107,SME Lending,www.qcb.gov.qa,60938,38
+2026-09-01,E1054,HR,chatgpt.com,109570,56
+2026-09-01,E1032,IT,github.com,261714,15
+2026-09-01,E1050,Marketing,sharepoint.com,159696,39
+2026-09-01,E1084,Compliance,teams.microsoft.com,276681,40
+2026-09-01,E1104,SME Lending,sharepoint.com,1827,7
+2026-09-01,E1041,IT,api.openai.com,203332,15
+2026-09-01,E1115,SME Lending,gamma.app,362745,59
+2026-09-01,E1008,Marketing,sharepoint.com,37692,13
+2026-09-01,E1033,IT,claude.ai,638565,29
+2026-09-01,E1042,Compliance,teams.microsoft.com,207254,11
+2026-09-01,E1103,Retail,github.com,53458,14
+2026-09-01,E1028,SME Lending,www.google.com,122503,5
+2026-09-01,E1100,Marketing,chatgpt.com,112665,28
+2026-09-01,E1116,Operations,sharepoint.com,4623,10
+2026-09-01,E1035,Retail,outlook.office365.com,366000,7
+2026-09-01,E1117,Compliance,claude.ai,554530,43
+2026-09-01,E1057,Compliance,outlook.office365.com,23990,19
+2026-09-01,E1113,Operations,www.linkedin.com,110700,6
+2026-09-01,E1053,IT,sharepoint.com,289423,32
+2026-09-01,E1040,Operations,outlook.office365.com,237268,22
+2026-09-01,E1000,SME Lending,gamma.app,41807,6
+2026-09-01,E1108,Operations,sharepoint.com,31144,23
+2026-09-02,E1039,SME Lending,www.google.com,195719,30
+2026-09-02,E1084,Compliance,www.deepl.com,283581,21
+2026-09-02,E1087,Marketing,www.google.com,290127,10
+2026-09-02,E1060,HR,otter.ai,29560,24
+2026-09-02,E1059,SME Lending,www.bbc.com,229622,33
+2026-09-02,E1014,Retail,gemini.google.com,753413,19
+2026-09-02,E1084,Compliance,www.deepl.com,406630,8
+2026-09-02,E1119,IT,github.com,277445,34
+2026-09-02,E1027,IT,api.openai.com,387191,60
+2026-09-02,E1084,Compliance,www.deepl.com,671077,39
+2026-09-02,E1105,Operations,gemini.google.com,657788,29
+2026-09-02,E1067,IT,api.openai.com,627726,35
+2026-09-02,E1059,SME Lending,www.linkedin.com,190515,34
+2026-09-02,E1061,Compliance,sharepoint.com,271014,35
+2026-09-02,E1053,IT,github.com,387441,38
+2026-09-02,E1074,SME Lending,www.linkedin.com,334688,28
+2026-09-02,E1107,SME Lending,www.qcb.gov.qa,395663,27
+2026-09-02,E1015,Compliance,outlook.office365.com,391719,2
+2026-09-02,E1109,Marketing,outlook.office365.com,235392,21
+2026-09-02,E1077,Compliance,teams.microsoft.com,125716,14
+2026-09-02,E1063,Finance,teams.microsoft.com,285951,1
+2026-09-02,E1047,SME Lending,www.linkedin.com,167210,18
+2026-09-02,E1114,HR,www.bloomberg.com,79042,1
+2026-09-02,E1070,Retail,sharepoint.com,6607,28
+2026-09-02,E1089,Compliance,www.bbc.com,341216,30
+2026-09-02,E1014,Retail,www.bloomberg.com,312939,40
+2026-09-02,E1105,Operations,otter.ai,325528,32
+2026-09-02,E1085,Operations,outlook.office365.com,79194,6
+2026-09-02,E1056,IT,copilot.microsoft.com,431008,44
+2026-09-02,E1077,Compliance,www.perplexity.ai,579390,42
+2026-09-02,E1047,SME Lending,www.linkedin.com,273049,30
+2026-09-02,E1091,Finance,www.bloomberg.com,321890,6
+2026-09-02,E1047,SME Lending,gamma.app,570458,20
+2026-09-02,E1104,SME Lending,gamma.app,32914,25
+2026-09-02,E1068,Retail,www.bbc.com,280169,35
+2026-09-02,E1034,Operations,www.bbc.com,347937,24
+2026-09-02,E1046,Operations,gemini.google.com,613484,10
+2026-09-02,E1043,SME Lending,github.com,264595,22
+2026-09-02,E1098,SME Lending,github.com,245329,13
+2026-09-02,E1057,Compliance,www.deepl.com,812143,50
+2026-09-02,E1030,Marketing,gamma.app,434005,57
+2026-09-02,E1104,SME Lending,gamma.app,399108,23
+2026-09-02,E1073,Operations,github.com,112648,30
+2026-09-03,E1058,Operations,sharepoint.com,372066,34
+2026-09-03,E1115,SME Lending,www.qcb.gov.qa,81781,13
+2026-09-03,E1025,HR,otter.ai,44210,3
+2026-09-03,E1033,IT,api.openai.com,583070,2
+2026-09-03,E1075,Compliance,outlook.office365.com,89596,8
+2026-09-03,E1030,Marketing,www.bloomberg.com,299967,5
+2026-09-03,E1011,SME Lending,teams.microsoft.com,60334,12
+2026-09-03,E1056,IT,www.qcb.gov.qa,14073,31
+2026-09-03,E1073,Operations,github.com,64251,34
+2026-09-03,E1097,Marketing,www.linkedin.com,262300,7
+2026-09-03,E1084,Compliance,claude.ai,79794,20
+2026-09-03,E1041,IT,teams.microsoft.com,366831,15
+2026-09-03,E1111,Finance,www.perplexity.ai,783667,23
+2026-09-03,E1054,HR,copilot.microsoft.com,727309,27
+2026-09-03,E1016,Marketing,www.qcb.gov.qa,41297,18
+2026-09-03,E1046,Operations,otter.ai,492755,18
+2026-09-03,E1001,Retail,sharepoint.com,383923,24
+2026-09-03,E1068,Retail,gemini.google.com,234311,40
+2026-09-03,E1118,HR,outlook.office365.com,56645,19
+2026-09-03,E1012,Compliance,www.bbc.com,79741,2
+2026-09-03,E1004,Compliance,www.google.com,183079,26
+2026-09-03,E1091,Finance,www.qcb.gov.qa,142164,27
+2026-09-03,E1008,Marketing,gamma.app,339226,25
+2026-09-03,E1050,Marketing,www.bbc.com,103175,21
+2026-09-03,E1002,Operations,www.deepl.com,708033,58
+2026-09-03,E1090,HR,outlook.office365.com,212489,9
+2026-09-03,E1023,IT,sharepoint.com,58796,29
+2026-09-03,E1014,Retail,gemini.google.com,620849,22
+2026-09-03,E1106,IT,api.openai.com,394127,16
+2026-09-03,E1062,HR,www.bloomberg.com,277133,8
+2026-09-03,E1100,Marketing,outlook.office365.com,84556,27
+2026-09-04,E1019,Operations,sharepoint.com,98968,16
+2026-09-04,E1058,Operations,www.qcb.gov.qa,223363,36
+2026-09-04,E1081,HR,www.linkedin.com,135367,23
+2026-09-04,E1084,Compliance,www.deepl.com,4693,3
+2026-09-04,E1063,Finance,www.linkedin.com,395469,33
+2026-09-04,E1072,Marketing,github.com,221815,18
+2026-09-04,E1023,IT,www.google.com,147940,26
+2026-09-04,E1084,Compliance,www.google.com,139685,11
+2026-09-04,E1016,Marketing,www.qcb.gov.qa,54966,26
+2026-09-04,E1027,IT,claude.ai,205322,58
+2026-09-04,E1093,Retail,teams.microsoft.com,321902,11
+2026-09-04,E1107,SME Lending,www.linkedin.com,148488,3
+2026-09-04,E1062,HR,github.com,147219,10
+2026-09-04,E1093,Retail,gemini.google.com,866998,1
+2026-09-04,E1027,IT,www.google.com,211009,22
+2026-09-04,E1099,Marketing,outlook.office365.com,40346,7
+2026-09-04,E1041,IT,api.openai.com,419568,53
+2026-09-04,E1011,SME Lending,www.linkedin.com,290294,20
+2026-09-04,E1113,Operations,outlook.office365.com,295824,14
+2026-09-04,E1066,Compliance,www.bbc.com,399962,10
+2026-09-04,E1010,Retail,gemini.google.com,624503,7
+2026-09-04,E1054,HR,otter.ai,590933,7
+2026-09-04,E1057,Compliance,www.deepl.com,199810,48
+2026-09-04,E1027,IT,www.bloomberg.com,120303,27
+2026-09-04,E1102,Operations,www.google.com,136105,35
+2026-09-04,E1007,SME Lending,sharepoint.com,224909,4
+2026-09-04,E1067,IT,claude.ai,665984,8
+2026-09-04,E1105,Operations,gemini.google.com,784544,57
+2026-09-04,E1086,Marketing,www.google.com,256587,29
+2026-09-04,E1051,Operations,www.deepl.com,379617,4
+2026-09-04,E1086,Marketing,sharepoint.com,384148,9
+2026-09-04,E1022,Marketing,outlook.office365.com,63575,25
+2026-09-05,E1073,Operations,www.google.com,62776,34
+2026-09-05,E1091,Finance,www.qcb.gov.qa,61731,1
+2026-09-05,E1097,Marketing,chatgpt.com,202337,6
+2026-09-05,E1070,Retail,outlook.office365.com,197026,7
+2026-09-05,E1058,Operations,www.linkedin.com,173068,38
+2026-09-05,E1115,SME Lending,chatgpt.com,684054,18
+2026-09-05,E1084,Compliance,outlook.office365.com,142545,40
+2026-09-05,E1065,Operations,www.google.com,367188,15
+2026-09-05,E1014,Retail,www.bloomberg.com,72257,32
+2026-09-05,E1091,Finance,www.linkedin.com,37480,6
+2026-09-05,E1071,IT,www.linkedin.com,207979,17
+2026-09-05,E1105,Operations,otter.ai,481187,10
+2026-09-05,E1002,Operations,teams.microsoft.com,71823,20
+2026-09-05,E1008,Marketing,gamma.app,841333,37
+2026-09-05,E1027,IT,claude.ai,641427,11
+2026-09-05,E1090,HR,www.google.com,333171,18
+2026-09-05,E1052,Finance,www.bloomberg.com,257488,14
+2026-09-05,E1086,Marketing,outlook.office365.com,327949,26
+2026-09-05,E1105,Operations,www.qcb.gov.qa,355794,9
+2026-09-05,E1039,SME Lending,chatgpt.com,400855,29
+2026-09-05,E1041,IT,huggingface.co,465303,8
+2026-09-05,E1105,Operations,otter.ai,407785,59
+2026-09-05,E1027,IT,teams.microsoft.com,51918,7
+2026-09-05,E1005,HR,sharepoint.com,154824,35
+2026-09-05,E1059,SME Lending,www.qcb.gov.qa,42017,34
+2026-09-05,E1106,IT,www.qcb.gov.qa,157942,37
+2026-09-05,E1033,IT,www.bbc.com,379685,1
+2026-09-05,E1069,Compliance,teams.microsoft.com,394402,17
+2026-09-05,E1058,Operations,outlook.office365.com,313669,34
+2026-09-06,E1111,Finance,www.bloomberg.com,176854,5
+2026-09-06,E1033,IT,api.openai.com,41581,43
+2026-09-06,E1093,Retail,www.qcb.gov.qa,394521,18
+2026-09-06,E1072,Marketing,gamma.app,376795,50
+2026-09-06,E1056,IT,claude.ai,99992,42
+2026-09-06,E1042,Compliance,teams.microsoft.com,217928,34
+2026-09-06,E1086,Marketing,www.linkedin.com,212158,38
+2026-09-06,E1102,Operations,github.com,250177,28
+2026-09-06,E1046,Operations,otter.ai,386774,26
+2026-09-06,E1023,IT,www.qcb.gov.qa,18348,22
+2026-09-06,E1115,SME Lending,www.linkedin.com,321025,10
+2026-09-06,E1019,Operations,www.linkedin.com,222103,15
+2026-09-06,E1046,Operations,otter.ai,661580,47
+2026-09-06,E1051,Operations,otter.ai,519904,57
+2026-09-06,E1105,Operations,otter.ai,397129,21
+2026-09-06,E1069,Compliance,www.perplexity.ai,37466,54
+2026-09-06,E1088,IT,www.bloomberg.com,279971,36
+2026-09-06,E1089,Compliance,www.google.com,225896,15
+2026-09-06,E1002,Operations,www.deepl.com,14653,24
+2026-09-06,E1097,Marketing,gamma.app,503207,1
+2026-09-06,E1099,Marketing,outlook.office365.com,299148,2
+2026-09-06,E1002,Operations,www.deepl.com,592653,1
+2026-09-06,E1077,Compliance,www.deepl.com,68974,17
+2026-09-06,E1012,Compliance,sharepoint.com,183924,37
+2026-09-06,E1111,Finance,www.perplexity.ai,158130,16
+2026-09-06,E1053,IT,sharepoint.com,265172,2
+2026-09-06,E1033,IT,claude.ai,84467,26
+2026-09-06,E1093,Retail,gemini.google.com,121169,48
+2026-09-06,E1091,Finance,github.com,229148,30
+2026-09-06,E1012,Compliance,www.bloomberg.com,55477,29
+2026-09-06,E1015,Compliance,www.bloomberg.com,51165,40
+2026-09-06,E1012,Compliance,www.bbc.com,72980,1
+2026-09-06,E1105,Operations,otter.ai,432749,50
+2026-09-06,E1008,Marketing,www.google.com,82277,29
+2026-09-06,E1010,Retail,teams.microsoft.com,371817,25
+2026-09-06,E1016,Marketing,chatgpt.com,627780,19
+2026-09-06,E1105,Operations,gemini.google.com,311222,30
+2026-09-06,E1056,IT,huggingface.co,336217,45
+2026-09-07,E1012,Compliance,www.qcb.gov.qa,335193,23
+2026-09-07,E1060,HR,www.qcb.gov.qa,123505,25
+2026-09-07,E1066,Compliance,www.google.com,6097,17
+2026-09-07,E1077,Compliance,sharepoint.com,268696,14
+2026-09-07,E1114,HR,www.qcb.gov.qa,176693,30
+2026-09-07,E1069,Compliance,www.perplexity.ai,580440,27
+2026-09-07,E1117,Compliance,www.perplexity.ai,302614,2
+2026-09-07,E1104,SME Lending,gamma.app,722442,56
+2026-09-07,E1076,IT,sharepoint.com,81110,36
+2026-09-07,E1012,Compliance,www.bloomberg.com,305111,23
+2026-09-07,E1084,Compliance,www.perplexity.ai,498520,16
+2026-09-07,E1021,HR,chatgpt.com,134731,18
+2026-09-07,E1020,Retail,www.linkedin.com,296216,5
+2026-09-07,E1064,Marketing,sharepoint.com,346236,25
+2026-09-07,E1098,SME Lending,outlook.office365.com,280553,1
+2026-09-07,E1010,Retail,www.linkedin.com,319166,21
+2026-09-07,E1026,Compliance,outlook.office365.com,369439,28
+2026-09-07,E1015,Compliance,copilot.microsoft.com,624665,41
+2026-09-07,E1069,Compliance,outlook.office365.com,212506,6
+2026-09-07,E1020,Retail,outlook.office365.com,116272,9
+2026-09-07,E1024,Operations,www.linkedin.com,155236,10
+2026-09-07,E1060,HR,otter.ai,776568,47
+2026-09-07,E1039,SME Lending,copilot.microsoft.com,304692,11
+2026-09-07,E1004,Compliance,outlook.office365.com,105550,24
+2026-09-07,E1063,Finance,www.bloomberg.com,236566,2
+2026-09-07,E1015,Compliance,sharepoint.com,58666,36
+2026-09-07,E1118,HR,sharepoint.com,333161,32
+2026-09-07,E1107,SME Lending,github.com,113239,19
+2026-09-07,E1046,Operations,www.bloomberg.com,179290,6
+2026-09-07,E1021,HR,www.bloomberg.com,3269,7
+2026-09-07,E1033,IT,huggingface.co,159131,11
+2026-09-07,E1087,Marketing,outlook.office365.com,335660,31
+2026-09-07,E1076,IT,teams.microsoft.com,276372,3
+2026-09-07,E1026,Compliance,teams.microsoft.com,112083,14
+2026-09-07,E1051,Operations,otter.ai,515641,46
+2026-09-07,E1094,SME Lending,chatgpt.com,814270,31
+2026-09-07,E1106,IT,huggingface.co,842952,43
+2026-09-07,E1010,Retail,www.bloomberg.com,234548,6
+2026-09-07,E1047,SME Lending,gamma.app,362572,57
+2026-09-07,E1024,Operations,www.linkedin.com,199283,24
+2026-09-07,E1060,HR,www.google.com,5360,32
+2026-09-07,E1047,SME Lending,copilot.microsoft.com,729117,59
+2026-09-07,E1071,IT,teams.microsoft.com,378194,8
+2026-09-08,E1051,Operations,gemini.google.com,486417,27
+2026-09-08,E1043,SME Lending,www.linkedin.com,25022,29
+2026-09-08,E1106,IT,www.bbc.com,224267,34
+2026-09-08,E1072,Marketing,teams.microsoft.com,113159,25
+2026-09-08,E1076,IT,www.bbc.com,3629,11
+2026-09-08,E1037,SME Lending,www.google.com,366448,32
+2026-09-08,E1026,Compliance,outlook.office365.com,17937,23
+2026-09-08,E1103,Retail,github.com,287586,2
+2026-09-08,E1027,IT,huggingface.co,446730,35
+2026-09-08,E1026,Compliance,sharepoint.com,208127,28
+2026-09-08,E1046,Operations,www.bloomberg.com,267097,15
+2026-09-08,E1094,SME Lending,gamma.app,280150,43
+2026-09-08,E1041,IT,api.openai.com,356992,53
+2026-09-08,E1065,Operations,www.linkedin.com,338460,6
+2026-09-08,E1084,Compliance,sharepoint.com,127301,16
+2026-09-08,E1118,HR,www.qcb.gov.qa,303174,24
+2026-09-08,E1080,Finance,www.bbc.com,65527,2
+2026-09-08,E1113,Operations,www.linkedin.com,77349,10
+2026-09-08,E1046,Operations,sharepoint.com,90969,28
+2026-09-08,E1057,Compliance,teams.microsoft.com,70086,14
+2026-09-08,E1066,Compliance,www.linkedin.com,149859,14
+2026-09-08,E1007,SME Lending,www.bbc.com,363828,18
+2026-09-08,E1000,SME Lending,www.google.com,23158,31
+2026-09-08,E1067,IT,huggingface.co,65182,60
+2026-09-08,E1113,Operations,www.linkedin.com,328344,40
+2026-09-08,E1068,Retail,gemini.google.com,39642,40
+2026-09-08,E1046,Operations,otter.ai,310036,21
+2026-09-08,E1059,SME Lending,www.google.com,143823,36
+2026-09-08,E1076,IT,www.google.com,215248,17
+2026-09-08,E1084,Compliance,www.deepl.com,799423,51
+2026-09-08,E1040,Operations,teams.microsoft.com,297177,10
+2026-09-09,E1044,Retail,www.qcb.gov.qa,167977,18
+2026-09-09,E1033,IT,copilot.microsoft.com,537618,8
+2026-09-09,E1024,Operations,www.bbc.com,106762,3
+2026-09-09,E1046,Operations,otter.ai,672872,38
+2026-09-09,E1095,HR,www.google.com,274115,8
+2026-09-09,E1107,SME Lending,www.bloomberg.com,234442,30
+2026-09-09,E1053,IT,www.bbc.com,261624,35
+2026-09-09,E1094,SME Lending,gamma.app,759111,60
+2026-09-09,E1066,Compliance,www.perplexity.ai,395663,28
+2026-09-09,E1066,Compliance,www.perplexity.ai,99584,39
+2026-09-09,E1006,SME Lending,github.com,41125,3
+2026-09-09,E1098,SME Lending,teams.microsoft.com,391373,17
+2026-09-09,E1100,Marketing,chatgpt.com,348859,23
+2026-09-09,E1103,Retail,gemini.google.com,16338,36
+2026-09-09,E1073,Operations,www.bloomberg.com,121430,6
+2026-09-09,E1111,Finance,chatgpt.com,558711,23
+2026-09-09,E1057,Compliance,www.perplexity.ai,501127,4
+2026-09-09,E1040,Operations,www.bloomberg.com,6545,1
+2026-09-09,E1117,Compliance,teams.microsoft.com,269053,36
+2026-09-09,E1001,Retail,outlook.office365.com,292016,10
+2026-09-09,E1108,Operations,outlook.office365.com,242835,36
+2026-09-09,E1067,IT,huggingface.co,532041,13
+2026-09-09,E1107,SME Lending,teams.microsoft.com,35039,19
+2026-09-09,E1085,Operations,github.com,95686,2
+2026-09-09,E1102,Operations,www.google.com,322926,4
+2026-09-09,E1084,Compliance,github.com,360333,35
+2026-09-09,E1052,Finance,www.google.com,293323,31
+2026-09-09,E1091,Finance,outlook.office365.com,332655,14
+2026-09-09,E1028,SME Lending,github.com,214533,19
+2026-09-09,E1028,SME Lending,outlook.office365.com,338283,25
+2026-09-09,E1071,IT,outlook.office365.com,1088,6
+2026-09-09,E1077,Compliance,github.com,387812,21
+2026-09-09,E1069,Compliance,www.deepl.com,844127,59
+2026-09-09,E1064,Marketing,www.qcb.gov.qa,170829,1
+2026-09-09,E1048,Compliance,teams.microsoft.com,200547,3
+2026-09-09,E1076,IT,github.com,153449,3
+2026-09-09,E1105,Operations,otter.ai,295308,53
+2026-09-10,E1073,Operations,teams.microsoft.com,94018,30
+2026-09-10,E1050,Marketing,sharepoint.com,282236,34
+2026-09-10,E1046,Operations,www.google.com,293286,17
+2026-09-10,E1056,IT,claude.ai,29529,39
+2026-09-10,E1019,Operations,outlook.office365.com,322343,4
+2026-09-10,E1046,Operations,teams.microsoft.com,390796,27
+2026-09-10,E1114,HR,github.com,22561,38
+2026-09-10,E1042,Compliance,outlook.office365.com,325931,39
+2026-09-10,E1061,Compliance,teams.microsoft.com,104865,32
+2026-09-10,E1067,IT,huggingface.co,486838,44
+2026-09-10,E1089,Compliance,www.bbc.com,5164,10
+2026-09-10,E1049,SME Lending,sharepoint.com,205601,26
+2026-09-10,E1084,Compliance,claude.ai,387415,8
+2026-09-10,E1077,Compliance,copilot.microsoft.com,610717,45
+2026-09-10,E1000,SME Lending,www.bloomberg.com,124542,13
+2026-09-10,E1106,IT,claude.ai,396976,42
+2026-09-10,E1106,IT,huggingface.co,521696,4
+2026-09-10,E1048,Compliance,sharepoint.com,318731,31
+2026-09-10,E1032,IT,www.google.com,298708,4
+2026-09-10,E1095,HR,teams.microsoft.com,218676,7
+2026-09-10,E1022,Marketing,github.com,346721,20
+2026-09-10,E1105,Operations,www.linkedin.com,23004,33
+2026-09-10,E1000,SME Lending,chatgpt.com,803577,27
+2026-09-10,E1116,Operations,www.linkedin.com,237842,3
+2026-09-10,E1000,SME Lending,sharepoint.com,235478,21
+2026-09-10,E1057,Compliance,www.perplexity.ai,557736,9
+2026-09-10,E1031,SME Lending,www.linkedin.com,342600,9
+2026-09-10,E1114,HR,sharepoint.com,183105,24
+2026-09-10,E1052,Finance,www.linkedin.com,366161,32
+2026-09-10,E1111,Finance,www.bloomberg.com,46926,14
+2026-09-11,E1089,Compliance,www.linkedin.com,51087,26
+2026-09-11,E1050,Marketing,www.qcb.gov.qa,323957,2
+2026-09-11,E1021,HR,otter.ai,709160,49
+2026-09-11,E1042,Compliance,www.linkedin.com,331217,39
+2026-09-11,E1116,Operations,www.linkedin.com,258403,30
+2026-09-11,E1072,Marketing,www.google.com,346722,10
+2026-09-11,E1019,Operations,outlook.office365.com,298198,24
+2026-09-11,E1104,SME Lending,gamma.app,35955,12
+2026-09-11,E1078,Finance,www.qcb.gov.qa,261254,34
+2026-09-11,E1057,Compliance,claude.ai,798788,38
+2026-09-11,E1093,Retail,gemini.google.com,716919,51
+2026-09-11,E1054,HR,otter.ai,45195,53
+2026-09-11,E1119,IT,sharepoint.com,86124,13
+2026-09-11,E1090,HR,www.bloomberg.com,396965,9
+2026-09-11,E1038,Marketing,www.linkedin.com,214252,29
+2026-09-11,E1077,Compliance,www.deepl.com,824615,20
+2026-09-11,E1038,Marketing,www.bloomberg.com,70182,20
+2026-09-11,E1093,Retail,github.com,68801,14
+2026-09-11,E1077,Compliance,www.perplexity.ai,877194,55
+2026-09-11,E1066,Compliance,www.perplexity.ai,101994,58
+2026-09-11,E1015,Compliance,www.bbc.com,256988,3
+2026-09-11,E1007,SME Lending,chatgpt.com,653194,4
+2026-09-11,E1046,Operations,www.deepl.com,895829,32
+2026-09-11,E1025,HR,otter.ai,35958,39
+2026-09-11,E1051,Operations,www.deepl.com,176987,24
+2026-09-11,E1038,Marketing,www.qcb.gov.qa,357284,20
+2026-09-11,E1024,Operations,www.google.com,98846,35
+2026-09-11,E1034,Operations,github.com,315751,28
+2026-09-11,E1070,Retail,copilot.microsoft.com,780586,50
+2026-09-11,E1048,Compliance,www.google.com,254561,16
+2026-09-11,E1021,HR,github.com,62525,1
+2026-09-11,E1084,Compliance,www.linkedin.com,353413,39
+2026-09-11,E1119,IT,www.linkedin.com,120519,34
+2026-09-11,E1020,Retail,www.bbc.com,210337,5
+2026-09-11,E1000,SME Lending,gamma.app,618493,38
+2026-09-12,E1119,IT,sharepoint.com,315929,5
+2026-09-12,E1046,Operations,sharepoint.com,54450,10
+2026-09-12,E1056,IT,outlook.office365.com,235932,6
+2026-09-12,E1072,Marketing,gamma.app,249088,31
+2026-09-12,E1013,Compliance,www.qcb.gov.qa,383587,34
+2026-09-12,E1005,HR,www.google.com,77999,4
+2026-09-12,E1098,SME Lending,outlook.office365.com,380465,37
+2026-09-12,E1072,Marketing,gamma.app,684591,49
+2026-09-12,E1114,HR,www.google.com,145039,32
+2026-09-12,E1020,Retail,outlook.office365.com,113364,15
+2026-09-12,E1054,HR,otter.ai,758157,21
+2026-09-12,E1048,Compliance,sharepoint.com,387357,1
+2026-09-12,E1047,SME Lending,www.linkedin.com,152828,3
+2026-09-12,E1067,IT,copilot.microsoft.com,108694,52
+2026-09-12,E1004,Compliance,teams.microsoft.com,337462,25
+2026-09-12,E1073,Operations,www.google.com,341716,35
+2026-09-12,E1028,SME Lending,www.google.com,68237,4
+2026-09-12,E1010,Retail,gemini.google.com,312244,45
+2026-09-12,E1040,Operations,github.com,44113,8
+2026-09-12,E1016,Marketing,www.google.com,360667,15
+2026-09-12,E1112,Retail,sharepoint.com,376739,33
+2026-09-12,E1072,Marketing,copilot.microsoft.com,282329,55
+2026-09-12,E1038,Marketing,sharepoint.com,66659,7
+2026-09-12,E1076,IT,api.openai.com,438802,12
+2026-09-12,E1098,SME Lending,github.com,95670,27
+2026-09-12,E1025,HR,otter.ai,79333,9
+2026-09-12,E1051,Operations,otter.ai,388831,30
+2026-09-12,E1097,Marketing,chatgpt.com,300151,31
+2026-09-12,E1040,Operations,www.bloomberg.com,67308,29
+2026-09-12,E1077,Compliance,www.perplexity.ai,548417,11
+2026-09-12,E1027,IT,huggingface.co,336394,37
+2026-09-12,E1073,Operations,teams.microsoft.com,82115,7
+2026-09-12,E1004,Compliance,teams.microsoft.com,201040,6
+2026-09-12,E1057,Compliance,claude.ai,685501,13
+2026-09-12,E1011,SME Lending,teams.microsoft.com,210609,37
+2026-09-12,E1099,Marketing,chatgpt.com,662021,44
+2026-09-12,E1093,Retail,www.bloomberg.com,10198,17
+2026-09-12,E1021,HR,www.bbc.com,226454,16
+2026-09-12,E1059,SME Lending,www.linkedin.com,21491,6
+2026-09-12,E1104,SME Lending,www.google.com,132146,29
+2026-09-12,E1000,SME Lending,www.qcb.gov.qa,262177,16
+2026-09-12,E1002,Operations,www.qcb.gov.qa,398669,20
+2026-09-12,E1086,Marketing,www.bbc.com,8534,24
+2026-09-12,E1062,HR,outlook.office365.com,289442,23
+2026-09-13,E1094,SME Lending,www.bloomberg.com,123151,5
+2026-09-13,E1081,HR,www.bbc.com,55221,8
+2026-09-13,E1012,Compliance,www.bloomberg.com,8331,34
+2026-09-13,E1106,IT,www.bloomberg.com,160338,32
+2026-09-13,E1105,Operations,www.linkedin.com,398308,1
+2026-09-13,E1117,Compliance,www.google.com,183502,23
+2026-09-13,E1081,HR,www.bbc.com,52089,3
+2026-09-13,E1115,SME Lending,gamma.app,116266,10
+2026-09-13,E1029,SME Lending,www.linkedin.com,22570,30
+2026-09-13,E1084,Compliance,www.bbc.com,39676,31
+2026-09-13,E1099,Marketing,teams.microsoft.com,365964,35
+2026-09-13,E1091,Finance,github.com,50667,38
+2026-09-13,E1096,HR,sharepoint.com,29376,20
+2026-09-13,E1075,Compliance,www.bloomberg.com,171903,27
+2026-09-13,E1048,Compliance,teams.microsoft.com,348879,34
+2026-09-13,E1002,Operations,www.deepl.com,102219,33
+2026-09-13,E1020,Retail,gemini.google.com,384584,47
+2026-09-13,E1084,Compliance,sharepoint.com,56806,25
+2026-09-13,E1020,Retail,www.bloomberg.com,31676,10
+2026-09-13,E1025,HR,otter.ai,324623,51
+2026-09-13,E1039,SME Lending,www.linkedin.com,229509,33
+2026-09-13,E1095,HR,teams.microsoft.com,189842,3
+2026-09-13,E1066,Compliance,www.linkedin.com,101954,24
+2026-09-13,E1052,Finance,www.bloomberg.com,180721,21
+2026-09-13,E1027,IT,github.com,3163,34
+2026-09-13,E1107,SME Lending,outlook.office365.com,254195,33
+2026-09-13,E1085,Operations,github.com,276387,17
+2026-09-13,E1081,HR,www.linkedin.com,341649,3
+2026-09-13,E1101,Finance,www.google.com,96359,40
+2026-09-13,E1011,SME Lending,www.qcb.gov.qa,5256,40
+2026-09-14,E1041,IT,www.linkedin.com,13184,37
+2026-09-14,E1022,Marketing,www.google.com,314306,30
+2026-09-14,E1028,SME Lending,www.bloomberg.com,79103,37
+2026-09-14,E1008,Marketing,gamma.app,549945,51
+2026-09-14,E1103,Retail,gemini.google.com,610093,43
+2026-09-14,E1000,SME Lending,gamma.app,740927,59
+2026-09-14,E1105,Operations,www.deepl.com,667105,49
+2026-09-14,E1021,HR,otter.ai,354713,33
+2026-09-14,E1046,Operations,www.google.com,343536,5
+2026-09-14,E1062,HR,www.bloomberg.com,350099,34
+2026-09-14,E1010,Retail,chatgpt.com,593807,43
+2026-09-14,E1046,Operations,gemini.google.com,341498,2
+2026-09-14,E1040,Operations,github.com,380634,30
+2026-09-14,E1119,IT,www.bloomberg.com,397421,25
+2026-09-14,E1064,Marketing,outlook.office365.com,161492,11
+2026-09-14,E1064,Marketing,sharepoint.com,370428,1
+2026-09-14,E1100,Marketing,www.linkedin.com,222122,4
+2026-09-14,E1088,IT,github.com,54331,11
+2026-09-14,E1051,Operations,www.linkedin.com,24584,32
+2026-09-14,E1101,Finance,sharepoint.com,95946,25
+2026-09-14,E1076,IT,www.google.com,37093,15
+2026-09-14,E1070,Retail,www.linkedin.com,354945,7
+2026-09-14,E1002,Operations,www.deepl.com,597403,4
+2026-09-14,E1096,HR,outlook.office365.com,287583,39
+2026-09-14,E1114,HR,www.qcb.gov.qa,331023,29
+2026-09-14,E1003,Compliance,github.com,24655,9
+2026-09-14,E1026,Compliance,www.bloomberg.com,105870,12
+2026-09-14,E1114,HR,www.google.com,15339,31
+2026-09-14,E1080,Finance,www.bbc.com,81241,2
+2026-09-14,E1104,SME Lending,gamma.app,240564,36
+2026-09-14,E1105,Operations,gemini.google.com,23753,49
+2026-09-14,E1066,Compliance,www.linkedin.com,290729,30
+2026-09-14,E1087,Marketing,github.com,172746,19
+2026-09-14,E1021,HR,www.bloomberg.com,34532,7
+2026-09-14,E1116,Operations,outlook.office365.com,254060,37
+2026-09-14,E1051,Operations,copilot.microsoft.com,90868,44
+2026-09-14,E1089,Compliance,teams.microsoft.com,135185,4
+2026-09-14,E1016,Marketing,copilot.microsoft.com,121781,23
+2026-09-14,E1098,SME Lending,www.google.com,112547,3
+2026-09-14,E1092,SME Lending,www.bloomberg.com,126034,32
+2026-09-14,E1017,Compliance,www.bloomberg.com,314490,6
+2026-09-15,E1118,HR,www.google.com,229263,6
+2026-09-15,E1025,HR,github.com,212963,8
+2026-09-15,E1023,IT,sharepoint.com,365493,12
+2026-09-15,E1057,Compliance,teams.microsoft.com,302599,33
+2026-09-15,E1035,Retail,www.google.com,291728,11
+2026-09-15,E1006,SME Lending,sharepoint.com,3446,4
+2026-09-15,E1105,Operations,otter.ai,885791,42
+2026-09-15,E1062,HR,otter.ai,499643,17
+2026-09-15,E1058,Operations,www.bbc.com,65321,7
+2026-09-15,E1088,IT,www.google.com,82260,24
+2026-09-15,E1118,HR,sharepoint.com,233640,22
+2026-09-15,E1076,IT,claude.ai,745266,6
+2026-09-15,E1094,SME Lending,copilot.microsoft.com,146564,37
+2026-09-15,E1105,Operations,www.linkedin.com,188677,25
+2026-09-15,E1108,Operations,www.linkedin.com,123598,23
+2026-09-15,E1084,Compliance,outlook.office365.com,318802,21
+2026-09-15,E1021,HR,sharepoint.com,144732,9
+2026-09-15,E1027,IT,huggingface.co,827618,6
+2026-09-15,E1008,Marketing,www.bloomberg.com,391891,24
+2026-09-15,E1107,SME Lending,www.bbc.com,83928,2
+2026-09-15,E1057,Compliance,www.deepl.com,758211,39
+2026-09-15,E1067,IT,huggingface.co,37207,29
+2026-09-15,E1070,Retail,www.bbc.com,86279,35
+2026-09-15,E1104,SME Lending,www.bbc.com,167446,22
+2026-09-15,E1040,Operations,www.linkedin.com,226202,16
+2026-09-15,E1100,Marketing,copilot.microsoft.com,409517,40
+2026-09-15,E1029,SME Lending,www.linkedin.com,346885,40
+2026-09-15,E1094,SME Lending,chatgpt.com,831151,40
+2026-09-15,E1004,Compliance,www.bbc.com,200378,4
+2026-09-15,E1029,SME Lending,teams.microsoft.com,122730,15
+2026-09-15,E1015,Compliance,www.perplexity.ai,648624,13
+2026-09-15,E1030,Marketing,www.linkedin.com,308248,16
+2026-09-15,E1108,Operations,github.com,360532,27
+2026-09-15,E1087,Marketing,www.qcb.gov.qa,199658,21
+2026-09-15,E1042,Compliance,www.bbc.com,96087,28
+2026-09-15,E1056,IT,copilot.microsoft.com,144736,20
+2026-09-15,E1051,Operations,www.google.com,296491,2
+2026-09-16,E1073,Operations,www.qcb.gov.qa,205244,12
+2026-09-16,E1040,Operations,github.com,157226,5
+2026-09-16,E1082,Operations,github.com,19250,4
+2026-09-16,E1080,Finance,www.bbc.com,17489,8
+2026-09-16,E1056,IT,api.openai.com,147121,56
+2026-09-16,E1033,IT,sharepoint.com,239797,10
+2026-09-16,E1060,HR,www.linkedin.com,70630,9
+2026-09-16,E1070,Retail,github.com,200958,6
+2026-09-16,E1080,Finance,sharepoint.com,64100,3
+2026-09-16,E1010,Retail,www.google.com,20794,25
+2026-09-16,E1087,Marketing,sharepoint.com,23206,39
+2026-09-16,E1100,Marketing,copilot.microsoft.com,731066,13
+2026-09-16,E1046,Operations,gemini.google.com,842886,23
+2026-09-16,E1070,Retail,gemini.google.com,453096,7
+2026-09-16,E1084,Compliance,claude.ai,500733,33
+2026-09-16,E1101,Finance,outlook.office365.com,325568,20
+2026-09-16,E1066,Compliance,www.bbc.com,342518,34
+2026-09-16,E1073,Operations,outlook.office365.com,249012,3
+2026-09-16,E1116,Operations,www.linkedin.com,301877,26
+2026-09-16,E1079,Marketing,outlook.office365.com,357942,26
+2026-09-16,E1046,Operations,www.google.com,377073,8
+2026-09-16,E1090,HR,www.linkedin.com,73281,35
+2026-09-16,E1086,Marketing,sharepoint.com,220280,30
+2026-09-16,E1034,Operations,teams.microsoft.com,298293,40
+2026-09-16,E1033,IT,api.openai.com,555408,28
+2026-09-16,E1116,Operations,sharepoint.com,53828,28
+2026-09-16,E1003,Compliance,sharepoint.com,65432,34
+2026-09-16,E1107,SME Lending,teams.microsoft.com,157469,22
+2026-09-16,E1067,IT,sharepoint.com,195821,16
+2026-09-16,E1040,Operations,www.bloomberg.com,318235,33
+2026-09-16,E1020,Retail,www.linkedin.com,302513,20
+2026-09-16,E1108,Operations,teams.microsoft.com,246767,24
+2026-09-17,E1048,Compliance,sharepoint.com,31011,23
+2026-09-17,E1002,Operations,sharepoint.com,105670,6
+2026-09-17,E1013,Compliance,www.linkedin.com,320635,7
+2026-09-17,E1068,Retail,gemini.google.com,429940,18
+2026-09-17,E1054,HR,otter.ai,458068,18
+2026-09-17,E1020,Retail,copilot.microsoft.com,208909,29
+2026-09-17,E1039,SME Lending,www.qcb.gov.qa,28668,22
+2026-09-17,E1104,SME Lending,github.com,190125,26
+2026-09-17,E1027,IT,www.bloomberg.com,338294,7
+2026-09-17,E1082,Operations,github.com,329533,15
+2026-09-17,E1105,Operations,teams.microsoft.com,140363,34
+2026-09-17,E1110,HR,www.qcb.gov.qa,136293,24
+2026-09-17,E1056,IT,copilot.microsoft.com,48448,37
+2026-09-17,E1113,Operations,www.qcb.gov.qa,47371,16
+2026-09-17,E1007,SME Lending,gamma.app,213250,52
+2026-09-17,E1118,HR,www.bloomberg.com,239546,12
+2026-09-17,E1021,HR,otter.ai,509699,13
+2026-09-17,E1008,Marketing,gamma.app,259724,42
+2026-09-17,E1021,HR,github.com,158035,24
+2026-09-17,E1050,Marketing,teams.microsoft.com,390266,37
+2026-09-17,E1071,IT,teams.microsoft.com,386701,34
+2026-09-17,E1094,SME Lending,gamma.app,827220,23
+2026-09-17,E1048,Compliance,github.com,355674,23
+2026-09-17,E1016,Marketing,chatgpt.com,702646,25
+2026-09-17,E1066,Compliance,www.google.com,364816,18
+2026-09-17,E1089,Compliance,www.bloomberg.com,285392,37
+2026-09-17,E1075,Compliance,github.com,356817,32
+2026-09-17,E1021,HR,otter.ai,561392,6
+2026-09-17,E1000,SME Lending,sharepoint.com,242358,22
+2026-09-18,E1076,IT,claude.ai,54179,44
+2026-09-18,E1109,Marketing,www.bbc.com,357822,9
+2026-09-18,E1032,IT,github.com,271201,30
+2026-09-18,E1051,Operations,github.com,225868,39
+2026-09-18,E1035,Retail,teams.microsoft.com,330586,36
+2026-09-18,E1065,Operations,www.linkedin.com,177356,28
+2026-09-18,E1056,IT,claude.ai,340908,56
+2026-09-18,E1041,IT,api.openai.com,139414,39
+2026-09-18,E1096,HR,outlook.office365.com,279134,31
+2026-09-18,E1025,HR,outlook.office365.com,233293,15
+2026-09-18,E1016,Marketing,gamma.app,156610,8
+2026-09-18,E1060,HR,www.bloomberg.com,25013,16
+2026-09-18,E1027,IT,api.openai.com,481318,5
+2026-09-18,E1077,Compliance,www.perplexity.ai,554029,17
+2026-09-18,E1022,Marketing,www.linkedin.com,385431,28
+2026-09-18,E1064,Marketing,github.com,200721,20
+2026-09-18,E1062,HR,chatgpt.com,562069,2
+2026-09-18,E1014,Retail,www.linkedin.com,119850,8
+2026-09-18,E1036,Finance,outlook.office365.com,37599,13
+2026-09-18,E1047,SME Lending,www.google.com,166369,32
+2026-09-18,E1083,HR,github.com,238555,21
+2026-09-18,E1051,Operations,www.bbc.com,30358,15
+2026-09-18,E1082,Operations,outlook.office365.com,34154,38
+2026-09-18,E1069,Compliance,sharepoint.com,180777,20
+2026-09-18,E1011,SME Lending,www.linkedin.com,349390,40
+2026-09-18,E1012,Compliance,www.linkedin.com,395245,27
+2026-09-18,E1073,Operations,www.qcb.gov.qa,186521,9
+2026-09-18,E1025,HR,otter.ai,672030,2
+2026-09-18,E1038,Marketing,github.com,327753,7
+2026-09-18,E1097,Marketing,chatgpt.com,161784,16
+2026-09-18,E1057,Compliance,claude.ai,645378,44
+2026-09-18,E1103,Retail,gemini.google.com,665829,38
+2026-09-18,E1067,IT,www.linkedin.com,228393,5
+2026-09-18,E1095,HR,www.bbc.com,286597,7
+2026-09-19,E1061,Compliance,sharepoint.com,114091,32
+2026-09-19,E1055,IT,github.com,283372,13
+2026-09-19,E1020,Retail,www.google.com,382805,3
+2026-09-19,E1059,SME Lending,www.bloomberg.com,346677,14
+2026-09-19,E1058,Operations,github.com,142200,39
+2026-09-19,E1107,SME Lending,www.google.com,51489,29
+2026-09-19,E1053,IT,www.google.com,322026,37
+2026-09-19,E1114,HR,www.google.com,272060,35
+2026-09-19,E1057,Compliance,sharepoint.com,377085,8
+2026-09-19,E1051,Operations,copilot.microsoft.com,450965,11
+2026-09-19,E1035,Retail,sharepoint.com,343462,29
+2026-09-19,E1056,IT,www.google.com,67276,9
+2026-09-19,E1039,SME Lending,gamma.app,157061,54
+2026-09-19,E1067,IT,api.openai.com,542410,37
+2026-09-19,E1057,Compliance,www.deepl.com,82813,32
+2026-09-19,E1060,HR,www.qcb.gov.qa,389857,5
+2026-09-19,E1022,Marketing,www.bloomberg.com,27192,20
+2026-09-19,E1078,Finance,www.linkedin.com,227408,5
+2026-09-19,E1048,Compliance,www.qcb.gov.qa,281113,11
+2026-09-19,E1018,Finance,www.bbc.com,315382,1
+2026-09-19,E1093,Retail,www.qcb.gov.qa,261959,32
+2026-09-19,E1105,Operations,otter.ai,574079,19
+2026-09-19,E1003,Compliance,github.com,179916,25
+2026-09-19,E1024,Operations,www.linkedin.com,308068,24
+2026-09-19,E1057,Compliance,claude.ai,520119,30
+2026-09-19,E1043,SME Lending,www.google.com,32484,4
+2026-09-19,E1069,Compliance,claude.ai,680748,22
+2026-09-19,E1047,SME Lending,chatgpt.com,256646,7
+2026-09-19,E1036,Finance,teams.microsoft.com,95736,8
+2026-09-19,E1071,IT,sharepoint.com,100377,40
+2026-09-19,E1107,SME Lending,www.bbc.com,137435,36
+2026-09-19,E1039,SME Lending,gamma.app,843134,35
+2026-09-19,E1015,Compliance,www.bbc.com,303479,26
+2026-09-19,E1035,Retail,www.linkedin.com,282929,19
+2026-09-19,E1111,Finance,teams.microsoft.com,360935,15
+2026-09-19,E1041,IT,sharepoint.com,366069,25
+2026-09-19,E1008,Marketing,www.linkedin.com,328834,7
+2026-09-19,E1075,Compliance,www.linkedin.com,176270,17
+2026-09-19,E1000,SME Lending,sharepoint.com,299237,26
+2026-09-19,E1030,Marketing,chatgpt.com,620439,43
+2026-09-19,E1016,Marketing,copilot.microsoft.com,195411,12
+2026-09-19,E1007,SME Lending,www.linkedin.com,375011,34
+2026-09-19,E1010,Retail,gemini.google.com,755629,57
+2026-09-19,E1046,Operations,www.linkedin.com,349649,16
+2026-09-19,E1072,Marketing,teams.microsoft.com,94794,36
+2026-09-19,E1045,Compliance,teams.microsoft.com,159506,16
+2026-09-19,E1062,HR,www.bbc.com,41009,14
+2026-09-19,E1098,SME Lending,www.bloomberg.com,97074,7
+2026-09-19,E1107,SME Lending,www.linkedin.com,112544,38
+2026-09-19,E1099,Marketing,outlook.office365.com,323756,20
+2026-09-19,E1113,Operations,www.bbc.com,49911,15
+2026-09-19,E1073,Operations,www.linkedin.com,371880,20
+2026-09-19,E1010,Retail,www.bloomberg.com,230629,13
+2026-09-20,E1072,Marketing,chatgpt.com,870962,30
+2026-09-20,E1006,SME Lending,sharepoint.com,195065,16
+2026-09-20,E1046,Operations,gemini.google.com,201367,40
+2026-09-20,E1077,Compliance,www.bbc.com,175831,9
+2026-09-20,E1058,Operations,www.bbc.com,332088,23
+2026-09-20,E1032,IT,www.bbc.com,93330,6
+2026-09-20,E1051,Operations,gemini.google.com,628152,2
+2026-09-20,E1093,Retail,gemini.google.com,855797,32
+2026-09-20,E1080,Finance,sharepoint.com,78975,15
+2026-09-20,E1067,IT,www.google.com,336296,35
+2026-09-20,E1010,Retail,www.linkedin.com,263370,14
+2026-09-20,E1013,Compliance,sharepoint.com,88097,6
+2026-09-20,E1000,SME Lending,gamma.app,95035,53
+2026-09-20,E1048,Compliance,outlook.office365.com,135107,35
+2026-09-20,E1116,Operations,outlook.office365.com,370428,24
+2026-09-20,E1055,IT,outlook.office365.com,226134,26
+2026-09-20,E1110,HR,outlook.office365.com,306961,38
+2026-09-20,E1038,Marketing,www.bloomberg.com,334741,31
+2026-09-20,E1101,Finance,www.bloomberg.com,321616,11
+2026-09-20,E1002,Operations,www.deepl.com,564628,35
+2026-09-20,E1071,IT,www.qcb.gov.qa,112326,1
+2026-09-20,E1050,Marketing,outlook.office365.com,65945,2
+2026-09-20,E1057,Compliance,sharepoint.com,106592,18
+2026-09-20,E1098,SME Lending,teams.microsoft.com,303285,23
+2026-09-20,E1006,SME Lending,sharepoint.com,75203,14
+2026-09-20,E1090,HR,www.bloomberg.com,1714,5
+2026-09-20,E1107,SME Lending,sharepoint.com,275136,7
+2026-09-20,E1115,SME Lending,www.qcb.gov.qa,1096,10
+2026-09-20,E1039,SME Lending,gamma.app,595022,7
+2026-09-20,E1087,Marketing,www.qcb.gov.qa,283694,38
+2026-09-20,E1022,Marketing,sharepoint.com,361513,21
+2026-09-20,E1000,SME Lending,sharepoint.com,169916,2
+2026-09-20,E1062,HR,copilot.microsoft.com,319543,16
+2026-09-20,E1117,Compliance,www.deepl.com,882357,45
+2026-09-20,E1064,Marketing,www.linkedin.com,242663,29
+2026-09-20,E1080,Finance,www.google.com,296690,28
+2026-09-20,E1034,Operations,github.com,280298,40
+2026-09-20,E1115,SME Lending,gamma.app,512866,42
+2026-09-20,E1046,Operations,www.deepl.com,861793,26
+2026-09-20,E1092,SME Lending,www.qcb.gov.qa,88704,14
+2026-09-21,E1070,Retail,gemini.google.com,378096,4
+2026-09-21,E1071,IT,www.linkedin.com,65897,36
+2026-09-21,E1027,IT,claude.ai,182941,3
+2026-09-21,E1091,Finance,outlook.office365.com,229654,18
+2026-09-21,E1115,SME Lending,outlook.office365.com,322756,40
+2026-09-21,E1039,SME Lending,gamma.app,837922,34
+2026-09-21,E1016,Marketing,gamma.app,90121,38
+2026-09-21,E1079,Marketing,github.com,182804,29
+2026-09-21,E1022,Marketing,github.com,23141,32
+2026-09-21,E1101,Finance,github.com,72351,1
+2026-09-21,E1036,Finance,www.linkedin.com,240236,23
+2026-09-21,E1008,Marketing,chatgpt.com,359806,1
+2026-09-21,E1041,IT,huggingface.co,705953,25
+2026-09-21,E1019,Operations,www.linkedin.com,191702,22
+2026-09-21,E1105,Operations,otter.ai,271761,46
+2026-09-21,E1015,Compliance,www.perplexity.ai,777520,32
+2026-09-21,E1084,Compliance,www.linkedin.com,80142,37
+2026-09-21,E1096,HR,www.linkedin.com,394811,33
+2026-09-21,E1022,Marketing,www.bloomberg.com,293967,5
+2026-09-21,E1082,Operations,github.com,97332,29
+2026-09-21,E1066,Compliance,www.perplexity.ai,84911,60
+2026-09-21,E1015,Compliance,claude.ai,856628,10
+2026-09-21,E1112,Retail,github.com,214012,3
+2026-09-21,E1034,Operations,github.com,210838,23
+2026-09-21,E1056,IT,huggingface.co,766715,42
+2026-09-21,E1046,Operations,www.deepl.com,712029,10
+2026-09-21,E1063,Finance,www.qcb.gov.qa,347116,4
+2026-09-21,E1060,HR,otter.ai,386123,24
+2026-09-21,E1045,Compliance,www.google.com,81697,35
+2026-09-21,E1006,SME Lending,www.bloomberg.com,191942,19
+2026-09-21,E1061,Compliance,sharepoint.com,369436,28
+2026-09-21,E1056,IT,api.openai.com,202386,19
+2026-09-21,E1001,Retail,outlook.office365.com,83275,33
+2026-09-21,E1079,Marketing,www.bbc.com,30915,16
+2026-09-21,E1083,HR,sharepoint.com,295597,28
+2026-09-21,E1068,Retail,gemini.google.com,34663,4
+2026-09-21,E1030,Marketing,www.bloomberg.com,48568,2
+2026-09-21,E1077,Compliance,www.google.com,208332,18
+2026-09-21,E1054,HR,otter.ai,79767,29
+2026-09-21,E1026,Compliance,sharepoint.com,20874,16
+2026-09-21,E1051,Operations,otter.ai,178827,38
+2026-09-21,E1039,SME Lending,sharepoint.com,309443,5
+2026-09-21,E1112,Retail,www.bbc.com,17839,39
+2026-09-22,E1057,Compliance,claude.ai,81013,12
+2026-09-22,E1046,Operations,www.deepl.com,318528,11
+2026-09-22,E1036,Finance,www.google.com,390507,35
+2026-09-22,E1071,IT,outlook.office365.com,5615,8
+2026-09-22,E1058,Operations,sharepoint.com,86823,37
+2026-09-22,E1045,Compliance,www.bbc.com,151390,15
+2026-09-22,E1089,Compliance,www.bloomberg.com,69439,1
+2026-09-22,E1060,HR,www.google.com,78926,24
+2026-09-22,E1027,IT,www.bloomberg.com,350865,34
+2026-09-22,E1027,IT,api.openai.com,353577,51
+2026-09-22,E1114,HR,outlook.office365.com,101931,21
+2026-09-22,E1085,Operations,outlook.office365.com,123962,7
+2026-09-22,E1100,Marketing,www.linkedin.com,342451,5
+2026-09-22,E1065,Operations,sharepoint.com,178464,38
+2026-09-22,E1005,HR,www.google.com,170906,7
+2026-09-22,E1111,Finance,www.perplexity.ai,683463,49
+2026-09-22,E1011,SME Lending,www.bbc.com,9612,40
+2026-09-22,E1022,Marketing,sharepoint.com,391699,25
+2026-09-22,E1034,Operations,outlook.office365.com,215699,33
+2026-09-22,E1053,IT,sharepoint.com,152173,28
+2026-09-22,E1002,Operations,gemini.google.com,684535,57
+2026-09-22,E1051,Operations,sharepoint.com,166800,1
+2026-09-22,E1021,HR,otter.ai,223048,50
+2026-09-22,E1000,SME Lending,sharepoint.com,183170,39
+2026-09-22,E1099,Marketing,chatgpt.com,44213,49
+2026-09-22,E1032,IT,www.qcb.gov.qa,307276,26
+2026-09-22,E1093,Retail,gemini.google.com,163859,5
+2026-09-22,E1050,Marketing,teams.microsoft.com,300541,13
+2026-09-22,E1075,Compliance,sharepoint.com,100842,13
+2026-09-22,E1113,Operations,www.linkedin.com,213077,13
+2026-09-22,E1071,IT,www.qcb.gov.qa,38184,20
+2026-09-22,E1105,Operations,otter.ai,270900,48
+2026-09-22,E1026,Compliance,sharepoint.com,85520,6
+2026-09-22,E1102,Operations,www.bbc.com,129926,25
+2026-09-22,E1057,Compliance,www.deepl.com,174088,29
+2026-09-22,E1054,HR,otter.ai,294227,16
+2026-09-22,E1093,Retail,gemini.google.com,86216,55
+2026-09-22,E1060,HR,www.linkedin.com,269774,10
+2026-09-22,E1015,Compliance,www.bloomberg.com,350130,19
+2026-09-22,E1090,HR,outlook.office365.com,94225,33
+2026-09-23,E1014,Retail,github.com,243681,12
+2026-09-23,E1015,Compliance,www.linkedin.com,279847,12
+2026-09-23,E1020,Retail,gemini.google.com,548781,20
+2026-09-23,E1105,Operations,www.deepl.com,139057,16
+2026-09-23,E1001,Retail,www.google.com,126242,40
+2026-09-23,E1078,Finance,outlook.office365.com,161261,38
+2026-09-23,E1111,Finance,teams.microsoft.com,79690,11
+2026-09-23,E1050,Marketing,outlook.office365.com,17158,31
+2026-09-23,E1078,Finance,teams.microsoft.com,363552,39
+2026-09-23,E1075,Compliance,teams.microsoft.com,250410,30
+2026-09-23,E1007,SME Lending,copilot.microsoft.com,163630,46
+2026-09-23,E1047,SME Lending,copilot.microsoft.com,455125,26
+2026-09-23,E1097,Marketing,outlook.office365.com,117259,1
+2026-09-23,E1098,SME Lending,www.qcb.gov.qa,391885,20
+2026-09-23,E1038,Marketing,sharepoint.com,84463,2
+2026-09-23,E1066,Compliance,sharepoint.com,316420,38
+2026-09-23,E1066,Compliance,www.google.com,35959,3
+2026-09-23,E1027,IT,www.qcb.gov.qa,91916,31
+2026-09-23,E1086,Marketing,www.google.com,259298,40
+2026-09-23,E1066,Compliance,claude.ai,633977,56
+2026-09-23,E1008,Marketing,sharepoint.com,146991,40
+2026-09-23,E1109,Marketing,www.google.com,63435,15
+2026-09-23,E1070,Retail,sharepoint.com,128031,29
+2026-09-23,E1093,Retail,gemini.google.com,832884,53
+2026-09-23,E1039,SME Lending,gamma.app,254867,18
+2026-09-23,E1100,Marketing,chatgpt.com,390571,5
+2026-09-23,E1063,Finance,www.linkedin.com,186945,22
+2026-09-23,E1027,IT,huggingface.co,567497,9
+2026-09-23,E1030,Marketing,gamma.app,657455,39
+2026-09-23,E1101,Finance,www.bloomberg.com,270210,38
+2026-09-23,E1098,SME Lending,sharepoint.com,132142,15
+2026-09-23,E1007,SME Lending,chatgpt.com,611805,24
+2026-09-23,E1066,Compliance,github.com,355690,6
+2026-09-23,E1015,Compliance,www.perplexity.ai,513552,2
+2026-09-23,E1084,Compliance,teams.microsoft.com,189858,7
+2026-09-23,E1094,SME Lending,gamma.app,416812,38
+2026-09-23,E1112,Retail,www.google.com,149611,6
+2026-09-23,E1075,Compliance,www.linkedin.com,356624,10
+2026-09-23,E1037,SME Lending,github.com,262042,32
+2026-09-24,E1028,SME Lending,outlook.office365.com,178366,34
+2026-09-24,E1023,IT,outlook.office365.com,298424,4
+2026-09-24,E1083,HR,outlook.office365.com,240184,22
+2026-09-24,E1116,Operations,outlook.office365.com,188955,33
+2026-09-24,E1050,Marketing,github.com,195459,9
+2026-09-24,E1088,IT,www.bloomberg.com,170556,17
+2026-09-24,E1036,Finance,www.qcb.gov.qa,66823,9
+2026-09-24,E1061,Compliance,www.bloomberg.com,160822,11
+2026-09-24,E1094,SME Lending,gamma.app,672147,47
+2026-09-24,E1006,SME Lending,outlook.office365.com,30677,13
+2026-09-24,E1019,Operations,www.bbc.com,361270,20
+2026-09-24,E1084,Compliance,www.qcb.gov.qa,41839,37
+2026-09-24,E1088,IT,github.com,126659,17
+2026-09-24,E1039,SME Lending,gamma.app,619558,53
+2026-09-24,E1007,SME Lending,www.bloomberg.com,190301,26
+2026-09-24,E1094,SME Lending,gamma.app,103400,6
+2026-09-24,E1060,HR,github.com,317232,26
+2026-09-24,E1088,IT,outlook.office365.com,25630,25
+2026-09-24,E1104,SME Lending,chatgpt.com,714131,52
+2026-09-24,E1096,HR,github.com,236902,40
+2026-09-24,E1089,Compliance,sharepoint.com,339340,10
+2026-09-24,E1045,Compliance,www.google.com,208168,26
+2026-09-24,E1108,Operations,sharepoint.com,253775,5
+2026-09-24,E1077,Compliance,www.linkedin.com,55600,4
+2026-09-24,E1041,IT,sharepoint.com,393521,30
+2026-09-24,E1061,Compliance,sharepoint.com,140355,8
+2026-09-24,E1066,Compliance,copilot.microsoft.com,374253,11
+2026-09-24,E1066,Compliance,www.google.com,110286,31
+2026-09-24,E1027,IT,claude.ai,847362,23
+2026-09-24,E1006,SME Lending,sharepoint.com,131200,15
+2026-09-24,E1027,IT,api.openai.com,91772,34
+2026-09-24,E1111,Finance,www.perplexity.ai,52871,49
+2026-09-24,E1114,HR,sharepoint.com,65538,9
+2026-09-25,E1077,Compliance,github.com,172419,10
+2026-09-25,E1065,Operations,www.bloomberg.com,191835,4
+2026-09-25,E1033,IT,huggingface.co,860136,21
+2026-09-25,E1033,IT,huggingface.co,739449,56
+2026-09-25,E1097,Marketing,gamma.app,315357,17
+2026-09-25,E1052,Finance,www.linkedin.com,89704,4
+2026-09-25,E1111,Finance,outlook.office365.com,388707,36
+2026-09-25,E1056,IT,www.bloomberg.com,57268,12
+2026-09-25,E1047,SME Lending,www.bloomberg.com,364448,5
+2026-09-25,E1057,Compliance,www.perplexity.ai,568820,22
+2026-09-25,E1103,Retail,sharepoint.com,279754,36
+2026-09-25,E1106,IT,www.linkedin.com,72955,25
+2026-09-25,E1013,Compliance,www.linkedin.com,290882,12
+2026-09-25,E1088,IT,www.linkedin.com,280414,40
+2026-09-25,E1115,SME Lending,www.qcb.gov.qa,27453,7
+2026-09-25,E1010,Retail,gemini.google.com,561543,25
+2026-09-25,E1103,Retail,gemini.google.com,794280,47
+2026-09-25,E1092,SME Lending,www.qcb.gov.qa,166414,36
+2026-09-25,E1013,Compliance,www.linkedin.com,30250,36
+2026-09-25,E1098,SME Lending,www.bloomberg.com,393739,16
+2026-09-25,E1093,Retail,www.bloomberg.com,309661,13
+2026-09-25,E1038,Marketing,sharepoint.com,288701,30
+2026-09-25,E1059,SME Lending,github.com,118561,10
+2026-09-25,E1046,Operations,gemini.google.com,878566,56
+2026-09-25,E1115,SME Lending,copilot.microsoft.com,856779,7
+2026-09-25,E1033,IT,github.com,56747,28
+2026-09-25,E1044,Retail,www.google.com,318496,13
+2026-09-25,E1058,Operations,www.bloomberg.com,282312,10
+2026-09-25,E1105,Operations,github.com,260076,8
+2026-09-25,E1043,SME Lending,www.bloomberg.com,211768,21
+2026-09-25,E1057,Compliance,www.deepl.com,759888,8
+2026-09-25,E1056,IT,copilot.microsoft.com,680159,26
+2026-09-25,E1053,IT,github.com,343098,24
+2026-09-25,E1025,HR,www.bloomberg.com,171752,15
+2026-09-25,E1046,Operations,otter.ai,473778,24
+2026-09-25,E1116,Operations,sharepoint.com,131948,35
+2026-09-26,E1019,Operations,www.bbc.com,243801,6
+2026-09-26,E1077,Compliance,claude.ai,593912,42
+2026-09-26,E1105,Operations,otter.ai,544491,23
+2026-09-26,E1034,Operations,www.bloomberg.com,366935,24
+2026-09-26,E1110,HR,outlook.office365.com,382303,9
+2026-09-26,E1015,Compliance,www.bloomberg.com,302972,35
+2026-09-26,E1110,HR,www.google.com,92645,30
+2026-09-26,E1023,IT,www.google.com,100702,32
+2026-09-26,E1097,Marketing,www.bbc.com,222732,18
+2026-09-26,E1002,Operations,outlook.office365.com,5665,31
+2026-09-26,E1049,SME Lending,www.google.com,164635,21
+2026-09-26,E1002,Operations,otter.ai,888593,21
+2026-09-26,E1095,HR,www.linkedin.com,144898,13
+2026-09-26,E1022,Marketing,outlook.office365.com,40043,12
+2026-09-26,E1051,Operations,gemini.google.com,881060,9
+2026-09-26,E1102,Operations,sharepoint.com,375509,9
+2026-09-26,E1032,IT,www.linkedin.com,200309,23
+2026-09-26,E1001,Retail,sharepoint.com,124996,4
+2026-09-26,E1110,HR,outlook.office365.com,223407,7
+2026-09-26,E1046,Operations,copilot.microsoft.com,806905,36
+2026-09-26,E1115,SME Lending,github.com,64991,35
+2026-09-26,E1084,Compliance,www.perplexity.ai,616334,43
+2026-09-26,E1014,Retail,www.qcb.gov.qa,175736,22
+2026-09-26,E1074,SME Lending,github.com,340337,30
+2026-09-26,E1015,Compliance,www.deepl.com,676396,5
+2026-09-26,E1016,Marketing,github.com,158500,16
+2026-09-26,E1117,Compliance,www.deepl.com,801281,4
+2026-09-26,E1036,Finance,github.com,357851,8
+2026-09-26,E1066,Compliance,www.deepl.com,468686,1
+2026-09-26,E1063,Finance,sharepoint.com,280167,33
+2026-09-26,E1075,Compliance,github.com,178813,39
+2026-09-26,E1025,HR,www.bbc.com,377122,18
+2026-09-26,E1100,Marketing,outlook.office365.com,158994,39
+2026-09-26,E1111,Finance,www.perplexity.ai,295992,58
+2026-09-26,E1032,IT,www.linkedin.com,294662,30
+2026-09-26,E1117,Compliance,www.bbc.com,202716,8
+2026-09-26,E1092,SME Lending,www.google.com,180658,30
+2026-09-27,E1004,Compliance,www.linkedin.com,317336,32
+2026-09-27,E1020,Retail,gemini.google.com,390528,14
+2026-09-27,E1056,IT,api.openai.com,810554,40
+2026-09-27,E1006,SME Lending,outlook.office365.com,61707,27
+2026-09-27,E1026,Compliance,outlook.office365.com,360525,1
+2026-09-27,E1061,Compliance,www.qcb.gov.qa,42976,10
+2026-09-27,E1041,IT,huggingface.co,249781,4
+2026-09-27,E1058,Operations,github.com,213384,39
+2026-09-27,E1067,IT,www.linkedin.com,254386,32
+2026-09-27,E1025,HR,copilot.microsoft.com,369663,56
+2026-09-27,E1039,SME Lending,www.bloomberg.com,191090,9
+2026-09-27,E1117,Compliance,outlook.office365.com,131148,18
+2026-09-27,E1060,HR,otter.ai,741233,32
+2026-09-27,E1010,Retail,www.bbc.com,67364,18
+2026-09-27,E1077,Compliance,www.deepl.com,388999,30
+2026-09-27,E1066,Compliance,outlook.office365.com,368305,40
+2026-09-27,E1068,Retail,gemini.google.com,320862,45
+2026-09-27,E1099,Marketing,sharepoint.com,352658,6
+2026-09-27,E1109,Marketing,www.bloomberg.com,75637,15
+2026-09-27,E1077,Compliance,www.deepl.com,30127,55
+2026-09-27,E1011,SME Lending,sharepoint.com,175483,15
+2026-09-27,E1113,Operations,www.linkedin.com,35093,9
+2026-09-27,E1076,IT,www.linkedin.com,174615,38
+2026-09-27,E1080,Finance,www.bloomberg.com,189356,32
+2026-09-27,E1025,HR,copilot.microsoft.com,526776,10
+2026-09-27,E1002,Operations,www.google.com,199059,23
+2026-09-27,E1004,Compliance,www.bloomberg.com,299144,4
+2026-09-27,E1069,Compliance,www.qcb.gov.qa,124812,12
+2026-09-27,E1043,SME Lending,www.bloomberg.com,59885,31
+2026-09-27,E1081,HR,sharepoint.com,355220,30
+2026-09-27,E1097,Marketing,www.linkedin.com,282859,20
+2026-09-27,E1043,SME Lending,teams.microsoft.com,59341,20
+2026-09-27,E1049,SME Lending,sharepoint.com,162650,29
+2026-09-27,E1062,HR,teams.microsoft.com,369494,37
+2026-09-27,E1086,Marketing,sharepoint.com,70694,22
+2026-09-27,E1073,Operations,www.bbc.com,393316,15
+2026-09-27,E1068,Retail,chatgpt.com,196143,13
+2026-09-27,E1056,IT,claude.ai,282439,2
+2026-09-27,E1040,Operations,www.google.com,5413,1
+2026-09-27,E1049,SME Lending,www.bloomberg.com,175538,34
+2026-09-27,E1101,Finance,sharepoint.com,100714,26
+2026-09-27,E1021,HR,otter.ai,517060,13
+2026-09-27,E1058,Operations,github.com,15339,4
+2026-09-27,E1069,Compliance,outlook.office365.com,334907,21
+2026-09-27,E1056,IT,www.linkedin.com,257660,27
+2026-09-27,E1015,Compliance,www.linkedin.com,112485,30
+2026-09-28,E1011,SME Lending,www.qcb.gov.qa,246511,7
+2026-09-28,E1015,Compliance,www.google.com,272688,30
+2026-09-28,E1055,IT,teams.microsoft.com,69354,9
+2026-09-28,E1057,Compliance,www.google.com,85827,7
+2026-09-28,E1094,SME Lending,chatgpt.com,291688,36
+2026-09-28,E1026,Compliance,teams.microsoft.com,110602,40
+2026-09-28,E1088,IT,teams.microsoft.com,351361,2
+2026-09-28,E1038,Marketing,outlook.office365.com,288208,21
+2026-09-28,E1075,Compliance,www.google.com,303053,7
+2026-09-28,E1005,HR,outlook.office365.com,39057,23
+2026-09-28,E1055,IT,www.qcb.gov.qa,310415,26
+2026-09-28,E1077,Compliance,outlook.office365.com,393391,33
+2026-09-28,E1033,IT,www.qcb.gov.qa,124834,32
+2026-09-28,E1027,IT,www.bbc.com,389646,31
+2026-09-28,E1002,Operations,github.com,247258,38
+2026-09-28,E1077,Compliance,www.deepl.com,460737,47
+2026-09-28,E1069,Compliance,www.perplexity.ai,181708,6
+2026-09-28,E1094,SME Lending,gamma.app,370765,37
+2026-09-28,E1077,Compliance,www.perplexity.ai,238828,20
+2026-09-28,E1015,Compliance,www.bbc.com,370079,10
+2026-09-28,E1046,Operations,www.deepl.com,13901,11
+2026-09-28,E1081,HR,sharepoint.com,339465,13
+2026-09-28,E1111,Finance,www.bloomberg.com,110992,15
+2026-09-28,E1036,Finance,sharepoint.com,103284,36
+2026-09-28,E1056,IT,claude.ai,696299,26
+2026-09-28,E1046,Operations,www.bloomberg.com,310005,12
+2026-09-28,E1069,Compliance,www.deepl.com,362263,53
+2026-09-28,E1105,Operations,www.deepl.com,874310,48
+2026-09-28,E1056,IT,claude.ai,871226,48
+2026-09-28,E1105,Operations,www.deepl.com,392586,30
+2026-09-28,E1075,Compliance,sharepoint.com,5645,33
+2026-09-28,E1033,IT,github.com,89476,4
+2026-09-28,E1035,Retail,sharepoint.com,394970,16
+2026-09-28,E1058,Operations,sharepoint.com,211663,9
+2026-09-28,E1038,Marketing,www.bloomberg.com,205527,7
+2026-09-28,E1061,Compliance,www.bloomberg.com,52379,29
+2026-09-28,E1022,Marketing,www.linkedin.com,5420,8
+2026-09-28,E1068,Retail,gemini.google.com,318869,42
+2026-09-28,E1021,HR,www.bloomberg.com,194948,36
+2026-09-28,E1016,Marketing,www.bbc.com,354729,7
+2026-09-28,E1077,Compliance,outlook.office365.com,72913,27
+2026-09-28,E1008,Marketing,sharepoint.com,220068,34
+2026-09-29,E1016,Marketing,www.linkedin.com,270056,34
+2026-09-29,E1027,IT,claude.ai,243288,33
+2026-09-29,E1113,Operations,sharepoint.com,105052,8
+2026-09-29,E1057,Compliance,copilot.microsoft.com,841503,20
+2026-09-29,E1119,IT,www.qcb.gov.qa,151568,28
+2026-09-29,E1106,IT,www.linkedin.com,304852,29
+2026-09-29,E1007,SME Lending,chatgpt.com,298451,45
+2026-09-29,E1063,Finance,www.linkedin.com,371654,39
+2026-09-29,E1012,Compliance,www.bbc.com,67233,33
+2026-09-29,E1044,Retail,www.google.com,209734,9
+2026-09-29,E1079,Marketing,www.bbc.com,286040,6
+2026-09-29,E1041,IT,claude.ai,461022,29
+2026-09-29,E1094,SME Lending,www.google.com,36975,6
+2026-09-29,E1065,Operations,sharepoint.com,257178,24
+2026-09-29,E1080,Finance,sharepoint.com,355641,2
+2026-09-29,E1054,HR,otter.ai,70093,36
+2026-09-29,E1050,Marketing,sharepoint.com,308316,6
+2026-09-29,E1021,HR,otter.ai,469951,14
+2026-09-29,E1062,HR,www.google.com,230376,36
+2026-09-29,E1044,Retail,www.bbc.com,290143,19
+2026-09-29,E1037,SME Lending,sharepoint.com,198503,4
+2026-09-29,E1088,IT,teams.microsoft.com,275624,9
+2026-09-29,E1104,SME Lending,www.linkedin.com,349542,31
+2026-09-29,E1076,IT,api.openai.com,493897,29
+2026-09-29,E1060,HR,www.bloomberg.com,279871,35
+2026-09-29,E1000,SME Lending,www.qcb.gov.qa,294617,23
+2026-09-29,E1111,Finance,www.bloomberg.com,213525,12
+2026-09-29,E1071,IT,www.bloomberg.com,19187,21
+2026-09-29,E1085,Operations,outlook.office365.com,219878,35
+2026-09-29,E1070,Retail,gemini.google.com,288706,27
+2026-09-29,E1045,Compliance,outlook.office365.com,215830,19
+2026-09-29,E1072,Marketing,gamma.app,34498,28
+2026-09-29,E1071,IT,www.bloomberg.com,108328,9
+2026-09-29,E1065,Operations,www.bloomberg.com,258257,31
+2026-09-29,E1018,Finance,www.qcb.gov.qa,149513,37
+2026-09-29,E1059,SME Lending,outlook.office365.com,82162,3
+2026-09-29,E1068,Retail,gemini.google.com,852823,25
+2026-09-29,E1009,Retail,outlook.office365.com,167649,34
+2026-09-29,E1113,Operations,github.com,87058,32
+2026-09-29,E1087,Marketing,www.qcb.gov.qa,205509,31
+2026-09-29,E1030,Marketing,gamma.app,732729,39
+2026-09-29,E1022,Marketing,www.bbc.com,242561,17
+2026-09-29,E1080,Finance,github.com,271650,12
+2026-09-30,E1070,Retail,www.bbc.com,136294,37
+2026-09-30,E1076,IT,api.openai.com,152551,19
+2026-09-30,E1046,Operations,otter.ai,746031,60
+2026-09-30,E1067,IT,api.openai.com,888982,34
+2026-09-30,E1098,SME Lending,www.google.com,131527,25
+2026-09-30,E1024,Operations,sharepoint.com,76057,34
+2026-09-30,E1068,Retail,sharepoint.com,342678,8
+2026-09-30,E1067,IT,api.openai.com,815894,30
+2026-09-30,E1098,SME Lending,www.bbc.com,85435,33
+2026-09-30,E1105,Operations,outlook.office365.com,390289,27
+2026-09-30,E1016,Marketing,www.google.com,230856,1
+2026-09-30,E1083,HR,outlook.office365.com,342556,20
+2026-09-30,E1046,Operations,outlook.office365.com,342070,3
+2026-09-30,E1028,SME Lending,github.com,107506,13
+2026-09-30,E1036,Finance,www.google.com,314247,4
+2026-09-30,E1046,Operations,www.deepl.com,295418,6
+2026-09-30,E1060,HR,outlook.office365.com,345544,24
+2026-09-30,E1029,SME Lending,github.com,32826,34
+2026-09-30,E1109,Marketing,github.com,345435,30
+2026-09-30,E1047,SME Lending,www.linkedin.com,396756,27
+2026-09-30,E1072,Marketing,www.linkedin.com,330118,35
+2026-09-30,E1075,Compliance,teams.microsoft.com,106870,30
+2026-09-30,E1060,HR,chatgpt.com,516663,29
+2026-09-30,E1035,Retail,github.com,306092,38
+2026-09-30,E1027,IT,www.bloomberg.com,101426,19
+2026-09-30,E1013,Compliance,sharepoint.com,282113,37
+2026-09-30,E1103,Retail,www.linkedin.com,116945,15
+2026-09-30,E1104,SME Lending,www.qcb.gov.qa,57089,21
+2026-09-30,E1076,IT,www.linkedin.com,36412,38
+2026-09-30,E1066,Compliance,sharepoint.com,120938,20
+2026-09-30,E1021,HR,otter.ai,84868,23
+2026-09-30,E1018,Finance,www.bloomberg.com,225206,24
+2026-09-30,E1047,SME Lending,gamma.app,38415,33
+2026-09-30,E1089,Compliance,www.linkedin.com,156948,26
+2026-09-30,E1015,Compliance,www.deepl.com,527387,50
+2026-09-30,E1027,IT,sharepoint.com,19059,35
+2026-09-30,E1094,SME Lending,chatgpt.com,122096,50
+2026-09-30,E1074,SME Lending,www.bbc.com,222166,34
+2026-09-30,E1070,Retail,gemini.google.com,342981,25
