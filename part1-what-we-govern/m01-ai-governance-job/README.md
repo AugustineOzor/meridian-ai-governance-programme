@@ -30,7 +30,6 @@
 3. `scripts/reconcile_inventory.py` adds unapproved tools to `00-inventory/inventory.csv`. It is safe to re-run.
 4. The interview findings and owner assignments were added manually, as they would be in practice.
 
-To run it locally: `pip install -r requirements.txt`, then run the three scripts in order.
 
 ## What I would do at work
 
