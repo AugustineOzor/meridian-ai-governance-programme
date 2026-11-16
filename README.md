@@ -3,7 +3,7 @@
 
 # Meridian Gulf Bank: AI Governance Programme
 
-An hands-on AI governance programme built around one fictional bank, **Meridian Gulf Bank (MGB)**, headquartered in Doha with an EU branch in Dublin. Every module produces a working governance artefact, and all of them build on a single AI inventory that ends as the evidence base for a board paper.
+A hands-on AI governance programme built around one fictional bank, **Meridian Gulf Bank (MGB)**, headquartered in Doha with an EU branch in Dublin. Every module produces a working governance artefact, and all of them build on a single AI inventory that ends as the evidence base for a board paper.
 
 ## The living inventory
 [`00-inventory/inventory.csv`](00-inventory/inventory.csv) · [schema](00-inventory/inventory-schema.md)
