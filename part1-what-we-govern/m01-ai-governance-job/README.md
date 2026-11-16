@@ -1,4 +1,4 @@
-# Module 01: The AI Governance Job
+# Module 01: Finding the AI We Actually Run
 
 **Problem:** Meridian Gulf Bank's AI register listed 9 systems, but nobody knew what AI staff actually used.
 
