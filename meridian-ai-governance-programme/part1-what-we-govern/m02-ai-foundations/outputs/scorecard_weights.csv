@@ -1,0 +1,11 @@
+feature,learned_weight,effect
+(starting score / intercept),-2.177,baseline
+years_trading,-0.093,lowers risk
+missed_payments_24m,0.837,raises risk
+loan_to_profit_ratio,0.222,raises risk
+collateral_pledged,-0.751,lowers risk
+sector = Hospitality,-0.155,lowers risk
+sector = Logistics,-0.474,lowers risk
+sector = Professional services,-0.911,lowers risk
+sector = Retail,-0.236,lowers risk
+sector = Trading,-0.358,lowers risk

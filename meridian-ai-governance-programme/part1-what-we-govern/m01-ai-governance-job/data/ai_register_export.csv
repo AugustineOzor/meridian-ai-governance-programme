@@ -1,0 +1,10 @@
+register_id,system_name,business_unit,vendor,status
+AI-001,SME credit scoring model,SME Lending,,production
+AI-002,AML transaction monitoring,Compliance,FinGuard Analytics (fictional),production
+AI-003,Customer chatbot "Sahm",Retail,ConverseAI (fictional),production
+AI-004,Card fraud detection,Operations,SecurePay Labs (fictional),production
+AI-005,Microsoft 365 Copilot,All,Microsoft,pilot
+AI-006,CV screening in applicant tracking system,HR,TalentFlow (fictional),production
+AI-007,CRM next-best-offer engine,Marketing,CustomerSphere (fictional),production
+AI-008,KYC ID document verification,Retail,VeriDoc (fictional),production
+AI-009,Collections propensity model,Retail,,pilot

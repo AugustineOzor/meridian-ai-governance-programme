@@ -1,0 +1,23 @@
+system_id,output_type,algorithm_family,explainability,basis
+AI-001,classification,linear,high,Logistic regression scorecard built in-house (Week 2); weights readable directly
+AI-002,anomaly_detection,not_disclosed,medium,Rules engine is readable; vendor anomaly score is not disclosed
+AI-003,generation,neural_network,low,Large language model licensed by vendor; internal reasoning not readable
+AI-004,classification,not_disclosed,unknown,Vendor describes a proprietary ML model; family not disclosed
+AI-005,generation,neural_network,low,Microsoft-hosted large language models
+AI-006,ranking,not_disclosed,unknown,Vendor has not provided model documentation
+AI-007,ranking,not_disclosed,unknown,AI feature enabled by vendor release; method not documented
+AI-008,classification,neural_network,low,OCR and face-matching deep networks; pre-trained then fine-tuned on ID documents
+AI-009,classification,ensemble,medium,Gradient boosting built in-house; needs SHAP-type tools to explain
+AI-010,generation,neural_network,low,Consumer large language model
+AI-011,generation,neural_network,low,Consumer large language model
+AI-012,generation,neural_network,low,Presentation generator on undisclosed generative models
+AI-013,generation,neural_network,low,Neural machine translation
+AI-014,generation,neural_network,low,Speech-to-text and summarisation models
+AI-015,generation,neural_network,low,Search plus large language models
+AI-016,generation,neural_network,low,Large language models called via API from team scripts
+AI-017,generation,neural_network,low,Speech-to-text and summarisation models
+AI-018,generation,neural_network,low,Consumer large language model
+AI-019,mixed,mixed,unknown,Repository of many open-source models; depends on what is downloaded
+AI-020,generation,neural_network,low,Image generation model
+AI-021,regression,not_disclosed,unknown,Vendor forecasting feature; method not described
+AI-022,classification,neural_network,low,Open-source transformer sentiment model

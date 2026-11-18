@@ -1,0 +1,3 @@
+owner_group,loans,actual_default_rate,mean_predicted,approve_rate,collateral_rate
+A,2551,0.091,0.087,0.643,0.615
+B,1032,0.086,0.095,0.584,0.396

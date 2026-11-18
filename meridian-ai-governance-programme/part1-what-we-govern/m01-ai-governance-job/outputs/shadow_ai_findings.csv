@@ -1,0 +1,13 @@
+tool,vendor,category,ai_type,approval_status,register_id,distinct_users,departments,expense_claims,spend_qar,proxy_requests,upload_mb,first_seen,last_seen,discovered_via,priority
+ChatGPT (consumer),OpenAI,public_chatbot,generative,unapproved,,27,"Finance, HR, Marketing, Retail, SME Lending",4,283.43,2526,41.0,2026-07-01,2026-09-30,expense_scan+proxy_scan,High
+Claude (consumer),Anthropic,public_chatbot,generative,unapproved,,14,"Compliance, IT",0,0.0,2867,44.6,2026-07-01,2026-09-29,proxy_scan,High
+Gamma,Gamma Tech,presentation_ai,generative,unapproved,,14,"Marketing, SME Lending",7,293.17,4196,57.1,2026-07-01,2026-09-30,expense_scan+proxy_scan,High
+DeepL,DeepL SE,translation,predictive_ml,unapproved,,11,"Compliance, Operations",6,221.35,3233,53.0,2026-07-01,2026-09-30,expense_scan+proxy_scan,High
+Otter.ai,Otter.ai,meeting_notetaker,generative,unapproved,,9,"HR, Operations",3,210.13,4383,64.9,2026-07-01,2026-09-30,expense_scan+proxy_scan,High
+Perplexity,Perplexity AI,ai_search,generative,unapproved,,8,"Compliance, Finance",3,238.88,2658,36.3,2026-07-03,2026-09-28,expense_scan+proxy_scan,High
+OpenAI API (direct),OpenAI,model_api,generative,unapproved,,7,IT,3,1276.0,1979,31.2,2026-07-01,2026-09-30,expense_scan+proxy_scan,High
+Fireflies.ai,Fireflies.ai,meeting_notetaker,generative,unapproved,,6,"Compliance, Retail",7,513.81,0,0.0,2026-07-07,2026-09-23,expense_scan,High
+Gemini (consumer),Google,public_chatbot,generative,unapproved,,11,"Operations, Retail",0,0.0,4447,67.9,2026-07-01,2026-09-30,proxy_scan,Medium
+Hugging Face Hub,Hugging Face,model_repository,hybrid,unapproved,,7,IT,0,0.0,1687,31.0,2026-07-01,2026-09-27,proxy_scan,Medium
+Midjourney,Midjourney,image_generation,generative,unapproved,,3,Marketing,3,112.66,0,0.0,2026-07-18,2026-08-29,expense_scan,Medium
+Microsoft 365 Copilot,Microsoft,productivity_assistant,generative,approved,AI-005,41,"Compliance, Finance, HR, IT, Marketing, Operations, Retail, SME Lending",0,0.0,2814,44.2,2026-07-02,2026-09-29,proxy_scan,Low

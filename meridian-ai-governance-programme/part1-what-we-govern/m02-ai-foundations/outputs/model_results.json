@@ -1,0 +1,63 @@
+{
+  "rows": {
+    "train_2019_2023": 13880,
+    "test_2024": 3583
+  },
+  "default_rate_test": 0.0896,
+  "leakage": {
+    "auc_with_leaky_feature": 0.989,
+    "auc_without": 0.787
+  },
+  "logistic": {
+    "auc_train": 0.747,
+    "auc_test_2024": 0.787
+  },
+  "deep_tree": {
+    "auc_train": 1.0,
+    "auc_test_2024": 0.54
+  },
+  "policies": {
+    "Current policy (approve <8%, refer 8-20%, decline >20%)": {
+      "approve": 2243,
+      "refer": 995,
+      "decline": 345
+    },
+    "Growth push (approve <20%, decline >20%)": {
+      "approve": 3238,
+      "refer": 0,
+      "decline": 345
+    }
+  },
+  "accuracy_trap": {
+    "never_default_baseline": {
+      "accuracy": 0.91,
+      "recall": 0.0
+    },
+    "model_at_20pct": {
+      "accuracy": 0.879,
+      "recall": 0.361,
+      "precision": 0.336
+    }
+  },
+  "outcomes_by_group": {
+    "A": {
+      "loans": 2551,
+      "actual_default_rate": 0.091,
+      "mean_predicted": 0.087,
+      "approve_rate": 0.643,
+      "collateral_rate": 0.615
+    },
+    "B": {
+      "loans": 1032,
+      "actual_default_rate": 0.086,
+      "mean_predicted": 0.095,
+      "approve_rate": 0.584,
+      "collateral_rate": 0.396
+    }
+  },
+  "impact_ratio_approval_B_vs_A": 0.91,
+  "missing_outcomes_hospitality": {
+    "loans_2019_2021": 86,
+    "loans_2022_2024": 827
+  }
+}

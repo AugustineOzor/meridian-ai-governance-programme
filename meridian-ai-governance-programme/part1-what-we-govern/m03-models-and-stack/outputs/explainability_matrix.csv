@@ -1,0 +1,23 @@
+system_id,system_name,output_type,algorithm_family,explainability,decision_impact,affected_parties,approval_status,explanation_gap
+AI-004,Card fraud detection,classification,not_disclosed,unknown,decides,customers,approved,True
+AI-006,CV screening in applicant tracking system,ranking,not_disclosed,unknown,recommends,candidates,approved,True
+AI-007,CRM next-best-offer engine,ranking,not_disclosed,unknown,decides,customers,approved,True
+AI-008,KYC ID document verification,classification,neural_network,low,recommends,applicants,approved,True
+AI-022,Adverse-media sentiment screening,classification,neural_network,low,recommends,customers,unapproved,True
+AI-001,SME credit scoring model,classification,linear,high,recommends,applicants,approved,False
+AI-002,AML transaction monitoring,anomaly_detection,not_disclosed,medium,recommends,customers,approved,False
+AI-003,"Customer chatbot ""Sahm""",generation,neural_network,low,informs,customers,approved,False
+AI-005,Microsoft 365 Copilot,generation,neural_network,low,informs,employees;customers,approved,False
+AI-009,Collections propensity model,classification,ensemble,medium,recommends,customers,approved,False
+AI-010,ChatGPT (consumer),generation,neural_network,low,informs,customers;employees;candidates,unapproved,False
+AI-011,Claude (consumer),generation,neural_network,low,informs,customers;employees,unapproved,False
+AI-012,Gamma,generation,neural_network,low,informs,customers,unapproved,False
+AI-013,DeepL,generation,neural_network,low,informs,customers;employees,unapproved,False
+AI-014,Otter.ai,generation,neural_network,low,informs,employees;candidates,unapproved,False
+AI-015,Perplexity,generation,neural_network,low,informs,employees,unapproved,False
+AI-016,OpenAI API (direct),generation,neural_network,low,informs,customers,unapproved,False
+AI-017,Fireflies.ai,generation,neural_network,low,informs,customers;employees,unapproved,False
+AI-018,Gemini (consumer),generation,neural_network,low,informs,customers;employees,unapproved,False
+AI-019,Hugging Face Hub,mixed,mixed,unknown,informs,customers,unapproved,False
+AI-020,Midjourney,generation,neural_network,low,informs,public,unapproved,False
+AI-021,FP&A AI forecasting,regression,not_disclosed,unknown,informs,employees,unapproved,False
