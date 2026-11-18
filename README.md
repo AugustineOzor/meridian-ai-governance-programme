@@ -1,8 +1,9 @@
-![Meridian Gulf Bank AI Governance Programme](assets/repo-banner.jpg)
+<img width="1280" height="400" alt="repo-banner" src="https://github.com/user-attachments/assets/cefd8be5-2669-4831-8b75-379cc8f792bd" />
+
 
 # Meridian Gulf Bank: AI Governance Programme
 
-A 19-week, hands-on AI governance programme built around one fictional bank, **Meridian Gulf Bank (MGB)**, headquartered in Doha with an EU branch in Dublin. Every module produces a working governance artefact, and all of them build on a single AI inventory that ends as the evidence base for a board paper.
+A hands-on AI governance programme built around one fictional bank, **Meridian Gulf Bank (MGB)**, headquartered in Doha with an EU branch in Dublin. Every module produces a working governance artefact, and all of them build on a single AI inventory that ends as the evidence base for a board paper.
 
 **Author:** Augustine Ozor, AI Governance & Cybersecurity GRC · [LinkedIn](https://linkedin.com/in/augustinetettehozor)
 
