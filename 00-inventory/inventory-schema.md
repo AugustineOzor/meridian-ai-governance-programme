@@ -23,6 +23,10 @@
 | discovered_via | register; expense_scan; proxy_scan; interview | How did we find it? |
 | upstream_evidence_gap | Free text or blank | What can't we verify? |
 | last_reviewed | YYYY-MM-DD | Is this entry still current? |
+| output_type | classification, regression, ranking, anomaly_detection, generation, mixed | What does it produce, and so what should we test? (Week 3) |
+| algorithm_family | linear, tree, ensemble, neural_network, mixed, not_disclosed | How does it learn? (Week 3) |
+| explainability | high, medium, low, unknown | Can we explain an individual output? (Week 3) |
+| fact_sheet | Path to fact sheet, or blank | Where is the full system record? (Week 3) |
 
 ## Rules
 1. Use controlled values only, so the inventory can be filtered, counted and charted.
@@ -34,3 +38,4 @@
 | Version | Date | Change |
 | --- | --- | --- |
 | 1.0 | 2026-11-09 | Initial schema |
+| 1.1 | 2026-11-18 | Added output_type, algorithm_family, explainability, fact_sheet (Week 3) |
