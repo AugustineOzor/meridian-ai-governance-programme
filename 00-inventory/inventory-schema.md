@@ -9,7 +9,7 @@
 | business_owner | Role title | Who answers for its outcomes? |
 | technical_owner | Role title or vendor | Who can change it? |
 | lifecycle_status | proposed, pilot, production, retired | Is it live? |
-| approval_status | approved, unapproved, to_confirm | Did anyone sanction it? |
+| approval_status | approved, unapproved, to_confirm, pending_review | Did anyone sanction it? |
 | source | built, bought, embedded, open_source | How did we get it? |
 | vendor | Name or blank | Who supplies it? |
 | upstream_model | Model/provider, or `unknown` | What sits underneath? |
@@ -17,13 +17,13 @@
 | value_chain_role | builder, deployer, builder+deployer | Which of our obligations apply? |
 | role_change_risk | Y / N | Could we become the provider (EU AI Act Art. 25)? |
 | decision_impact | informs, recommends, decides | How close is it to a final decision? |
-| affected_parties | customers; applicants; employees; candidates; public | Who could be harmed? |
+| affected_parties | customers; applicants; employees; candidates; suppliers; public | Who could be harmed? |
 | personal_data | Y / N / to_confirm | Does data protection law apply? |
 | jurisdictions | ISO country codes, plus EU (semicolon-separated) | Which laws might apply? |
-| discovered_via | register; expense_scan; proxy_scan; interview | How did we find it? |
+| discovered_via | register; expense_scan; proxy_scan; interview; intake | How did we find it? |
 | upstream_evidence_gap | Free text or blank | What can't we verify? |
 | last_reviewed | YYYY-MM-DD | Is this entry still current? |
-| output_type | classification, regression, ranking, anomaly_detection, generation, mixed | What does it produce, and so what should we test? (Week 3) |
+| output_type | classification, regression, ranking, anomaly_detection, generation, action, mixed | What does it produce, and so what should we test? (Week 3) |
 | algorithm_family | linear, tree, ensemble, neural_network, mixed, not_disclosed | How does it learn? (Week 3) |
 | explainability | high, medium, low, unknown | Can we explain an individual output? (Week 3) |
 | fact_sheet | Path to fact sheet, or blank | Where is the full system record? (Week 3) |
@@ -39,3 +39,4 @@
 | --- | --- | --- |
 | 1.0 | 2026-11-09 | Initial schema |
 | 1.1 | 2026-11-18 | Added output_type, algorithm_family, explainability, fact_sheet (Week 3) |
+| 1.2 | 2026-11-26 | Added values: approval_status pending_review; affected_parties suppliers; discovered_via intake; output_type action (Week 4) |

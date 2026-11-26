@@ -26,6 +26,7 @@ FACT_SHEETS = {
     "AI-001": "part1-what-we-govern/m03-models-and-stack/fact-sheets/AI-001-sme-credit-model.md",
     "AI-003": "part1-what-we-govern/m03-models-and-stack/fact-sheets/AI-003-customer-chatbot.md",
     "AI-008": "part1-what-we-govern/m03-models-and-stack/fact-sheets/AI-008-kyc-id-verification.md",
+    "AI-023": "part1-what-we-govern/m04-genai-and-agents/agent-risk-sheet.md",
 }
 NEW_COLS = ["output_type", "algorithm_family", "explainability", "fact_sheet"]
 PEOPLE = {"customers", "applicants", "candidates", "employees"}

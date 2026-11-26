@@ -21,3 +21,4 @@ AI-019,mixed,mixed,unknown,Repository of many open-source models; depends on wha
 AI-020,generation,neural_network,low,Image generation model
 AI-021,regression,not_disclosed,unknown,Vendor forecasting feature; method not described
 AI-022,classification,neural_network,low,Open-source transformer sentiment model
+AI-023,action,neural_network,low,Proposed LLM agent that drafts payments through tools (Week 4)
