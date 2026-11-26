@@ -1,4 +1,4 @@
-![Meridian Gulf Bank AI Governance Programme](assets/repo-banner.jpg)
+<img width="1280" height="400" alt="repo-banner" src="https://github.com/user-attachments/assets/6c8d14fc-3f74-4e18-8571-5d642b677862" />
 
 # Meridian Gulf Bank: AI Governance Programme
 
